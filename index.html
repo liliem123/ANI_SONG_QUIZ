@@ -1,0 +1,113 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>NAMU OP/ED QUIZ v1</title>
+  <link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<main>
+  <header>
+    <div>
+      <h1>NAMU OP/ED QUIZ <small>v1.7</small></h1>
+      <p>애니 제목 + 곡명을 맞혀보세요. 각각 1점, 한 문제 최대 2점.</p>
+    </div>
+    <div class="score"><b id="score">0</b><span>점</span></div>
+  </header>
+
+  <section class="card" id="empty" hidden>
+    <h2>출제 가능한 데이터가 없습니다.</h2>
+    <p>먼저 <code>test_collect.bat</code>을 실행하거나 <code>data/quiz.sample.json</code>의 videoId를 실제 YouTube ID로 채워주세요.</p>
+  </section>
+
+  <section class="card" id="game" hidden>
+    <div class="meta">
+      <span id="progress"></span>
+      <strong id="type"></strong>
+    </div>
+
+    <div class="youtube-stage" id="youtubeStage">
+      <div class="youtube-caption">
+        <div>
+          <b>음악 듣기</b>
+          <span>정답 공개 전에는 영상 화면을 숨기고 소리만 재생합니다.</span>
+        </div>
+        <span id="playerStatus">YouTube API 로딩 중...</span>
+      </div>
+
+      <div class="youtube-visual-shell" id="youtubeVisualShell">
+        <div class="video-curtain" id="videoCurtain">
+          <div class="musicmark">♪</div>
+          <b>영상은 정답 공개 후 표시됩니다</b>
+          <span id="candidateText">YouTube 후보 준비 중...</span>
+        </div>
+        <div class="youtube-compact" id="youtubeCompact">
+          <div id="player"></div>
+        </div>
+      </div>
+
+      <div class="player-tools">
+        <button id="audioPlay" type="button">▶ 재생</button>
+        <button id="audioPause" type="button">⏸ 일시정지</button>
+        <button id="audioRestart" type="button">↺ 처음부터</button>
+        <button id="skipBlocked" type="button" class="danger">이 영상 제외</button>
+
+        <label>볼륨
+          <input id="volume" type="range" min="0" max="100" value="70">
+        </label>
+      </div>
+
+      <div class="youtube-note">
+        100/101/150 오류가 나면 같은 곡의 다음 YouTube 후보로 자동 전환합니다.
+        <span id="diag"></span>
+      </div>
+    </div>
+
+    <div class="answers">
+      <label>애니메이션 제목 <span>+1점</span></label>
+      <div class="inputrow">
+        <input id="animeInput" list="animeList" autocomplete="off" placeholder="애니 제목 입력">
+        <button data-check="anime">확인</button>
+      </div>
+      <div class="feedback" id="animeFeedback"></div>
+
+      <label>곡 제목 <span>+1점</span></label>
+      <div class="inputrow">
+        <input id="songInput" list="songList" autocomplete="off" placeholder="OP/ED 곡명 입력">
+        <button data-check="song">확인</button>
+      </div>
+      <div class="feedback" id="songFeedback"></div>
+    </div>
+
+    <datalist id="animeList"></datalist>
+    <datalist id="songList"></datalist>
+
+    <div class="hintline">
+      <button class="ghost" id="vocalHint">보컬 힌트 보기</button>
+      <span id="vocalHintText"></span>
+    </div>
+
+    <div class="actions">
+      <button class="ghost" id="reveal">정답 공개</button>
+      <button class="primary" id="next" disabled>다음 문제</button>
+    </div>
+
+    <div class="answerbox" id="answerbox" hidden>
+      <div><span>작품</span><b id="answerAnime"></b></div>
+      <div><span>곡</span><b id="answerSong"></b></div>
+      <div><span>보컬</span><b id="answerVocal"></b></div>
+    </div>
+  </section>
+
+  <section class="card completion-card" id="complete" hidden>
+    <h2>퀴즈 완료!</h2>
+    <p>모든 문제를 완료했습니다.</p>
+    <div class="completion-score"><b id="finalScore">0</b><span id="finalMax"> / 0점</span></div>
+    <button id="restartQuiz" class="primary completion-restart" type="button">처음부터 다시 하기</button>
+  </section>
+
+</main>
+<script src="./app.js?v=17"></script>
+</body>
+</html>
