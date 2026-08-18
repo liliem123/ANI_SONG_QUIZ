@@ -25,13 +25,13 @@ function setCandidateText(text){$("#candidateText").textContent=text||"";}
 
 function getBlockedMap(){
   try{
-    const raw=localStorage.getItem("aniSongBlockedVideosV19");
+    const raw=localStorage.getItem("aniSongBlockedVideosV192");
     const obj=raw?JSON.parse(raw):{};
     return obj&&typeof obj==="object"?obj:{};
   }catch(e){return {};}
 }
 function saveBlockedMap(obj){
-  try{localStorage.setItem("aniSongBlockedVideosV19",JSON.stringify(obj));}catch(e){}
+  try{localStorage.setItem("aniSongBlockedVideosV192",JSON.stringify(obj));}catch(e){}
 }
 async function blockCandidate(videoId,errorCode,reason){
   const q=current();
@@ -42,11 +42,24 @@ async function blockCandidate(videoId,errorCode,reason){
 }
 function applyLocalBlocked(items){
   const blocked=getBlockedMap();
-  return items.map(x=>{
-    const raw=(Array.isArray(x.videoIds)&&x.videoIds.length)?x.videoIds:(x.videoId?[x.videoId]:[]);
-    const ids=raw.filter(v=>v&&!blocked[v]);
+
+  return (Array.isArray(items) ? items : []).map(x=>{
+    const raw=(Array.isArray(x.videoIds)&&x.videoIds.length)
+      ? [...new Set(x.videoIds.filter(Boolean))]
+      : (x.videoId ? [x.videoId] : []);
+
+    if(!raw.length){
+      return {...x,videoIds:[],videoId:""};
+    }
+
+    const unblocked=raw.filter(v=>!blocked[v]);
+
+    // 예전 버전에서 모든 후보가 blocked 처리됐더라도
+    // 문제 자체를 삭제하지 않고 원본 후보로 다시 시도한다.
+    const ids=unblocked.length ? unblocked : raw;
+
     return {...x,videoIds:ids,videoId:ids[0]||""};
-  }).filter(x=>x.videoId);
+  }).filter(x=>(x.videoIds&&x.videoIds.length)||x.videoId);
 }
 
 function injectYouTubeAPI(){
@@ -368,12 +381,14 @@ $("#yearSelect").onchange=e=>{
   if(selectedMode==="year")applyMode();
 };
 
-fetch("./data/quiz.json")
+fetch(`./data/quiz.json?v=${Date.now()}`, {cache:"no-store"})
   .then(r=>r.json())
   .then(xs=>{
     allData=applyLocalBlocked(xs);
     if(!allData.length){
       $("#empty").hidden=false;
+      $("#empty h2").textContent="출제할 문제가 없습니다.";
+      $("#empty p").textContent="quiz.json은 불러왔지만 videoId/videoIds가 있는 문제가 없습니다.";
       return;
     }
     buildYearOptions();
