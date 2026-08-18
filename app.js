@@ -191,11 +191,12 @@ function loadQuestion(){
   $("#vocalHintText").textContent="";
   $("#vocalHint").disabled=false;
 
-  $("#answerAnime").textContent=q.anime||"-";
-  $("#answerSong").textContent=q.song||"-";
-  $("#answerVocal").textContent=q.vocal||"-";
-  $("#answerYear").textContent=q.year||"-";
-  setAnswerImage(q.image||"");
+  // 정답 공개 전에는 나무위키 대표 이미지/정답 정보를 DOM에 미리 넣지 않는다.
+  $("#answerAnime").textContent="";
+  $("#answerSong").textContent="";
+  $("#answerVocal").textContent="";
+  $("#answerYear").textContent="";
+  setAnswerImage("");
 
   setRevealedUI(false);
   setupCandidates(q);
@@ -204,6 +205,16 @@ function loadQuestion(){
 
 function expose(){
   state.revealed=true;
+  const q=current();
+
+  // 작품/곡을 모두 맞히거나 '정답 공개'를 눌렀을 때만
+  // 나무위키 대표 이미지와 정답 정보를 표시한다.
+  $("#answerAnime").textContent=q.anime||"-";
+  $("#answerSong").textContent=q.song||"-";
+  $("#answerVocal").textContent=q.vocal||"-";
+  $("#answerYear").textContent=q.year||"-";
+  setAnswerImage(q.image||"");
+
   $("#answerbox").hidden=false;
   $("#next").disabled=false;
   setRevealedUI(true);
