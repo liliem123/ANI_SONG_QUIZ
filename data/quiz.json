@@ -5,7 +5,9 @@
     "song": "Make My Day!",
     "vocal": "피코",
     "videoId": "",
-    "source": "provided HTML"
+    "source": "provided HTML",
+    "videoIds": [],
+    "image": ""
   },
   {
     "anime": "가난뱅이 신이!",
@@ -13,6 +15,4450 @@
     "song": "恋暴動",
     "vocal": "HAPPY BIRTHDAY",
     "videoId": "",
-    "source": "provided HTML"
+    "source": "provided HTML",
+    "videoIds": [],
+    "image": ""
+  },
+  {
+    "anime": "아이돌 천사 어서오세요 요우코",
+    "type": "OP",
+    "song": "陽春のパッセージ",
+    "vocal": "타나카 요코(田中陽子)",
+    "videoId": "GfIqv5JRN_k",
+    "videoIds": [
+      "GfIqv5JRN_k",
+      "m_JnN_bLzDI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=GfIqv5JRN_k",
+    "source": "https://namu.wiki/w/%EC%95%84%EC%9D%B4%EB%8F%8C%20%EC%B2%9C%EC%82%AC%20%EC%96%B4%EC%84%9C%EC%98%A4%EC%84%B8%EC%9A%94%20%EC%9A%94%EC%9A%B0%EC%BD%94",
+    "year": 1990,
+    "image": "//i.namu.wiki/i/mJAivC2s5PLtrHjj4yTT1ou2Eg_ouUuD3lNMwoM5dKeY4OUjVKMKiSRWhMfFKlm7mpbBTKZsTiB31OYAJIgrlJeekI05nxTeLGed1NUP2Q3FHrOUa7fCk_e5hPFE8S9KO6wDAmxq3ntOhFtm6dRfEg.webp"
+  },
+  {
+    "anime": "학원 앨리스/애니메이션",
+    "type": "OP",
+    "song": "ピカピカの太陽 반짝이는 태양",
+    "vocal": "사쿠라 미캉 ( 우에다 카나 ) 이용신",
+    "videoId": "ljdPRlN9g_Y",
+    "videoIds": [
+      "ljdPRlN9g_Y",
+      "Tp1-RR6b6qI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ljdPRlN9g_Y",
+    "source": "https://namu.wiki/w/%ED%95%99%EC%9B%90%20%EC%95%A8%EB%A6%AC%EC%8A%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2004,
+    "image": "//i.namu.wiki/i/SvDo7w2seIoyJlJkg17S5ssS6biHfTvNvo_OP3Oyioi3uSsRcTlif1ahLQnure2FKZY6o51uYCEvkfYvMGeishgpMDhyquGCd13F62olLdP1n2gJcRPO4ZgVgWFb2Ao0Ob_1rctGFMUf75nnG2NXbg.webp"
+  },
+  {
+    "anime": "침략!? 오징어 소녀",
+    "type": "OP",
+    "song": "HIGH POWERED",
+    "vocal": "스피어 박나연 , 이정은",
+    "videoId": "lu4_lZZTqas",
+    "videoIds": [
+      "lu4_lZZTqas"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=lu4_lZZTqas",
+    "source": "https://namu.wiki/w/%EC%B9%A8%EB%9E%B5!%3F%20%EC%98%A4%EC%A7%95%EC%96%B4%20%EC%86%8C%EB%85%80",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/MxdPOMbCwPoqHr9YLfVd0GFraTMDv3fYreY6QS6SO9Z5rjkVzXDBWWSVf0pjxU3QMPJLePKlJ3RvZ7y093Z4pKS-KZZBEMVJR5sEbXTTT0lfghGfhTrT7isOa79MQEiEyeEeSgEQq4u7ei9MOWtI1Q.webp"
+  },
+  {
+    "anime": "드래곤 크라이시스!/애니메이션",
+    "type": "OP",
+    "song": "インモラリスト",
+    "vocal": "호리에 유이 [1]",
+    "videoId": "h-Mp0i8xJ-Q",
+    "videoIds": [
+      "h-Mp0i8xJ-Q"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=h-Mp0i8xJ-Q",
+    "source": "https://namu.wiki/w/%EB%93%9C%EB%9E%98%EA%B3%A4%20%ED%81%AC%EB%9D%BC%EC%9D%B4%EC%8B%9C%EC%8A%A4!/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/toMwuY570BnTInmuj14YJGAm4FvxcF2We4QsibivjVy8YQW9ltBHJH7ntcb-65XbUDWtDRXcmjaHnWyNUcdtwerthg7PPkAUDia7ttg_yQrbhkppJDrI-Qko99SQFATj04-cv4Ak-v_zcldpLxvj4g.webp"
+  },
+  {
+    "anime": "드래곤 크라이시스!/애니메이션",
+    "type": "ED",
+    "song": "ミライボウル",
+    "vocal": "모모이로 클로버 Z",
+    "videoId": "v9hYy7MAxDY",
+    "videoIds": [
+      "v9hYy7MAxDY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=v9hYy7MAxDY",
+    "source": "https://namu.wiki/w/%EB%93%9C%EB%9E%98%EA%B3%A4%20%ED%81%AC%EB%9D%BC%EC%9D%B4%EC%8B%9C%EC%8A%A4!/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/toMwuY570BnTInmuj14YJGAm4FvxcF2We4QsibivjVy8YQW9ltBHJH7ntcb-65XbUDWtDRXcmjaHnWyNUcdtwerthg7PPkAUDia7ttg_yQrbhkppJDrI-Qko99SQFATj04-cv4Ak-v_zcldpLxvj4g.webp"
+  },
+  {
+    "anime": "미라클 소녀 리미트",
+    "type": "OP",
+    "song": "幸わせを呼ぶリミットちゃん 행복을 부르는 리미트짱",
+    "vocal": "오오스기 쿠미코(大杉久美子) 영 프레시(ヤング・フレッシュ)",
+    "videoId": "J5emhgO6KKk",
+    "videoIds": [
+      "J5emhgO6KKk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=J5emhgO6KKk",
+    "source": "https://namu.wiki/w/%EB%AF%B8%EB%9D%BC%ED%81%B4%20%EC%86%8C%EB%85%80%20%EB%A6%AC%EB%AF%B8%ED%8A%B8",
+    "year": 1973,
+    "image": "//i.namu.wiki/i/kglo0ZBOUQrzXCviDUdj4CQ5JIIjzkjmeBN2a8yYnfzTE5Km8js8EwSEL3TqF2iM5jGVMwYSQsvgf3eeMgRma7s2-eiVDs49igTywCFs2sYZmj2l4LwJvOcm9gheJx8peTm2SYh1VLTcfXRwWgighw.webp"
+  },
+  {
+    "anime": "명랑 개구리 뽕키치(애니메이션)",
+    "type": "OP",
+    "song": "ど根性ガエル 번역명 번안명",
+    "vocal": "이시카와 스스무(石川 進) 도쿄 아라카와 소년 소녀 합창대 (東京荒川少年少女合唱隊)",
+    "videoId": "YQhR5oxoEZk",
+    "videoIds": [
+      "YQhR5oxoEZk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=YQhR5oxoEZk",
+    "source": "https://namu.wiki/w/%EB%AA%85%EB%9E%91%20%EA%B0%9C%EA%B5%AC%EB%A6%AC%20%EB%BD%95%ED%82%A4%EC%B9%98(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)",
+    "year": 1972,
+    "image": "//i.namu.wiki/i/TlQGXKWLa7Xq0HB3BFH04mai7k_d9kN4Hz3DlCdLqHCyJiYHhLQB-6kUKh1Pp5a7RBfWrylnjH1mgRp89LlgihTtViO-QQT95tDhQyDy4C75R_rULttkEZHnmS3Ulnog95wE1TT6YHtS_Iq63Ma25A.webp"
+  },
+  {
+    "anime": "아르젠토 소마",
+    "type": "OP",
+    "song": "Silent Wind",
+    "vocal": "스가이 에리(菅井えり)",
+    "videoId": "k8jUMewhLRI",
+    "videoIds": [
+      "k8jUMewhLRI",
+      "6NRlXhNb9PY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=k8jUMewhLRI",
+    "source": "https://namu.wiki/w/%EC%95%84%EB%A5%B4%EC%A0%A0%ED%86%A0%20%EC%86%8C%EB%A7%88",
+    "year": 2000,
+    "image": "//i.namu.wiki/i/NkLKbRTxpZ8CDW49pLjVVFHyzTXP5VxN8143Gf-UFVnrgdg3-7cDXhQm8Q14HUq-mU17Hu4UNltVhuCeQRGCqBAye5GfiXIObrZuM7y65XCsAgTz4Mnkx9FowXwvZnNe3pVNAQeJ1ipvY_mbh9fOGg.webp"
+  },
+  {
+    "anime": "케메코 딜럭스!",
+    "type": "OP",
+    "song": "ケメコデラックス! 케메코 딜럭스!",
+    "vocal": "케메코와 딜럭스 사이토 치와 토마츠 하루카 타카하시 미카코 쿠기미야 리에 시라이시 료코 카와스미 아야코 고토 마이",
+    "videoId": "uF9JlvuiTDA",
+    "videoIds": [
+      "uF9JlvuiTDA",
+      "67T52u4aVNU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=uF9JlvuiTDA",
+    "source": "https://namu.wiki/w/%EC%BC%80%EB%A9%94%EC%BD%94%20%EB%94%94%EB%9F%AD%EC%8A%A4!",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/N8yGBwI_CdQxHEZmkgZt2e5_Wwyid686rZubMFJ1xoI-xYq3_njUpj8wAh0l7YSaEGbc5GPzv_90b9Fev5r5XKIoTi8yhFKAM1KP0sVva0Moj-S0QFBPTva6pGeXF2i6ecLJAs69-33g0itFdaT6Rw.webp"
+  },
+  {
+    "anime": "동화총사 아카즈킨",
+    "type": "OP",
+    "song": "Ever-Never-Land",
+    "vocal": "타무라 유카리",
+    "videoId": "6DzkK2i--gw",
+    "videoIds": [
+      "6DzkK2i--gw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=6DzkK2i--gw",
+    "source": "https://namu.wiki/w/%EC%A0%84%EC%84%A4%EC%9D%98%20%EC%B4%9D%EC%82%AC%20%EC%95%84%EC%B9%B4%EC%A6%88%ED%82%A8",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/xHNx2sewKJ1L6eijsNeCfVeUKvTW1g6lRum1Cydzn3ElTDwBlZg0aFq1-6Pc5p6TpV38ijaxrt1y90TfAzm5yg.webp"
+  },
+  {
+    "anime": "무적 철가방",
+    "type": "OP",
+    "song": "WILD SPICE",
+    "vocal": "오쿠이 마사미",
+    "videoId": "XGQvQj09G8E",
+    "videoIds": [
+      "XGQvQj09G8E"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=XGQvQj09G8E",
+    "source": "https://namu.wiki/w/%EB%AC%B4%EC%A0%81%20%EC%B2%A0%EA%B0%80%EB%B0%A9",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/ywasKjpYagJpoi5qOYmk1jv5avTtiMsEHK9UAls7gwyyMevReVwSDA9AEyS65_egEicBBDJR0UYId7zo_3UiecKxE6XqAAjsZOrwsyMoAuMetgkx4wu5zIc5Kd5YnZufiu93UCHjnFfeTyO5X22bEg.webp"
+  },
+  {
+    "anime": "엘르멘탈 제라드/애니메이션",
+    "type": "OP",
+    "song": "Forever...",
+    "vocal": "savage genius",
+    "videoId": "ufTTGXzF-5w",
+    "videoIds": [
+      "ufTTGXzF-5w",
+      "jWTZimwmwoM"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ufTTGXzF-5w",
+    "source": "https://namu.wiki/w/%EC%97%98%EB%A5%B4%EB%A9%98%ED%83%88%20%EC%A0%9C%EB%9D%BC%EB%93%9C/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/HWECb2-ATCoQkmjnTWCJ1yS_4euR9H_uKb3cla8TAnXBYRjmdawLudaIxmW58oQBJmznbM5h6XWIHiI4Dl7kGbCsfmPvLaX-0DHMmw33J2eBVA1jMA5JxWLHpuqJNMJuNP8NhdQJXu8_HuayRaXiXQ.webp"
+  },
+  {
+    "anime": "하나야마타/애니메이션",
+    "type": "OP",
+    "song": "花ハ踊レヤいろはにほ [1] 꽃은 춤일지어니 이로하니호",
+    "vocal": "팀 '하나야마타' [2]",
+    "videoId": "d6XtX0G9N0g",
+    "videoIds": [
+      "d6XtX0G9N0g",
+      "ygKQHjHX2j0"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=d6XtX0G9N0g",
+    "source": "https://namu.wiki/w/%ED%95%98%EB%82%98%EC%95%BC%EB%A7%88%ED%83%80/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/O_XplYG1CwL4l8fYcCWbg1UFuQ6DlxrsO3ar3aKlel6cuwBCgExQsIxTajflRC6ugSrU-ksLLOtuSJDXsBW4RQy7HmjNXc5852eDUlVgA21pwqlAx2ZxvIrRHq8M2YqG6_Ql49x2DnE7Zty0OkvoAA.webp"
+  },
+  {
+    "anime": "학전도시 애스터리스크/애니메이션",
+    "type": "OP",
+    "song": "파트 1 OP Brand-new world",
+    "vocal": "니시자와 시에나",
+    "videoId": "ANYAvXD5kkw",
+    "videoIds": [
+      "ANYAvXD5kkw",
+      "8eCsVFJMjFE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ANYAvXD5kkw",
+    "source": "https://namu.wiki/w/%ED%95%99%EC%A0%84%EB%8F%84%EC%8B%9C%20%EC%95%A0%EC%8A%A4%ED%84%B0%EB%A6%AC%EC%8A%A4%ED%81%AC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/9CUBUI6QHMAkCYoN_9-AStr7b3xvsPlyzFmhIEb3CiDgs-3ZrfynVzQNmul_FXnJ34XsmpLhRSIJZ0AdGr36lc1AaC03xbNTIoaogbefPvvZoF3AXecrGO_Z33k8Bh_eU1UyrgSjNbsjmcOo2qOblg.webp"
+  },
+  {
+    "anime": "베리베리 뮤우뮤우(애니메이션)",
+    "type": "OP",
+    "song": "my sweet heart",
+    "vocal": "코마츠 리카 이소은",
+    "videoId": "Fw6K2PXgahs",
+    "videoIds": [
+      "Fw6K2PXgahs",
+      "QZHlBNOYF8M"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Fw6K2PXgahs",
+    "source": "https://namu.wiki/w/%EB%B2%A0%EB%A6%AC%EB%B2%A0%EB%A6%AC%20%EB%AE%A4%EC%9A%B0%EB%AE%A4%EC%9A%B0(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/zCO4ZF2s5ArIVun7TXMpLsb0Si78ZQ8_4OzwcJqH29eJg8Mwc3_ezPToB_FoQQnBM4KO4O2IUiG0iBevkwomQP12g-vw6f66ExUJoAmDkunOAVy0L66f7HGM3TK-PeMCCvpArQFVaS8Xau9wqoepMA.webp"
+  },
+  {
+    "anime": "플라스틱 메모리즈",
+    "type": "OP",
+    "song": "Ring of Fortune",
+    "vocal": "사사키 에리",
+    "videoId": "Xl7WIDaIgXo",
+    "videoIds": [
+      "Xl7WIDaIgXo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Xl7WIDaIgXo",
+    "source": "https://namu.wiki/w/%ED%94%8C%EB%9D%BC%EC%8A%A4%ED%8B%B1%20%EB%A9%94%EB%AA%A8%EB%A6%AC%EC%A6%88",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/TJ-9mteCXyDAydLP0qrjoQc6le7uZgAn8fthmlP800UD3efsKXARkA2NNcn8zipId1IyBGwb_Gp3YDuHtzeTuGrNhaqxq3LW4GlDBwthEqFe7frizvhnxWfbSdM5GDzkE-_rxJNENnGuv9TtX41CkQ.webp"
+  },
+  {
+    "anime": "액션 히로인 치어 후르츠",
+    "type": "OP",
+    "song": "情熱☆フルーツ 정열☆후르츠",
+    "vocal": "두근두근 감사제(トキメキ感謝祭) [14]",
+    "videoId": "X98mgbRMcVo",
+    "videoIds": [
+      "X98mgbRMcVo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=X98mgbRMcVo",
+    "source": "https://namu.wiki/w/%EC%95%A1%EC%85%98%20%ED%9E%88%EB%A1%9C%EC%9D%B8%20%EC%B9%98%EC%96%B4%20%ED%9B%84%EB%A5%B4%EC%B8%A0",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/a_dFHbrWfl7muqkRV7FzRn0YUAqrRxj8LIX2X32WggCP-uLj7_wyyMtKzlD52SXn5oemA3p8oqVxoLeWKpA-f_O20nV-qMcOvIhzCezFglfCBfP2NSd0OSM9jpX40wYnPjilKnrgAPQs6Htav5XIgQ.webp"
+  },
+  {
+    "anime": "액션 히로인 치어 후르츠",
+    "type": "ED",
+    "song": "陽の当たる場所 태양이 비치는 곳",
+    "vocal": "두근두근 감사제(トキメキ感謝祭) [15]",
+    "videoId": "aC3Zf5UKdlE",
+    "videoIds": [
+      "aC3Zf5UKdlE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=aC3Zf5UKdlE",
+    "source": "https://namu.wiki/w/%EC%95%A1%EC%85%98%20%ED%9E%88%EB%A1%9C%EC%9D%B8%20%EC%B9%98%EC%96%B4%20%ED%9B%84%EB%A5%B4%EC%B8%A0",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/a_dFHbrWfl7muqkRV7FzRn0YUAqrRxj8LIX2X32WggCP-uLj7_wyyMtKzlD52SXn5oemA3p8oqVxoLeWKpA-f_O20nV-qMcOvIhzCezFglfCBfP2NSd0OSM9jpX40wYnPjilKnrgAPQs6Htav5XIgQ.webp"
+  },
+  {
+    "anime": "마요치키!/애니메이션",
+    "type": "OP",
+    "song": "Be Starters!",
+    "vocal": "키타무라 에리",
+    "videoId": "gcHaPxPGkuc",
+    "videoIds": [
+      "gcHaPxPGkuc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=gcHaPxPGkuc",
+    "source": "https://namu.wiki/w/%EB%A7%88%EC%9A%94%EC%B9%98%ED%82%A4!/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/UIQqWZHtAKuCfZXtSQ3zc1GZO35GLVTa7GdYKJFNNU-AbD1uBcchQZgm6uFCM0xN3utpJXbjEnGihMpltduIPpdKDP3UCChZxvgNGyQn5EGoKB7iAc8bV_6hpCiDSlvWQxYKFyFkOjBpcbP8wILsiQ.webp"
+  },
+  {
+    "anime": "미소녀 전사 세일러 문 세일러 스타즈",
+    "type": "OP",
+    "song": "セーラースターソング 세일러 스타 송",
+    "vocal": "하나자와 카에(花沢加絵)",
+    "videoId": "k-m9SOeojKE",
+    "videoIds": [
+      "k-m9SOeojKE",
+      "Sm4Tq6LIU1g"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=k-m9SOeojKE",
+    "source": "https://namu.wiki/w/%EB%AF%B8%EC%86%8C%EB%85%80%20%EC%A0%84%EC%82%AC%20%EC%84%B8%EC%9D%BC%EB%9F%AC%20%EB%AC%B8%20%EC%84%B8%EC%9D%BC%EB%9F%AC%20%EC%8A%A4%ED%83%80%EC%A6%88",
+    "year": 1996,
+    "image": "//i.namu.wiki/i/H--RxNOCqIumfSWutL-NZrzoLGjkdfbgesCXr6-fqqGh6IH73H4HqZG_jIVF1DtAKagGKSejj2zVx47GgSDJIEIzSPf1hvoPgNc5sz-UbEBLnOyOlmlzkAoEUvk750e_NY8q_r4c0QmikKQuzZGuwQ.webp"
+  },
+  {
+    "anime": "전파녀와 청춘남/애니메이션",
+    "type": "OP",
+    "song": "Os-宇宙人",
+    "vocal": "에리오를 카맛테짱 [2]",
+    "videoId": "HdJzUaWfs5I",
+    "videoIds": [
+      "HdJzUaWfs5I",
+      "2MgAyfXCC0M"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=HdJzUaWfs5I",
+    "source": "https://namu.wiki/w/%EC%A0%84%ED%8C%8C%EB%85%80%EC%99%80%20%EC%B2%AD%EC%B6%98%EB%82%A8/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/ek7KqeHgDGL6RuC-xaN-TndXoxZusmsXmc6zDkN3XxnHx10125fdo8rBJXxe-h5JhWbUbRT0N-Du1IixKtcw6JTgMrTcwZipbjrN01ENCpOzZ3AWyayw7pvgZ6nCIM87oyRq7XYovqVxWuacV-cT6Q.webp"
+  },
+  {
+    "anime": "기동전함 나데시코",
+    "type": "OP",
+    "song": "YOU GET TO BURNING",
+    "vocal": "마츠자와 유미(松澤由実) 이정화",
+    "videoId": "XphjF-fHZkM",
+    "videoIds": [
+      "XphjF-fHZkM",
+      "UJWs9D_-H_w"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=XphjF-fHZkM",
+    "source": "https://namu.wiki/w/%EA%B8%B0%EB%8F%99%EC%A0%84%ED%95%A8%20%EB%82%98%EB%8D%B0%EC%8B%9C%EC%BD%94",
+    "year": 1996,
+    "image": "//i.namu.wiki/i/WpLg30dG6IuVoTmAfZQsfiiY_x_sLPYUtrXEJAPpG0HhOZDoOtimctzyOR7txLTLBOruJtybF-SdDg86D1qJefAp6SYSfbBrvuJkkbb5r2HfejAeeyD1faTCIUKXy6uPDAoAubAKbR9KGjSQ1wajEg.webp"
+  },
+  {
+    "anime": "학생회의 일존(애니메이션 1기)",
+    "type": "OP",
+    "song": "Treasure",
+    "vocal": "헤키요 학원 학생회 사쿠라노 크림 ( 혼다 마리코 ) 아카바 치즈루 ( 사이토 유카 ) 시나 미나츠 ( 토가시 미스즈 ) 시나 마후유 ( 호리나카 유키 )",
+    "videoId": "ATLdGWkzH58",
+    "videoIds": [
+      "ATLdGWkzH58",
+      "Klxz9U5niCc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ATLdGWkzH58",
+    "source": "https://namu.wiki/w/%ED%95%99%EC%83%9D%ED%9A%8C%EC%9D%98%20%EC%9D%BC%EC%A1%B4(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/LIa70GhxXbuxn6H_zqFCdaF-BzLaaP_ISHmfYfMiFgXdnQ1Z1J4ERpjA4LYQUEyo_sFvbYPTKN-EWd9ZWXczEMubD-DkR6H3MHrGAW1HzHicd5x7QzG2FUo6qM12D7MZ34CzZXcN5ufexKqf12QJdA.webp"
+  },
+  {
+    "anime": "도시락 전쟁/애니메이션",
+    "type": "OP",
+    "song": "LIVE for LIFE 〜狼たちの夜〜",
+    "vocal": "아이미",
+    "videoId": "Mza1MUEdyrM",
+    "videoIds": [
+      "Mza1MUEdyrM",
+      "KHsMv0TIHf0"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Mza1MUEdyrM",
+    "source": "https://namu.wiki/w/%EB%8F%84%EC%8B%9C%EB%9D%BD%20%EC%A0%84%EC%9F%81/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/GYQHEuXk5xKFcLuc_AEUHpwDNWwx4chgoAL0TWfew-yCHPgBXyop022Rh2iW3udZRijng98Wgt3Hr5jx_DWFVYSsTXrgkgpKWTOSH74oSyAIo4M9bIoGCRrmLAFFEXgSCML6-H9WcL_sJXdw62CCGw.webp"
+  },
+  {
+    "anime": "네기마!?",
+    "type": "OP",
+    "song": "/ 26화 ED 1000%SPARKING!",
+    "vocal": "사토 리나 칸다 아케미 노나카 아이 코바야시 유우 Hazuki 미나가와 준코 호리에 유이 와타나베 아케노 카도와키 마이 마츠오카 유키 이시게 사와 쿠와타니 나츠코 노토 마미코 시라이시 료코 코야마 키미코 카노 마리 키무라 마도카 야마카와 코토미 누마쿠라 마나미 반도 아이 사와시로 미유키 사이토 치와",
+    "videoId": "vgA7kahrD4o",
+    "videoIds": [
+      "vgA7kahrD4o"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=vgA7kahrD4o",
+    "source": "https://namu.wiki/w/%EB%84%A4%EA%B8%B0%EB%A7%88!%3F",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/CU7-NLxN05LlGIyEZC0NNm_kT4Xun2c4-ahPKQ4Jx4e2lrSPZ6eXx53930q9RwMV_7dPsxmBrf47FALBzFe2X-GQZtOXfypyUZwZptrs5mlNd3OxlvQGKt_ghXnFEsXfPfjgKp10h-wFoYpGVOJt8g.webp"
+  },
+  {
+    "anime": "네기마!?",
+    "type": "ED",
+    "song": "A-LY-YA!",
+    "vocal": "사토 리나 칸다 아케미 노나카 아이 코바야시 유우 Hazuki 미나가와 준코 호리에 유이 와타나베 아케노 카도와키 마이 마츠오카 유키 이시게 사와 쿠와타니 나츠코 노토 마미코 시라이시 료코 코야마 키미코 카노 마리 키무라 마도카 야마카와 코토미 누마쿠라 마나미 반도 아이 이토 시즈카 데구치 마미 오오마에 아카네 사쿠마 미호 코바야시 미사 시무라 유미 아이자와 마이 이노구치 유카 시라토리 유리 사사가와 아야나 타카모토 메구미 이노우에 나오미",
+    "videoId": "3T2VPTuZhPc",
+    "videoIds": [
+      "3T2VPTuZhPc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=3T2VPTuZhPc",
+    "source": "https://namu.wiki/w/%EB%84%A4%EA%B8%B0%EB%A7%88!%3F",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/CU7-NLxN05LlGIyEZC0NNm_kT4Xun2c4-ahPKQ4Jx4e2lrSPZ6eXx53930q9RwMV_7dPsxmBrf47FALBzFe2X-GQZtOXfypyUZwZptrs5mlNd3OxlvQGKt_ghXnFEsXfPfjgKp10h-wFoYpGVOJt8g.webp"
+  },
+  {
+    "anime": "닌자전사 토비카게",
+    "type": "OP",
+    "song": "LOVEサバイバー [4]",
+    "vocal": "HIT BOY [5]",
+    "videoId": "waWMlPUJGUI",
+    "videoIds": [
+      "waWMlPUJGUI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=waWMlPUJGUI",
+    "source": "https://namu.wiki/w/%EB%8B%8C%EC%9E%90%EC%A0%84%EC%82%AC%20%ED%86%A0%EB%B9%84%EC%B9%B4%EA%B2%8C",
+    "year": 1985,
+    "image": "//i.namu.wiki/i/KkGFljq7VEJjw7HSzV9AKzzMjAmswfb23lZ7L8hSoxNgxSHqYbH77iwhh6IXmNT8DElw7dI5X9CWooRY0WKZZxTwh0KJ6VxLOPce8nP4rAT4J_BEVwFo9WEucIPysv0bklv2kzb3WUld9gDD3fnoCA.webp"
+  },
+  {
+    "anime": "여름색 기적",
+    "type": "OP",
+    "song": "Non stop road",
+    "vocal": "스피어",
+    "videoId": "oLQEm6wzXGY",
+    "videoIds": [
+      "oLQEm6wzXGY",
+      "79aiL2Fr_WE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=oLQEm6wzXGY",
+    "source": "https://namu.wiki/w/%EC%97%AC%EB%A6%84%EC%83%89%20%EA%B8%B0%EC%A0%81",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/9EHvODNIOTNuv9iKaYxupDU2-vZqyEbaFMEmIp2Li1w4RYc1wjUhVKtfWvqCuHJsbP5KLTpUX3Ob0QU3wS1d79LENDCnyypl0sT3nZP9ryA63NXTSUnsYAzdcAdMUO94aLu8ho6Ynq2hDtIiVCLEmA.webp"
+  },
+  {
+    "anime": "마지모지 루루모(애니메이션)",
+    "type": "OP",
+    "song": "せいいっぱい、つたえたい!",
+    "vocal": "미모리 스즈코",
+    "videoId": "cd2rRlXJOsI",
+    "videoIds": [
+      "cd2rRlXJOsI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=cd2rRlXJOsI",
+    "source": "https://namu.wiki/w/%EB%A7%88%EC%A7%80%EB%AA%A8%EC%A7%80%20%EB%A3%A8%EB%A3%A8%EB%AA%A8(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/dz1q2H7JHf-EeR7-74hG327ZzTlXJ6LZjAigWyjGwidp8V_KgSWQVRRQZWnCOILlakQBJk4pqAb7EVC64Liw3DpdW_R-exfc_UqYYBmjgcEtbm8PvS6xSYIFdH9vZOzaGLWFgbjHKI4JpuvkaRJZsw.webp"
+  },
+  {
+    "anime": "마지모지 루루모(애니메이션)",
+    "type": "ED",
+    "song": "ふたりのクロノスタシス",
+    "vocal": "엔도 유리카",
+    "videoId": "qb7pFuat7Sc",
+    "videoIds": [
+      "qb7pFuat7Sc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=qb7pFuat7Sc",
+    "source": "https://namu.wiki/w/%EB%A7%88%EC%A7%80%EB%AA%A8%EC%A7%80%20%EB%A3%A8%EB%A3%A8%EB%AA%A8(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/dz1q2H7JHf-EeR7-74hG327ZzTlXJ6LZjAigWyjGwidp8V_KgSWQVRRQZWnCOILlakQBJk4pqAb7EVC64Liw3DpdW_R-exfc_UqYYBmjgcEtbm8PvS6xSYIFdH9vZOzaGLWFgbjHKI4JpuvkaRJZsw.webp"
+  },
+  {
+    "anime": "붉은 광탄 질리온",
+    "type": "OP",
+    "song": "ピュアストーン 퓨어 스톤",
+    "vocal": "유우키 리사",
+    "videoId": "Gf6VYkxpfhw",
+    "videoIds": [
+      "Gf6VYkxpfhw",
+      "xCfprv35hCo",
+      "Y6zdonhQSEk",
+      "UvH2eERsXqc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Gf6VYkxpfhw",
+    "source": "https://namu.wiki/w/%EB%B6%89%EC%9D%80%20%EA%B4%91%ED%83%84%20%EC%A7%88%EB%A6%AC%EC%98%A8",
+    "year": 1987,
+    "image": "//i.namu.wiki/i/VG6aNxc1kSWHMLyHmmrUWV31wF_YZ4aOfxmShJ9Pyii0mGyfV0QpltcshpML97kA7iwBpHi0BTc5cYcGpjBxo3nT404cmZG4Kz5W3Twy-kQC_C6bGCaxUbBypJEwMdNQjHZ6xVRkIEGw5QUubUPhRQ.webp"
+  },
+  {
+    "anime": "건강 전라계 수영부 우미GO!",
+    "type": "OP",
+    "song": "DOLPHIN☆JET",
+    "vocal": "아야네",
+    "videoId": "HEgreSeMDHc",
+    "videoIds": [
+      "HEgreSeMDHc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=HEgreSeMDHc",
+    "source": "https://namu.wiki/w/%EA%B1%B4%EA%B0%95%20%EC%A0%84%EB%9D%BC%EA%B3%84%20%EC%88%98%EC%98%81%EB%B6%80%20%EC%9A%B0%EB%AF%B8%EC%87%BC",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/uV0Ltrwpgs0YDWcz7t1ELhvMzj28IUk_qcNRoiMNTX1xfr9YMDgNNOD8qa2gpw1QV-wxN-iXv3FNGFcWxdP6yN37dBPmxtoo2NpaMFdUcM1f-zYn0Fob38eemaH_k1_3QQdXdlG_rH0-1igaWy7mBw.webp"
+  },
+  {
+    "anime": "건강 전라계 수영부 우미GO!",
+    "type": "ED",
+    "song": "Splash BLUE〜太陽とレモネード",
+    "vocal": "무라타 아유미(村田あゆみ)",
+    "videoId": "imPTQqY7y08",
+    "videoIds": [
+      "imPTQqY7y08"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=imPTQqY7y08",
+    "source": "https://namu.wiki/w/%EA%B1%B4%EA%B0%95%20%EC%A0%84%EB%9D%BC%EA%B3%84%20%EC%88%98%EC%98%81%EB%B6%80%20%EC%9A%B0%EB%AF%B8%EC%87%BC",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/uV0Ltrwpgs0YDWcz7t1ELhvMzj28IUk_qcNRoiMNTX1xfr9YMDgNNOD8qa2gpw1QV-wxN-iXv3FNGFcWxdP6yN37dBPmxtoo2NpaMFdUcM1f-zYn0Fob38eemaH_k1_3QQdXdlG_rH0-1igaWy7mBw.webp"
+  },
+  {
+    "anime": "YAT 안심! 우주여행",
+    "type": "OP",
+    "song": "HEAVEN",
+    "vocal": "HIM 불명",
+    "videoId": "4u-9XGMfoFo",
+    "videoIds": [
+      "4u-9XGMfoFo",
+      "CYP7pKoxmg4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=4u-9XGMfoFo",
+    "source": "https://namu.wiki/w/YAT%20%EC%95%88%EC%8B%AC!%20%EC%9A%B0%EC%A3%BC%EC%97%AC%ED%96%89",
+    "year": 1996,
+    "image": "//i.namu.wiki/i/GjfD87916FZvaCs9r_3xJwC9QcLTsaRWE5CLuwzOVFkNd6QN8oDD2jbcIrfexyWZMyAPJtRRnm75fODR2S1rxvPyUhnR_W-jZVrpYLH6m8PFf6s8WtPsumByjFudV-PYvt7Qk0OWZXdwqI2BriKJrg.webp"
+  },
+  {
+    "anime": "잃어버린 미래를 찾아서/애니메이션",
+    "type": "OP",
+    "song": "Le jour",
+    "vocal": "사토 사토미",
+    "videoId": "JI8IurE6Guo",
+    "videoIds": [
+      "JI8IurE6Guo",
+      "QedhDo5OoaQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=JI8IurE6Guo",
+    "source": "https://namu.wiki/w/%EC%9E%83%EC%96%B4%EB%B2%84%EB%A6%B0%20%EB%AF%B8%EB%9E%98%EB%A5%BC%20%EC%B0%BE%EC%95%84%EC%84%9C/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/uQogPfUNSqy1_EdCQ1rQDA-_jDYD9soXmB5jZ8GSWPsi-SeQxoGMTxyVETOn8dp_Q6oeWCw7BRzsAuSmKVRg477FAhtgzLyoGNzzcPBRT54u4W2tXiJpC7lYSBhIFRHOjJAx7lMdgv0yq1o44S10Dw.webp"
+  },
+  {
+    "anime": "신혼합체 고단나!!",
+    "type": "OP",
+    "song": "1기 OP 神魂合体ゴーダンナー!! 신혼합체 고단나!!",
+    "vocal": "쿠시다 아키라",
+    "videoId": "QmKgt7czbhk",
+    "videoIds": [
+      "QmKgt7czbhk",
+      "f0l4OZewEc4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=QmKgt7czbhk",
+    "source": "https://namu.wiki/w/%EC%8B%A0%ED%98%BC%ED%95%A9%EC%B2%B4%20%EA%B3%A0%EB%8B%A8%EB%82%98",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/hY7Q--FPnbQjljNPtcyH43s1Coyda_-ivT_snmduh43DRURU0-xhgGSQPa9L3GBXzMaNyP8a1Xsp5ctoM0qhuM-mh4ph79NF1QOMHADx-ssveMyR9LVGaONkI2VkVgokEzpQm9j0v0vS2zu-LnVakQ.webp"
+  },
+  {
+    "anime": "슬레이어즈(애니메이션 1기)",
+    "type": "OP",
+    "song": "Get along",
+    "vocal": "하야시바라 메구미 , 오쿠이 마사미 최향윤",
+    "videoId": "c9UGnFPWeIQ",
+    "videoIds": [
+      "c9UGnFPWeIQ",
+      "0ytz9YC6q0w"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=c9UGnFPWeIQ",
+    "source": "https://namu.wiki/w/%EC%8A%AC%EB%A0%88%EC%9D%B4%EC%96%B4%EC%A6%88(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 1995,
+    "image": "//i.namu.wiki/i/wJ3iLu6dz7MzJpVv6ZixYG7B2ris7S5FIcIq_6fhHPTSJBEIYxPgnauqlJcnex-BEYYaYbQ8ATYByOlUDChGK-aPN_p-diElxRPea9tij5cqXklzu7wg_FGrj_cBCSPNCCHF5B_HEJOmmFQ9jsejxA.webp"
+  },
+  {
+    "anime": "크로스 게임/애니메이션",
+    "type": "OP",
+    "song": "Summer rain",
+    "vocal": "코부쿠로 함정균",
+    "videoId": "TMyRxF-YZjw",
+    "videoIds": [
+      "TMyRxF-YZjw",
+      "d1-2bKf76hU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=TMyRxF-YZjw",
+    "source": "https://namu.wiki/w/%ED%81%AC%EB%A1%9C%EC%8A%A4%20%EA%B2%8C%EC%9E%84/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/5wsRk5q_COAzcHaPlW5ZKJcBcyPsslMKMfRYOeA3dIh67YTzDKDtifKnyD8VY34GepbFk0G9ZK77yESmiiRQBDniwqfbx8wLjhSvy-ytncnBRzRazXxspzoZDzrB49dFtT-ivzJd9WcTE7ctVBqC7Q.webp"
+  },
+  {
+    "anime": "천사가 될 거야",
+    "type": "OP",
+    "song": "だって、大好き!",
+    "vocal": "COMA [1]",
+    "videoId": "CN_b89cWmlY",
+    "videoIds": [
+      "CN_b89cWmlY",
+      "ch3iMrhlbZM"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=CN_b89cWmlY",
+    "source": "https://namu.wiki/w/%EC%B2%9C%EC%82%AC%EA%B0%80%20%EB%90%A0%EA%B1%B0%EC%95%BC",
+    "year": 1999,
+    "image": "//i.namu.wiki/i/ljT3BL_OCGMKlH_ZRKQlJLZLwd-ybYE6AYvbPhlgNJbkcS7F298qNZyuekjQdxMsKUGZyX4oxTFyvxk9mwbnsMz4sQx4V4ntEvB0iizRmEh5N2HhC3xby4x8L6e6g_HnprgPJEGNZjL4lJkMvVfa1A.webp"
+  },
+  {
+    "anime": "무효와 로지의 마법률상담사무소(애니메이션 2기)",
+    "type": "OP",
+    "song": "イノチノアカシ 생명의 증거",
+    "vocal": "ZAQ",
+    "videoId": "Xa7vbqA_k2o",
+    "videoIds": [
+      "Xa7vbqA_k2o"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Xa7vbqA_k2o",
+    "source": "https://namu.wiki/w/%EB%AC%B4%ED%9A%A8%EC%99%80%20%EB%A1%9C%EC%A7%80%EC%9D%98%20%EB%A7%88%EB%B2%95%EB%A5%A0%EC%83%81%EB%8B%B4%EC%82%AC%EB%AC%B4%EC%86%8C(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%202%EA%B8%B0)",
+    "year": 2020,
+    "image": "//i.namu.wiki/i/T8uhJ7oZG_DnCaSzOEUDkCqxG5oD71g3eCXstsmTN3z4OBhqjY2lOFbginTFxnVZLXNOkPhKx7vdqfqhYBmBWYIBpKj415LKSmqSxLxZChUjkDQPgjLvNPNTja2IpoQ3u50iEgdsmVzXQpyPoBv6wQ.webp"
+  },
+  {
+    "anime": "CØDE:BREAKER",
+    "type": "OP",
+    "song": "DARK SHAME",
+    "vocal": "GRANRODEO",
+    "videoId": "Oxh6vb_P0Y8",
+    "videoIds": [
+      "Oxh6vb_P0Y8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Oxh6vb_P0Y8",
+    "source": "https://namu.wiki/w/C%C3%98DE:BREAKER",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/U_LGdj775wSDvbhJEdf6Mlh6hPOQ-Ehsg8xWBsfpEHrAUf2ReU9FWzQTwFvUjFBQCOiO49I3epZfqEyJmLo2_BCKpdXWH8rLcqzyJgvaNdCT-i-YD_vIiAynKW_a4lDH5C0YSsEod9SeAfosPZ0Rzw.webp"
+  },
+  {
+    "anime": "CØDE:BREAKER",
+    "type": "ED",
+    "song": "シロイカラス",
+    "vocal": "스즈무라 켄이치",
+    "videoId": "rLKcVzvp0I4",
+    "videoIds": [
+      "rLKcVzvp0I4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=rLKcVzvp0I4",
+    "source": "https://namu.wiki/w/C%C3%98DE:BREAKER",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/U_LGdj775wSDvbhJEdf6Mlh6hPOQ-Ehsg8xWBsfpEHrAUf2ReU9FWzQTwFvUjFBQCOiO49I3epZfqEyJmLo2_BCKpdXWH8rLcqzyJgvaNdCT-i-YD_vIiAynKW_a4lDH5C0YSsEod9SeAfosPZ0Rzw.webp"
+  },
+  {
+    "anime": "쿠마미코/애니메이션",
+    "type": "OP",
+    "song": "だって、ギュってして。 하지만, 꼭 안아줘",
+    "vocal": "하나타니 마키(花谷麻妃)",
+    "videoId": "AGDo5_wzvas",
+    "videoIds": [
+      "AGDo5_wzvas"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=AGDo5_wzvas",
+    "source": "https://namu.wiki/w/%EC%BF%A0%EB%A7%88%EB%AF%B8%EC%BD%94/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/FeE4qoJFog1kSsn8ZezKrmFt4QhxTd8tcFjZvHERtj4oM9tRSM-O4VzHZGBZellCA48wjQCoDEI3MXTXvW8hv7HtCz2aRYQ6Eqyp36cZnj8WyHUgwSbGHDxHR2hpEhlrZ7LOT76M7TfICf5Q1RGg9A.webp"
+  },
+  {
+    "anime": "쿠마미코/애니메이션",
+    "type": "ED",
+    "song": "KUMAMIKO DANCING",
+    "vocal": "히오카 나츠미 & 야스모토 히로키 (feat. 쿠마데 마을의 모두들)",
+    "videoId": "Ez8Tf2aTalA",
+    "videoIds": [
+      "Ez8Tf2aTalA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Ez8Tf2aTalA",
+    "source": "https://namu.wiki/w/%EC%BF%A0%EB%A7%88%EB%AF%B8%EC%BD%94/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/FeE4qoJFog1kSsn8ZezKrmFt4QhxTd8tcFjZvHERtj4oM9tRSM-O4VzHZGBZellCA48wjQCoDEI3MXTXvW8hv7HtCz2aRYQ6Eqyp36cZnj8WyHUgwSbGHDxHR2hpEhlrZ7LOT76M7TfICf5Q1RGg9A.webp"
+  },
+  {
+    "anime": "은반 컬라이더스코프",
+    "type": "OP",
+    "song": "Dual",
+    "vocal": "YeLLOW Generation",
+    "videoId": "uzgGFCpbpdc",
+    "videoIds": [
+      "uzgGFCpbpdc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=uzgGFCpbpdc",
+    "source": "https://namu.wiki/w/%EC%9D%80%EB%B0%98%20%EC%BB%AC%EB%9D%BC%EC%9D%B4%EB%8D%94%EC%8A%A4%EC%BD%94%ED%94%84",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/I4JgyaqgjJ5CgMYF42lmRBEjIJqWwhvHJnvZlnYz6BnfI5YqduT-Kup5ZBZk3j0lBF-Ql2Hs1JzU07bvZcAUz5LTbwQnRZU-JQgByfUB27jXsSm4v3xm8G1SDySf1B_8yEErtEjvSFg2YOFTPIUyHg.webp"
+  },
+  {
+    "anime": "은반 컬라이더스코프",
+    "type": "ED",
+    "song": "energy",
+    "vocal": "이노우에 마리나",
+    "videoId": "XR3scxEjs1I",
+    "videoIds": [
+      "XR3scxEjs1I"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=XR3scxEjs1I",
+    "source": "https://namu.wiki/w/%EC%9D%80%EB%B0%98%20%EC%BB%AC%EB%9D%BC%EC%9D%B4%EB%8D%94%EC%8A%A4%EC%BD%94%ED%94%84",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/I4JgyaqgjJ5CgMYF42lmRBEjIJqWwhvHJnvZlnYz6BnfI5YqduT-Kup5ZBZk3j0lBF-Ql2Hs1JzU07bvZcAUz5LTbwQnRZU-JQgByfUB27jXsSm4v3xm8G1SDySf1B_8yEErtEjvSFg2YOFTPIUyHg.webp"
+  },
+  {
+    "anime": "게게게의 키타로(애니메이션 5기)",
+    "type": "OP",
+    "song": "요괴인간 타요마",
+    "vocal": "강성호",
+    "videoId": "YxiIV11RrNk",
+    "videoIds": [
+      "YxiIV11RrNk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=YxiIV11RrNk",
+    "source": "https://namu.wiki/w/%EC%9A%94%EA%B4%B4%EC%9D%B8%EA%B0%84%20%ED%83%80%EC%9A%94%EB%A7%88",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/CKLNx3R8d5TIgEybdg_qHZZKTytHSETEZAsu1tl6KKZq8ppKxhxbqmY1k8aoEzl-3JVp-Okk_m8oDZUQOpVp3jsBAOGJOePjQwhr0RidnUEMpxWjA03NW4psfCIaBx26HiHHT6gmv1g-sYL03zP_DQ.webp"
+  },
+  {
+    "anime": "게게게의 키타로(애니메이션 5기)",
+    "type": "ED",
+    "song": "억울해",
+    "vocal": "강성호",
+    "videoId": "GhyWVSS7ADk",
+    "videoIds": [
+      "GhyWVSS7ADk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=GhyWVSS7ADk",
+    "source": "https://namu.wiki/w/%EC%9A%94%EA%B4%B4%EC%9D%B8%EA%B0%84%20%ED%83%80%EC%9A%94%EB%A7%88",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/CKLNx3R8d5TIgEybdg_qHZZKTytHSETEZAsu1tl6KKZq8ppKxhxbqmY1k8aoEzl-3JVp-Okk_m8oDZUQOpVp3jsBAOGJOePjQwhr0RidnUEMpxWjA03NW4psfCIaBx26HiHHT6gmv1g-sYL03zP_DQ.webp"
+  },
+  {
+    "anime": "지옥선생 누베(1996년 애니메이션)",
+    "type": "OP",
+    "song": "バリバリ最強No.1",
+    "vocal": "FEEL SO BAD",
+    "videoId": "4iH2_WcEGso",
+    "videoIds": [
+      "4iH2_WcEGso",
+      "W3r_wFIGjHU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=4iH2_WcEGso",
+    "source": "https://namu.wiki/w/%EC%A7%80%EC%98%A5%EC%84%A0%EC%83%9D%20%EB%88%84%EB%B2%A0(1996%EB%85%84%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)",
+    "year": 1996,
+    "image": "//i.namu.wiki/i/61HwakSoZ5AkW5d-BCEtbPn_PbM8g2boszxXL4JGekhV82x8NT1fWfkIpdE5Nkg_h51wZgwryfsV6E1YRBzuUWAcvb3deA3k4MLiXzd364xgqBiCsZBp922NWLZRPEYePjmkDfgX9gD964Axj8zwvw.webp"
+  },
+  {
+    "anime": "마멀레이드 보이/애니메이션",
+    "type": "OP",
+    "song": "笑顔に会いたい 미소를 만나고 싶어",
+    "vocal": "하마다 리에(濱田理恵)",
+    "videoId": "R5VzUAMWL5o",
+    "videoIds": [
+      "R5VzUAMWL5o"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=R5VzUAMWL5o",
+    "source": "https://namu.wiki/w/%EB%A7%88%EB%A9%80%EB%A0%88%EC%9D%B4%EB%93%9C%20%EB%B3%B4%EC%9D%B4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 1994,
+    "image": "//i.namu.wiki/i/fnTBMT38_Y2ReNWtiQ3D_b7jl3H4UFEbSDTS1NkPsWR2lceYjVQvQuSIC98lJ69f0-0xf4qY2PNhLTvggZFaK8rT8NZhQlyO01jfTe5_TxJ4z0I_iS2RhGFXzxfzx_lxpmhEA7h4-Vzi1PpdGsnf6A.webp"
+  },
+  {
+    "anime": "스마일 프리큐어!",
+    "type": "OP",
+    "song": "Let's go! スマイルプリキュア! Let's go! 스마일 프리큐어!",
+    "vocal": "이케다 아야(池田彩) 채민지",
+    "videoId": "PGKpJeMRdaY",
+    "videoIds": [
+      "PGKpJeMRdaY",
+      "R_ndZ6H8bj0",
+      "AuxXufx5kKQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=PGKpJeMRdaY",
+    "source": "https://namu.wiki/w/%EC%8A%A4%EB%A7%88%EC%9D%BC%20%ED%94%84%EB%A6%AC%ED%81%90%EC%96%B4!",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/awN4ZdJA4peKpGTkS9HB19TouH6oWt7WP_fWqu8UxhdxV5D06vPTl0ak5cJfhnm6Y0Lz5vEFNRS2Ohu-8k6nq2-EA64tsTxydloJGfIsca2wqNIm1Jn6qlYGh_7_Nfqt4O-dQpna-qme5ySJe1cBJw.webp"
+  },
+  {
+    "anime": "히다마리 스케치×☆☆☆",
+    "type": "OP",
+    "song": "できるかなって☆☆☆ 할 수 있을까☆☆☆",
+    "vocal": "유노 ( 아스미 카나 ) 미야코 ( 미즈하시 카오리 ) 히로 ( 고토 유코 ) 사에 ( 신타니 료코 )",
+    "videoId": "KuxFo7y0m1w",
+    "videoIds": [
+      "KuxFo7y0m1w"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=KuxFo7y0m1w",
+    "source": "https://namu.wiki/w/%ED%9E%88%EB%8B%A4%EB%A7%88%EB%A6%AC%20%EC%8A%A4%EC%BC%80%EC%B9%98%C3%97%E2%98%86%E2%98%86%E2%98%86",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/l8hhXHvxtTngpjmEN0V767mv-t_5MgdVj-RWVp8SqkvHWQFwCAieuFKAF_pfjOhEHy0LO8jV66Xyo5wioaBXHXhWiDJvRYufK34NAtcqVOweTAsN6gCH27WzCcYk5_nM1VvvUJVQHK10YbFpbKelxA.webp"
+  },
+  {
+    "anime": "히다마리 스케치×☆☆☆",
+    "type": "ED",
+    "song": "さくらさくら咲く ～あの日君を待つ 空と同じで～ 벚꽃이 벚꽃이 피네 ~그날 너를 기다리는 하늘과 같이~",
+    "vocal": "marble",
+    "videoId": "kyYo3unAltk",
+    "videoIds": [
+      "kyYo3unAltk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=kyYo3unAltk",
+    "source": "https://namu.wiki/w/%ED%9E%88%EB%8B%A4%EB%A7%88%EB%A6%AC%20%EC%8A%A4%EC%BC%80%EC%B9%98%C3%97%E2%98%86%E2%98%86%E2%98%86",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/l8hhXHvxtTngpjmEN0V767mv-t_5MgdVj-RWVp8SqkvHWQFwCAieuFKAF_pfjOhEHy0LO8jV66Xyo5wioaBXHXhWiDJvRYufK34NAtcqVOweTAsN6gCH27WzCcYk5_nM1VvvUJVQHK10YbFpbKelxA.webp"
+  },
+  {
+    "anime": "요스가노소라/애니메이션",
+    "type": "OP",
+    "song": "比翼の羽根 비익의 날개",
+    "vocal": "eufonius",
+    "videoId": "eQ8-qXvUZK8",
+    "videoIds": [
+      "eQ8-qXvUZK8",
+      "Q3GrcwZqZNU",
+      "fpyGsopmUbU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=eQ8-qXvUZK8",
+    "source": "https://namu.wiki/w/%EC%9A%94%EC%8A%A4%EA%B0%80%EB%85%B8%EC%86%8C%EB%9D%BC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/H3g6Vjq8yJ7wfAnYZiiRDjmalGOwOs14oByK-BpfVSs8TspVSUtfCadle_aXAAc1vxyhVteatAR15C2U5hbw3adOeQsJ_-IqPrt4X4IkpVC6LFXGmo_5KQIJwCbKH5MIr1h7l7JG3GiDAxJ-1uvpcQ.webp"
+  },
+  {
+    "anime": "마부라호",
+    "type": "OP",
+    "song": "恋のマホウ",
+    "vocal": "ICHIKO",
+    "videoId": "5QvBJeGcNdM",
+    "videoIds": [
+      "5QvBJeGcNdM",
+      "E7zmLD2CKKU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=5QvBJeGcNdM",
+    "source": "https://namu.wiki/w/%EB%A7%88%EB%B6%80%EB%9D%BC%ED%98%B8",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/6vb3_izTfn62MTQGakx3V1u7X7BdKgRUQnq8VcyGjL2z5TgHGutbx8Ridx8gsog7qWMxgEnD203g8z7uEheDbLfbrg9uq_6O3O367qhkzNKhgHr_qpduBssRAMpIppyd-rAommGE_XDrxS2nsByIaw.webp"
+  },
+  {
+    "anime": "이누×보쿠 SS/애니메이션",
+    "type": "OP",
+    "song": "ニルヴァーナ 니르바나",
+    "vocal": "MUCC",
+    "videoId": "WpJ8oP0ZWoc",
+    "videoIds": [
+      "WpJ8oP0ZWoc",
+      "2tkuZtej4jI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=WpJ8oP0ZWoc",
+    "source": "https://namu.wiki/w/%EC%9D%B4%EB%88%84%C3%97%EB%B3%B4%EC%BF%A0%20SS/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/yvz62QUtAmWm_nDM4kS31k_8tmyQet9vlO8Jc_HtWw78fC9eGcERJixRRGlv_J4rIo3dvi8z3twd55xnAfP9BoF7Dxc5xj23QMJZOSn35eLM9xP43gBM0Oes8XYqC_7QDTdp-PV8M8sNHJwgJHG4AQ.webp"
+  },
+  {
+    "anime": "덤벨 몇 킬로까지 들 수 있어?/애니메이션",
+    "type": "OP",
+    "song": "J-pop 유튜브 조회수 순위",
+    "vocal": "",
+    "videoId": "SX_ViT4Ra7k",
+    "videoIds": [
+      "SX_ViT4Ra7k",
+      "-tKVN2mAKRI",
+      "ZRtdQ81jPUQ",
+      "TQ8WlA2GXbk",
+      "ony539T074w",
+      "iuJDhFRDx9M",
+      "Ct6BUPvE2sM",
+      "mLW35YMzELE",
+      "1tk1pqwrOys",
+      "dy90tA3TT1c",
+      "Qp3b-RXtz4w",
+      "0xSiBpUdW4E",
+      "-EKxzId_Sj4",
+      "Dx_fKPBPYUI",
+      "4DxL6IKmXx4",
+      "dlFA0Zq1k2A",
+      "wfCcs0vLysk",
+      "PDSkFeMVNFs",
+      "kagoEGKHZvU",
+      "9aJVr5tTTWk",
+      "QW28YKqdxe0",
+      "m9SMT5ipbxk",
+      "iqEr3P78fz8",
+      "tLQLa6lM3Us",
+      "by4SYYWlhEs",
+      "gJX2iy6nhHc",
+      "x8VYWazR5mE",
+      "2pECnr5MNuU",
+      "3zh9Wb1KuW8",
+      "jhOVibLEDhA",
+      "a2GujJZfXpg",
+      "sr--GVIoluU",
+      "T0valuAksuo",
+      "-VKIqrvVOpo",
+      "Mi9uNu35Gmk",
+      "pgXpM4l_MwI",
+      "dFf4AgBNR1E",
+      "LIlZCmETvsY",
+      "UFQEttrn6CQ",
+      "H08YWE4CIFQ",
+      "0YF8vecQWYs",
+      "pS5d77DQHOI",
+      "8OZDgBmehbA",
+      "VyKLQXOj0ts",
+      "YnSW8ian29w",
+      "mJ1N7-HyH1A",
+      "Hh9yZWeTmVM",
+      "gsT6eKsnT0M",
+      "QjrkrVmC-8M",
+      "bt8wNQJaKAk",
+      "M2cckDmNLMI",
+      "Y4nEEZwckuU",
+      "NMA_isZYsYQ",
+      "7940nuwCEYA",
+      "kzZ6KXDM1RI",
+      "ptnYBctoexk",
+      "WIKqgE4BwAY",
+      "5GUaMOpfmr8",
+      "jJzw1h5CR-I",
+      "37W7Y2RRyiM",
+      "OIBODIPC_8Y",
+      "J5Z7tIq7bco",
+      "sOiMD45QGLs",
+      "51CH3dPaWXc",
+      "KTZ-y85Erus",
+      "WPl10ZrhCtk",
+      "yzC4hFK5P3g",
+      "DuMqFknYHBs",
+      "jzi6RNVEOtA",
+      "C-o8pTi6vd8",
+      "m34DPnRUfMU",
+      "mp2-w15SXms",
+      "qag4ewos4TE",
+      "XSkpuDseenY",
+      "O_DLtVuiqhI",
+      "CID-sYQNCew",
+      "AqI97zHMoQw",
+      "19y8YTbvri8",
+      "PCp2iXA1uLE",
+      "LmZD-TU96q4",
+      "DeGkiItB9d8",
+      "fhzKLBZJC3w",
+      "zkNzxsaCunU",
+      "lzAyrgSqeeE",
+      "UM9XNpgrqVk",
+      "1FliVTcX8bQ",
+      "yOAwvRmVIyo",
+      "F64yFFnZfkI",
+      "Uh6dkL1M9DM",
+      "Rp0Z9YVOnKQ",
+      "gU5oN0KVofU",
+      "DC6JppqHkaM",
+      "lkHlnWFnA0c",
+      "hkBbUf4oGfA",
+      "4-Gw0TAM6-Q",
+      "uKxyLmbOc0Q",
+      "hN5MBlGv2Ac",
+      "-kgOFJG881I",
+      "9MjAJSoaoSo",
+      "K4xLi8IF1FM",
+      "RKHf_LnQssU",
+      "bst5DAshhY8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=SX_ViT4Ra7k",
+    "source": "https://namu.wiki/w/%EB%8D%A4%EB%B2%A8%20%EB%AA%87%20%ED%82%AC%EB%A1%9C%EA%B9%8C%EC%A7%80%20%EB%93%A4%20%EC%88%98%20%EC%9E%88%EC%96%B4%3F/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2019,
+    "image": "//i.namu.wiki/i/GIxfDHTUssVq6g67Rz2P7zdoknC-6qyJI8dbFmi8N69736Bl3A7wO1j9wHBUxoDnxLU3ZV5CHYK2JUqTzmjC0M1fCKba113PPfp3CI6SXIeu1ljc3n3l6y3YbL1FjWIzKlBlCfJOxFf02D8WILuVYg.webp"
+  },
+  {
+    "anime": "오오카미카쿠시/애니메이션",
+    "type": "OP",
+    "song": "時の向こう 幻の空",
+    "vocal": "FictionJunction",
+    "videoId": "9BXi2XKS7qI",
+    "videoIds": [
+      "9BXi2XKS7qI",
+      "OWeC0Dfm-s0"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=9BXi2XKS7qI",
+    "source": "https://namu.wiki/w/%EC%98%A4%EC%98%A4%EC%B9%B4%EB%AF%B8%EC%B9%B4%EC%BF%A0%EC%8B%9C/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/x2A04chDpVOpT3oC6fFaqVuOiebyHZlatfzTVHU3bmsj8ixW4q-6yopX_ln1J_PrY__dkFwkrAmmbPuaUu3H-Q5e9g01yF2lebwg7i6QmFshyuc2z4bLIp0ePgFZDMHOQ_-mITl8RQ0v6l85X9RMrg.webp"
+  },
+  {
+    "anime": "그 남자 그 여자의 사정",
+    "type": "OP",
+    "song": "天使のゆびきり 천사의 약속",
+    "vocal": "후쿠다 마이(福田 舞) BK 프로젝터(투니버스) / 은표(KBS)",
+    "videoId": "Eyr9S9M6SgY",
+    "videoIds": [
+      "Eyr9S9M6SgY",
+      "t7iUxxmO83Q",
+      "NkZcirJMyVY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Eyr9S9M6SgY",
+    "source": "https://namu.wiki/w/%EA%B7%B8%20%EB%82%A8%EC%9E%90%20%EA%B7%B8%20%EC%97%AC%EC%9E%90%EC%9D%98%20%EC%82%AC%EC%A0%95",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/ZE6DPbMe3XS7y6-vfkfxNdbG7Mox2jkR9Kdxh903msCt_0rYdy1Nv87jk4z_n2aAxOA6ub1iH2N837wZgwj5qhJzJUrJ3WaWO8LKZWH7jLbdZ7M9j3FqbrMfEXoHgs2AhGqCmJpiKqSXe8TgvbQMMw.webp"
+  },
+  {
+    "anime": "그 남자 그 여자의 사정",
+    "type": "ED",
+    "song": "일본판 ED / 한국판 ED1 夢の中へ 꿈속으로(투니버스) / 꿈속의 나라로(KBS)",
+    "vocal": "에노모토 아츠코 , 스즈키 치히로 윤여진, 전숙경(투니버스) / 은표(KBS)",
+    "videoId": "lp8LY41Mrec",
+    "videoIds": [
+      "lp8LY41Mrec",
+      "DXXZvWFlwCY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=lp8LY41Mrec",
+    "source": "https://namu.wiki/w/%EA%B7%B8%20%EB%82%A8%EC%9E%90%20%EA%B7%B8%20%EC%97%AC%EC%9E%90%EC%9D%98%20%EC%82%AC%EC%A0%95",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/ZE6DPbMe3XS7y6-vfkfxNdbG7Mox2jkR9Kdxh903msCt_0rYdy1Nv87jk4z_n2aAxOA6ub1iH2N837wZgwj5qhJzJUrJ3WaWO8LKZWH7jLbdZ7M9j3FqbrMfEXoHgs2AhGqCmJpiKqSXe8TgvbQMMw.webp"
+  },
+  {
+    "anime": "완간 미드나이트/애니메이션",
+    "type": "OP",
+    "song": "lights and any more",
+    "vocal": "TRF",
+    "videoId": "BCJg-eXcmhE",
+    "videoIds": [
+      "BCJg-eXcmhE",
+      "LXDjgxHhs-U"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=BCJg-eXcmhE",
+    "source": "https://namu.wiki/w/%EC%99%84%EA%B0%84%20%EB%AF%B8%EB%93%9C%EB%82%98%EC%9D%B4%ED%8A%B8/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/r_FjPnrfMrHwKM2PMsLJMem1BWsrVm_rPF3JKYZdTcHp601CKkSYqzEnHeSFQ9K2To9c2NGRzb-KcoW_KadDsF6aXRomV40p9c5cizDvXePJKfkTsDeuANMSRa41cdZv8qJNbw04PaoceQ-QxZr_gg.webp"
+  },
+  {
+    "anime": "미남고교 지구방위부 시리즈",
+    "type": "OP",
+    "song": "/ 12화 ED ハイカラ de GO! 하이칼라 de GO!",
+    "vocal": "ハイカラ浪漫団 ( 타카노 타이가 , 나가오카 류호 , 칸제 노리아키 , 코이케 타카히로 , 쿠사노 타이치 )",
+    "videoId": "XKk8ug91eyY",
+    "videoIds": [
+      "XKk8ug91eyY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=XKk8ug91eyY",
+    "source": "https://namu.wiki/w/%EB%AF%B8%EB%82%A8%EA%B3%A0%EA%B5%90%20%EC%A7%80%EA%B5%AC%EB%B0%A9%EC%9C%84%EB%B6%80%20LOVE!",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/AsldydYkdze6x4gq-4JHidArJzu_0wMb_B5r5NE5LADS9uaG-5CcZ1Cd7HkBmQ4ZV7_RXCGteHVIUsciN1OIxI8ouviHTlYBBBkc6M8_GyoICIBNkwPwBmyn0dcYEo-dYIpzq1S95ywDBVz9iwWZPQ.webp"
+  },
+  {
+    "anime": "너스위치 코무기짱 매지카르테",
+    "type": "OP",
+    "song": "愛のメディスン 사랑의 메디슨",
+    "vocal": "모모이 하루코",
+    "videoId": "JL-UXJILlfI",
+    "videoIds": [
+      "JL-UXJILlfI",
+      "iRb71LwYiqM"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=JL-UXJILlfI",
+    "source": "https://namu.wiki/w/%EB%84%88%EC%8A%A4%EC%9C%84%EC%B9%98%20%EC%BD%94%EB%AC%B4%EA%B8%B0%EC%A7%B1%20%EB%A7%A4%EC%A7%80%EC%B9%B4%EB%A5%B4%ED%85%8C",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/EPrSwavNE_1oS77y0fqg237fLlz9euqPjCIgXI6_7WLDSoUvGJhCwRjgKia1I1OPR9uxJgPoi5KZkevSUvvSn3zcD-KDu-7CJguMCkVvbvSfsMywOM_bK7pO1u5y4Z13pCeZStnxAHCsT4cypNGtJQ.webp"
+  },
+  {
+    "anime": "BEASTARS(애니메이션 2기)",
+    "type": "OP",
+    "song": "怪物 괴물",
+    "vocal": "YOASOBI",
+    "videoId": "LJBHySglLXU",
+    "videoIds": [
+      "LJBHySglLXU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=LJBHySglLXU",
+    "source": "https://namu.wiki/w/BEASTARS(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%202%EA%B8%B0)",
+    "year": 2021,
+    "image": "//i.namu.wiki/i/WfXV9VWujYg6bvNq8kLWlqzT-PL6_5Fe8EZEabRfjezJduIapujstJmslaBTluvJmnMHA0J50T5Ac7a1DVGX8DWC0ic15_x9lQ864nFtvcjpvRtDLKVaVA1NTDaSRljShPgps7WOzzTuh8Eb7KuXAA.webp"
+  },
+  {
+    "anime": "스쿨럼블(애니메이션 1기)",
+    "type": "OP",
+    "song": "/ 25화 ED スクランブル 스크램블",
+    "vocal": "호리에 유이 with UNSCANDAL 이정은 , 알렉스",
+    "videoId": "y93hoAFvGqM",
+    "videoIds": [
+      "y93hoAFvGqM",
+      "fKE4uRsBA2Y"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=y93hoAFvGqM",
+    "source": "https://namu.wiki/w/%EC%8A%A4%EC%BF%A8%EB%9F%BC%EB%B8%94(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2004,
+    "image": "//i.namu.wiki/i/7AvFcc0qBJsuebQrNqdNKU0_WIAyLBekX5kXVVYKJSb70rE1hVrvuxkIORj_Dfqp1TsAC6-CjaYZf7s8zWQrI5-USmWUjSZjK1x6M6l2UuuBNzeUWlNbQ1rZ2sDmUUZR-oNVDGKD_qb7yIkbfoHJVw.webp"
+  },
+  {
+    "anime": "스쿨럼블(애니메이션 1기)",
+    "type": "ED",
+    "song": "헤이세이 애니송 대상",
+    "vocal": "",
+    "videoId": "6iggzRHAZLo",
+    "videoIds": [
+      "6iggzRHAZLo",
+      "tkO_2d565eE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=6iggzRHAZLo",
+    "source": "https://namu.wiki/w/%EC%8A%A4%EC%BF%A8%EB%9F%BC%EB%B8%94(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2004,
+    "image": "//i.namu.wiki/i/7AvFcc0qBJsuebQrNqdNKU0_WIAyLBekX5kXVVYKJSb70rE1hVrvuxkIORj_Dfqp1TsAC6-CjaYZf7s8zWQrI5-USmWUjSZjK1x6M6l2UuuBNzeUWlNbQ1rZ2sDmUUZR-oNVDGKD_qb7yIkbfoHJVw.webp"
+  },
+  {
+    "anime": "나는 친구가 적다(애니메이션 1기)",
+    "type": "OP",
+    "song": "残念系隣人部★★☆(星二つ半) 유감계이웃사촌부 별두개반",
+    "vocal": "친구 만들기 대 ( 미카즈키 요조라 ( 이노우에 마리나 ), 카시와자키 세나 ( 이토 카나에 ) 쿠스노키 유키무라 ( 야마모토 노조미 ), 시구마 리카 ( 후쿠엔 미사토 ) 하세가와 코바토 ( 하나자와 카나 ), 타카야마 마리아 ( 이구치 유카 ))",
+    "videoId": "dMuIIKbgoGc",
+    "videoIds": [
+      "dMuIIKbgoGc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=dMuIIKbgoGc",
+    "source": "https://namu.wiki/w/%EB%82%98%EB%8A%94%20%EC%B9%9C%EA%B5%AC%EA%B0%80%20%EC%A0%81%EB%8B%A4(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/1mH3ljHOZqIMyLWqOXnOynpmaebcI-Ew_B7w8Q6-RyIGQeCaQydPANJyloNMkwUCfr87EC--fsqFa2oDngj-5YOOLDHm0zx4pKvELh3jEKnoKGVKI0XtPd5YlQMfsIEVlRzs07PeCUPoUqBIk6q8KQ.webp"
+  },
+  {
+    "anime": "돌격! 빳빠라대",
+    "type": "OP",
+    "song": "ギザギザMAKE A MOTION",
+    "vocal": "Misty 정미영 [15]",
+    "videoId": "RPl-Wr87O8E",
+    "videoIds": [
+      "RPl-Wr87O8E",
+      "5uguPv7K7zA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=RPl-Wr87O8E",
+    "source": "https://namu.wiki/w/%EB%8F%8C%EA%B2%A9!%20%EB%B9%B3%EB%B9%A0%EB%9D%BC%EB%8C%80",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/RHVyJz7JhflWWdCaeFWmcnViAC4o_zHK8lrOLyesIFjcqWRld5_jjpBcHyCEmMlAy6tHuxZ_Xdd532-AwtFV2_ftInhX7JKL1EGp8r5mdM_K6tvDmicCZbu0V0Oi8cTvMkhD-wGQc1LQaVDGgDoFmA.webp"
+  },
+  {
+    "anime": "지옥소녀 세 번째 이야기",
+    "type": "OP",
+    "song": "月華-tsukihana-",
+    "vocal": "키타데 나나",
+    "videoId": "BpFBY9ML-2g",
+    "videoIds": [
+      "BpFBY9ML-2g",
+      "uYnSj04ToDQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=BpFBY9ML-2g",
+    "source": "https://namu.wiki/w/%EC%A7%80%EC%98%A5%EC%86%8C%EB%85%80%20%EC%84%B8%20%EB%B2%88%EC%A7%B8%20%EC%9D%B4%EC%95%BC%EA%B8%B0",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/Vi0DSiwNryHCJdsbs0z2_4UApyDtNG9VGaZeXVKkGsFgaAOntHsEUeZCKKFgz3R8PIdiYXu_PvLFmgFqY4utyfP9qPyhkeZaEykYR9i6y6uXb4wCyZLser1EnJwDTskudoSrt6PI4Osb85Jpr-MLZA.webp"
+  },
+  {
+    "anime": "Fate/Zero/애니메이션",
+    "type": "OP",
+    "song": "2 to the beginning",
+    "vocal": "Kalafina",
+    "videoId": "Eppci-N4UOs",
+    "videoIds": [
+      "Eppci-N4UOs",
+      "fQoti0WE8Ug"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Eppci-N4UOs",
+    "source": "https://namu.wiki/w/Fate/Zero/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/p-Kax1EJ5apQ29IrQB_iX5wE-IEdCGa8X0lN_Zc457mcCNKwr2-LR-nMzkGPOfSpsC74WMhhBzF1wc9AqaPcrcfm-IPzOvABoFAMmGpm0VP-jMmDjsMyl5fSyYehZ2baoCi5zQGYppFQ1UngmmP-Vw.webp"
+  },
+  {
+    "anime": "블러드 래드",
+    "type": "OP",
+    "song": "ViViD",
+    "vocal": "May'n",
+    "videoId": "GApuR37lT-4",
+    "videoIds": [
+      "GApuR37lT-4",
+      "iygTtDW2XHU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=GApuR37lT-4",
+    "source": "https://namu.wiki/w/%EB%B8%94%EB%9F%AC%EB%93%9C%20%EB%9E%98%EB%93%9C",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/jVvn_3KyhbJl9se1yNlwF6HHTQ1Twtj-DyvXkgBbsYz36TvIMYkd1AKZvkpzIgFQJ--arn4m3PNSAV5TC3Zz2CpXypZpTszxjyKQbbk26N9m2y26w0cMkWY2_Wl3lbfwmoDar7VAVRpy0UbM-NGJ0A.webp"
+  },
+  {
+    "anime": "첫사랑 한정/애니메이션",
+    "type": "OP",
+    "song": "Future Stream",
+    "vocal": "Sphere",
+    "videoId": "4gTO0Wd8d-A",
+    "videoIds": [
+      "4gTO0Wd8d-A",
+      "kgYk-M_fTvg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=4gTO0Wd8d-A",
+    "source": "https://namu.wiki/w/%EC%B2%AB%EC%82%AC%EB%9E%91%20%ED%95%9C%EC%A0%95/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/1RTjA1kpPyWrgT_7l8kFsjeXRTbPnRTJOd24e2Dbc3QB5lpmLe52ndNVTFTR1DjIV4GyAU3ctdO21D4YtKBolvXn0M0SQS16nUrXRIEeXJsqWsZNrpLIFp1s7yBqEnY8bZQzpcUmIiQ3lPT46DmLOQ.webp"
+  },
+  {
+    "anime": "모모큔 소드",
+    "type": "OP",
+    "song": "桃色ファンタジー",
+    "vocal": "치스가 하루카",
+    "videoId": "QtVFfGkiFIk",
+    "videoIds": [
+      "QtVFfGkiFIk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=QtVFfGkiFIk",
+    "source": "https://namu.wiki/w/%EB%AA%A8%EB%AA%A8%ED%81%94%20%EC%86%8C%EB%93%9C",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/FEvk9yHY_wAe3upi3_hAQfSVAhdWGYGNe2PlZLuHqUvmwb9OT7GIN0inrDoOPChPkj7fa4WLsvC_uFyd0Yk7Dp0iCQ898emcYIwBpY7qzNvRrN5DL9Ay7eodfIoR1UDVnvquWuW5rmkhpnBYUdNW6w.webp"
+  },
+  {
+    "anime": "모모큔 소드",
+    "type": "ED",
+    "song": "モモキュンソード",
+    "vocal": "모모코( 타케타츠 아야나 )",
+    "videoId": "MostDAItjN4",
+    "videoIds": [
+      "MostDAItjN4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=MostDAItjN4",
+    "source": "https://namu.wiki/w/%EB%AA%A8%EB%AA%A8%ED%81%94%20%EC%86%8C%EB%93%9C",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/FEvk9yHY_wAe3upi3_hAQfSVAhdWGYGNe2PlZLuHqUvmwb9OT7GIN0inrDoOPChPkj7fa4WLsvC_uFyd0Yk7Dp0iCQ898emcYIwBpY7qzNvRrN5DL9Ay7eodfIoR1UDVnvquWuW5rmkhpnBYUdNW6w.webp"
+  },
+  {
+    "anime": "KEY THE METAL IDOL",
+    "type": "OP",
+    "song": "In the Night",
+    "vocal": "키지마 사리오(貴島サリオ)",
+    "videoId": "MaBI0g2uU18",
+    "videoIds": [
+      "MaBI0g2uU18",
+      "2yONJC7BIXA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=MaBI0g2uU18",
+    "source": "https://namu.wiki/w/%ED%82%A4%20%EB%8D%94%20%EB%A9%94%ED%83%88%20%EC%95%84%EC%9D%B4%EB%8F%8C",
+    "year": 2026,
+    "image": "//i.namu.wiki/i/vLy6wtPTPnLxyvX8mOzEtVt2gBtS9agtqohj4nV3wBWnF2LzpbvfLJP8KKQUA_L9-2JqabLV2zGmoGwXRPV-oemmustc5f8C4mamOWyF2JQyvX5Ys8ohEbaEdhM08hnB213L6AgpfiLJjXtmFmNJEA.webp"
+  },
+  {
+    "anime": "꿈을 먹는 메리/애니메이션",
+    "type": "OP",
+    "song": "Daydream Syndrome",
+    "vocal": "후지와라 마리나(藤原鞠菜) [2]",
+    "videoId": "Bu1dncOlwJg",
+    "videoIds": [
+      "Bu1dncOlwJg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Bu1dncOlwJg",
+    "source": "https://namu.wiki/w/%EA%BF%88%EC%9D%84%20%EB%A8%B9%EB%8A%94%20%EB%A9%94%EB%A6%AC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/Q9uCrQ2HYBX3aAD_OSjqM6hOioOhvGPAhSVInWVc2vTo8INUT0kfWm2TP6_bOCcRboUnwBhRyVvGs2ePcSCZNymHQGCIx1l8khsVcJTx2NltelIJOqSmbQ30E-OAjEyd0efxPTuPaJCb9Q33lmVSSw.webp"
+  },
+  {
+    "anime": "꿈을 먹는 메리/애니메이션",
+    "type": "ED",
+    "song": "ユメとキボーとアシタのアタシ",
+    "vocal": "메리 나이트메어 (CV: 사쿠라 아야네 )",
+    "videoId": "amPw49mjSMs",
+    "videoIds": [
+      "amPw49mjSMs"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=amPw49mjSMs",
+    "source": "https://namu.wiki/w/%EA%BF%88%EC%9D%84%20%EB%A8%B9%EB%8A%94%20%EB%A9%94%EB%A6%AC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/Q9uCrQ2HYBX3aAD_OSjqM6hOioOhvGPAhSVInWVc2vTo8INUT0kfWm2TP6_bOCcRboUnwBhRyVvGs2ePcSCZNymHQGCIx1l8khsVcJTx2NltelIJOqSmbQ30E-OAjEyd0efxPTuPaJCb9Q33lmVSSw.webp"
+  },
+  {
+    "anime": "뱀파이어 기사",
+    "type": "OP",
+    "song": "ふたつの鼓動と赤い罪",
+    "vocal": "ON/OFF",
+    "videoId": "_-vuMuQwSaA",
+    "videoIds": [
+      "_-vuMuQwSaA",
+      "RAxZogA4KCw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=_-vuMuQwSaA",
+    "source": "https://namu.wiki/w/%EB%B1%80%ED%8C%8C%EC%9D%B4%EC%96%B4%20%EA%B8%B0%EC%82%AC",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/UYV0Bl198uVHuNdUjNo47uBcGSgl7J5Hnng5uhx794YTMy8JJQROpEnshbDmmcSsryMLVlDNDWpR2nki7xeZyX3ndGsfQapEoWAxUm2IJ5aQRmOKVngZEmtK1XlGlg6vWKYQ8NLBQ01GCq2bLWcppg.webp"
+  },
+  {
+    "anime": "BLOOD-C",
+    "type": "OP",
+    "song": "spiral",
+    "vocal": "DUSTZ",
+    "videoId": "IUSrhDPN-VI",
+    "videoIds": [
+      "IUSrhDPN-VI",
+      "TLbwU1aNaNg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=IUSrhDPN-VI",
+    "source": "https://namu.wiki/w/%EB%B8%94%EB%9F%AC%EB%93%9CC",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/fqP0OI4QZprrMLf9dTb8tXy5KlxFPtjOE21Z5cj3w-u4Jm9zqm-KVANmGL-2Ftw2i8X5Yf5SRUNebpIGUjx0egCPy7dbXesJGXnHgP0LdyLU-bI3TiYQEGUmZxs0DKTifjorBYyc_jN2ZO4Wx92Jkw.webp"
+  },
+  {
+    "anime": "히로익 에이지",
+    "type": "OP",
+    "song": "gravitation",
+    "vocal": "angela",
+    "videoId": "vPa1OarUDog",
+    "videoIds": [
+      "vPa1OarUDog",
+      "baTQ05cdh70"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=vPa1OarUDog",
+    "source": "https://namu.wiki/w/%ED%9E%88%EB%A1%9C%EC%9D%B5%20%EC%97%90%EC%9D%B4%EC%A7%80",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/2Bt7RJDSn7jpS6NgZI0rdfoHSSRCm3GQqfqF3u1GyBAH8UhXUxGIJaFlkRawuKi5egRQryLtttlAc1WiaMvZBalRrXO4SkUlvPFCftsmw7ZmY8tpEKmu1HM_ecf1v8TQweev_cRtMdzx_AWfkjAExQ.webp"
+  },
+  {
+    "anime": "신비한 별의 쌍둥이 공주",
+    "type": "OP",
+    "song": "プリンセスはあきらめない 공주니까 괜찮아 [13]",
+    "vocal": "FLIP-FLAP [14] 김령희",
+    "videoId": "Wm1Rtar9vs8",
+    "videoIds": [
+      "Wm1Rtar9vs8",
+      "l9_bYD5ptmk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Wm1Rtar9vs8",
+    "source": "https://namu.wiki/w/%EC%8B%A0%EB%B9%84%ED%95%9C%20%EB%B3%84%EC%9D%98%20%EC%8C%8D%EB%91%A5%EC%9D%B4%20%EA%B3%B5%EC%A3%BC",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/vI8TTR3Y37jmf8MgyiRoYtvGchWlJZlBv8yRMz9hiKVjBxzaQDPenax8VD0UqUuNRMM-FgTG0BZh7QoYC74dANKcKNWGATax7ZLyTdDuUfucuewkALJ7lsEbf3Ly_8z7LY1hQBvUZHONQqLLyxi5QA.webp"
+  },
+  {
+    "anime": "신비한 별의 쌍둥이 공주",
+    "type": "ED",
+    "song": "2기 ED 1 学園天国 학원천국",
+    "vocal": "ワンダー☆5 [19] [20] 파인, 레인( 정유미 , 이지영 )",
+    "videoId": "_F4KfTqrFIs",
+    "videoIds": [
+      "_F4KfTqrFIs"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=_F4KfTqrFIs",
+    "source": "https://namu.wiki/w/%EC%8B%A0%EB%B9%84%ED%95%9C%20%EB%B3%84%EC%9D%98%20%EC%8C%8D%EB%91%A5%EC%9D%B4%20%EA%B3%B5%EC%A3%BC",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/vI8TTR3Y37jmf8MgyiRoYtvGchWlJZlBv8yRMz9hiKVjBxzaQDPenax8VD0UqUuNRMM-FgTG0BZh7QoYC74dANKcKNWGATax7ZLyTdDuUfucuewkALJ7lsEbf3Ly_8z7LY1hQBvUZHONQqLLyxi5QA.webp"
+  },
+  {
+    "anime": "천상천하(만화)",
+    "type": "OP",
+    "song": "Bomb A Head! V",
+    "vocal": "m.c.A・T",
+    "videoId": "t4TXnn5OD-0",
+    "videoIds": [
+      "t4TXnn5OD-0",
+      "bhrVI4L5zYE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=t4TXnn5OD-0",
+    "source": "https://namu.wiki/w/%EC%B2%9C%EC%83%81%EC%B2%9C%ED%95%98(%EB%A7%8C%ED%99%94)",
+    "year": 2004,
+    "image": "//i.namu.wiki/i/mHzHex3mURmWoaQVauXJXBSsB9vHCylhJW0ZPdrB__3MUO7UVjyYd8H9NFNWF0VRgNHUMfvzSXPSB3r6th1Mp0bq5XGqyxf6SZCIouRv05wo2_Yh4Ee4iIJ8mn2BXekmEtLnVbrvK5TpS0yvEB_oDQ.webp"
+  },
+  {
+    "anime": "초역 백인일수 우타코이",
+    "type": "ED",
+    "song": "Singin' My Lu",
+    "vocal": "SOUL'd OUT",
+    "videoId": "6598OypoNJg",
+    "videoIds": [
+      "6598OypoNJg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=6598OypoNJg",
+    "source": "https://namu.wiki/w/%EC%B4%88%EC%97%AD%20%EB%B0%B1%EC%9D%B8%EC%9D%BC%EC%88%98%20%EC%9A%B0%ED%83%80%EC%BD%94%EC%9D%B4",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/0e_YDFKWWkxiUYLWCZCTIO05klIMlrU3oMbH9LxZJu9Exzk7FcoXKjn920bNH7kMDtq0-0QoeLwUOgr1XhlDPECybCgp0eONwm-Kqdf04_qm_JzrNSeh1Hm3RlsZ6DlcFfxTDGyvZLse1p3l6CQqwQ.webp"
+  },
+  {
+    "anime": "너와 나 2",
+    "type": "OP",
+    "song": "ずっと",
+    "vocal": "사코 토모히사",
+    "videoId": "oxl4EJj3enc",
+    "videoIds": [
+      "oxl4EJj3enc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=oxl4EJj3enc",
+    "source": "https://namu.wiki/w/%EB%84%88%EC%99%80%20%EB%82%98%202",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/mCYrzIY37WDdQ3Vn-HFwDemGyvq3COePXO3wpcFVPZsB91QILrLbePDepzZ0ErNgVEkkaTFgke8X0-Rn1jYXoJSa6BHw2Ldh20FxCbf1ng2REL-AbaJoV4q_OVJbeSCn-lPI4yj33BiJbT1CiYP3tQ.webp"
+  },
+  {
+    "anime": "너와 나 2",
+    "type": "ED",
+    "song": "君と僕の挽歌",
+    "vocal": "사카이 유우(さかいゆう)",
+    "videoId": "r-hwkGELjxs",
+    "videoIds": [
+      "r-hwkGELjxs"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=r-hwkGELjxs",
+    "source": "https://namu.wiki/w/%EB%84%88%EC%99%80%20%EB%82%98%202",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/mCYrzIY37WDdQ3Vn-HFwDemGyvq3COePXO3wpcFVPZsB91QILrLbePDepzZ0ErNgVEkkaTFgke8X0-Rn1jYXoJSa6BHw2Ldh20FxCbf1ng2REL-AbaJoV4q_OVJbeSCn-lPI4yj33BiJbT1CiYP3tQ.webp"
+  },
+  {
+    "anime": "프린세스 츄츄",
+    "type": "OP",
+    "song": "Morning Grace",
+    "vocal": "오카자키 리츠코 김문선",
+    "videoId": "IwYcU3RSgWI",
+    "videoIds": [
+      "IwYcU3RSgWI",
+      "tITsAJE-X7A"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=IwYcU3RSgWI",
+    "source": "https://namu.wiki/w/%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4%20%EC%B8%84%EC%B8%84",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/gsRkLJ4xB5Z2YQ5PAr8XpMjm1KiVEa8NvU1qyp7wBkTqmfas0SgutRPyXPbDQ6H1pBvppieaMJFRuifpg0DOV3yrivPZtQ9yW2l7grC_bmrorITR6xvnjyATjYPb3qqdSiL6I7jUzx904lNlCEyAxw.webp"
+  },
+  {
+    "anime": "듀얼! 패러렐룬룬 이야기",
+    "type": "OP",
+    "song": "DUAL",
+    "vocal": "HARU&SAYAKA from UNIVERS★L D",
+    "videoId": "FAGO4mLigk0",
+    "videoIds": [
+      "FAGO4mLigk0",
+      "D0QJYCR6MSw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=FAGO4mLigk0",
+    "source": "https://namu.wiki/w/%EB%93%80%EC%96%BC!%20%ED%8C%A8%EB%9F%AC%EB%A0%90%EB%A3%AC%EB%A3%AC%20%EC%9D%B4%EC%95%BC%EA%B8%B0",
+    "year": 1999,
+    "image": "//i.namu.wiki/i/uO5Nq6WyxeeuvGPkt1bySHc1d1tS2mMJboR-kh9-EHX_CSDFd1FXya5YYwFTYCE6f01CBgESAEJtCTBaZGVQpdyKulqHyZjj45t3zkFieIblc1c4Ck6542QFc6_xq7QVfUIRNqyqptjkLdbu1gFaOg.webp"
+  },
+  {
+    "anime": "귀가부 활동 기록",
+    "type": "OP",
+    "song": "2学期デビュー大作戦!!",
+    "vocal": "오토메 신토(乙女新党)",
+    "videoId": "54XEzAd6jRI",
+    "videoIds": [
+      "54XEzAd6jRI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=54XEzAd6jRI",
+    "source": "https://namu.wiki/w/%EA%B7%80%EA%B0%80%EB%B6%80%20%ED%99%9C%EB%8F%99%20%EA%B8%B0%EB%A1%9D",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/-bTzfeun3eLZlG84Ed59oY1-fLakgQhbsePau710A0axwdl2fCqdReNiYoZNxPQtyITJ-Ekkc7a1TrOyB9NWKzpG3S3nZnnu3u2lgGIBn68EY7SV8P0pd5tbc8vwjv1Lv_2iRi5sUsVbHLsDqGvx9w.webp"
+  },
+  {
+    "anime": "시공탐정 겐시군",
+    "type": "OP",
+    "song": "パワーなきもち 힘찬 기분",
+    "vocal": "아사쿠라 유카리(朝倉ゆかり) 심혜림, 이선 [10] , 구민선",
+    "videoId": "LB4R0-6nxsk",
+    "videoIds": [
+      "LB4R0-6nxsk",
+      "itZJKp06DJM"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=LB4R0-6nxsk",
+    "source": "https://namu.wiki/w/4%EC%B0%A8%EC%9B%90%20%ED%83%90%EC%A0%95%20%EB%98%98%EB%B9%84",
+    "year": 1990,
+    "image": "//i.namu.wiki/i/yN_VgvHIEzMFR5M0Apl1MgupY2Roh1jVGJo3rRUiD0iCNnoX6T_NicW7x-K3Q4R6R0FUz7XGhGR9nq9Y_N7qiOY3xxoJSk-mc1LYNWEJKmU4lEuW2po4UEpZLLGY9-BWCZAwkdteYhor70Qt1mmErA.webp"
+  },
+  {
+    "anime": "이나즈마 일레븐(애니메이션)",
+    "type": "OP",
+    "song": "(1기) 立ち上がリーヨ 모두 일어나",
+    "vocal": "심규한 [13]",
+    "videoId": "1mraqbBhaMY",
+    "videoIds": [
+      "1mraqbBhaMY",
+      "qQhHKyl2fS0",
+      "atrmlqTQ9nc",
+      "K3NRuW-ZRQA",
+      "7dLTqF3J7oU",
+      "KFIED-hnFiY",
+      "8pZAOBdtGBo",
+      "ilD_QBbYPCI",
+      "6outmMWAY2Q",
+      "gaX_sHdZOoc",
+      "yEGKWcb4Q_0",
+      "1QADwnXiMY0",
+      "ypP-32lHc2w",
+      "SU8nTIx_mxo",
+      "2KAo92ZSmw0",
+      "EGQTGzp3PZo",
+      "4MtuBHDjXek",
+      "BLXgnibYGr8",
+      "Hd326Z8PDLM",
+      "P8kcLeqA3q4",
+      "gST-95BtSxo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=1mraqbBhaMY",
+    "source": "https://namu.wiki/w/%EC%8D%AC%EB%8D%94%20%EC%9D%BC%EB%A0%88%EB%B8%90",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/YxKbquEQ0eAk3h9ICG82P_nPhWRoCQhjMwYm-AaqbdNJEPtxKkRt3yKPl7oDKW7uzw_WGRQIRH5rWYVxTXoklaoevGA7_RdfwzqeQc47IhTuITSTUhkjjhaJya2YGbHoq0bOgu1DTdFCQJ9-ztLxmA.webp"
+  },
+  {
+    "anime": "마법의 스타 매지컬 에미",
+    "type": "OP",
+    "song": "不思議色ハピネス 신비한 빛깔 Happiness",
+    "vocal": "오바타 유코(小幡洋子)",
+    "videoId": "sxdH37A2rbA",
+    "videoIds": [
+      "sxdH37A2rbA",
+      "hW8TCzs2ZvU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=sxdH37A2rbA",
+    "source": "https://namu.wiki/w/%EB%A7%88%EB%B2%95%EC%9D%98%20%EC%8A%A4%ED%83%80%20%EB%A7%A4%EC%A7%80%EC%BB%AC%20%EC%97%90%EB%AF%B8",
+    "year": 1985,
+    "image": "//i.namu.wiki/i/a11oPDS2vj6o_if16Xr3owIvzujTOrZ8nrWWnyHguwCiAQryB1SlpBFa6jvM3iImI32GPYXQpxs1lmIjCjrn2zZSUkDm40rlHMjsH-zaO6kYE6fvBBS_GnwTZBuPrrxRLvTa6JPp8Q7sDv_I9lUEkQ.webp"
+  },
+  {
+    "anime": "호오즈키의 냉철(애니메이션 2기)",
+    "type": "OP",
+    "song": "1 大！地獄地獄節 대! 지옥지옥절",
+    "vocal": "지옥의 사태 올스타즈(地獄の沙汰オールスターズ) 호오즈키 ( 야스모토 히로키 )염라대왕( 나가사코 타카시 ) 시로( 코바야시 유미코 ) 카라우리( 카키하라 테츠야 ) 나스비( 아오야마 토우코 ) 오코( 키타무라 에리 ) YOUR SONG IS GOOD",
+    "videoId": "usdr-lYmrzY",
+    "videoIds": [
+      "usdr-lYmrzY",
+      "vfQaDMHpriQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=usdr-lYmrzY",
+    "source": "https://namu.wiki/w/%ED%98%B8%EC%98%A4%EC%A6%88%ED%82%A4%EC%9D%98%20%EB%83%89%EC%B2%A0(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%202%EA%B8%B0)",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/Ho2IPEaAbFzXfkcpjG2pr3WFRF-zKHmlSE9opCvK1DMyZg6R8rHCJXIiML-aJhAegxh3G9f0epNafHqu1XBR396n0cayx1BvxOz_9FggaoZu479jrOO58-xP2YOLsAZgqVu_xwBJ6lZDn-BFBW_ZnA.webp"
+  },
+  {
+    "anime": "serial experiments lain",
+    "type": "OP",
+    "song": "Duvet",
+    "vocal": "Bôa",
+    "videoId": "MM8RufZr5lw",
+    "videoIds": [
+      "MM8RufZr5lw",
+      "o2dPCkh78qo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=MM8RufZr5lw",
+    "source": "https://namu.wiki/w/serial%20experiments%20lain",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/ENz8pyjEd7R4mNsVOZR0ray3G82tZhEkTU1aJziA8K973xRdAIFBEXpLtSdTTER3bw8rTWYvVZNWJ4tfn3nfrGC9EClyqBPClA0RKWEJvfStNah_9HLnFObawFG3x_hCngk-ZWvstKbZVF2Oo5KERQ.webp"
+  },
+  {
+    "anime": "serial experiments lain",
+    "type": "ED",
+    "song": "遠い叫び 먼 외침",
+    "vocal": "나카이도 'CHABO' 레이치(仲井戸‘CHABO’麗市)",
+    "videoId": "ye2WH3ymu8s",
+    "videoIds": [
+      "ye2WH3ymu8s",
+      "nzmmNi3-hRo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ye2WH3ymu8s",
+    "source": "https://namu.wiki/w/serial%20experiments%20lain",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/ENz8pyjEd7R4mNsVOZR0ray3G82tZhEkTU1aJziA8K973xRdAIFBEXpLtSdTTER3bw8rTWYvVZNWJ4tfn3nfrGC9EClyqBPClA0RKWEJvfStNah_9HLnFObawFG3x_hCngk-ZWvstKbZVF2Oo5KERQ.webp"
+  },
+  {
+    "anime": "은수저 Silver Spoon(애니메이션 2기)",
+    "type": "OP",
+    "song": "LIFE",
+    "vocal": "후지패브릭",
+    "videoId": "yT7mpDz9H8E",
+    "videoIds": [
+      "yT7mpDz9H8E"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=yT7mpDz9H8E",
+    "source": "https://namu.wiki/w/%EC%9D%80%EC%88%98%EC%A0%80%20Silver%20Spoon(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%202%EA%B8%B0)",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/jImNYCYnhKzwY72R-iL-cBjgCi3vndlHytJ2z_N_XJvs_805VJizo1ubyAZhaLxvqkZIMYgDvaxeHXQTLF-3JFNW0eDaj2LtZYK4VqZLrySz5-HM0v1Ru8LqtxcCUv8VTx8HxgexN1ePAJq1Fxd5yw.webp"
+  },
+  {
+    "anime": "데드맨 원더랜드/애니메이션",
+    "type": "OP",
+    "song": "One Reason",
+    "vocal": "DWB feat. FADE",
+    "videoId": "GTLPu-bguqI",
+    "videoIds": [
+      "GTLPu-bguqI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=GTLPu-bguqI",
+    "source": "https://namu.wiki/w/%EB%8D%B0%EB%93%9C%EB%A7%A8%20%EC%9B%90%EB%8D%94%EB%9E%9C%EB%93%9C/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/IQTCabCW7JnyhIDy_E-ZgIEzsgZL59oeZLPa5LtORETMPgLfILBeKHven2TRvBS7xW0M1bME2Xe_4gbctOeRlMZ-kchdnEhpyKBNoa8BOChyJe7qOYVAJHUk87uR16azeLebJP3bllRjfP6ZiXglEw.webp"
+  },
+  {
+    "anime": "제로의 사역마(애니메이션 1기)",
+    "type": "OP",
+    "song": "First Kiss",
+    "vocal": "ICHIKO",
+    "videoId": "p3Y0iTuAh8U",
+    "videoIds": [
+      "p3Y0iTuAh8U"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=p3Y0iTuAh8U",
+    "source": "https://namu.wiki/w/%EC%A0%9C%EB%A1%9C%EC%9D%98%20%EC%82%AC%EC%97%AD%EB%A7%88(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/IKTd4OIZlJf-7NRNJ1HZraj-Fp6nWi7KQYQxQYts69fTGkDvQGvT3NFBCsEIQioRnY65uecLU8rxtBR60xX3jAO40kQlEN_kcOz4SB6sq_rRgUHTEqVQJIvt8q3Ryo4ku2OrjczvJZRh1lShWgbA1Q.webp"
+  },
+  {
+    "anime": "제로의 사역마(애니메이션 1기)",
+    "type": "ED",
+    "song": "ホントノキモチ 진실된 마음",
+    "vocal": "루이즈 (CV: 쿠기미야 리에 )",
+    "videoId": "FTkC9VPSjb8",
+    "videoIds": [
+      "FTkC9VPSjb8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=FTkC9VPSjb8",
+    "source": "https://namu.wiki/w/%EC%A0%9C%EB%A1%9C%EC%9D%98%20%EC%82%AC%EC%97%AD%EB%A7%88(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/IKTd4OIZlJf-7NRNJ1HZraj-Fp6nWi7KQYQxQYts69fTGkDvQGvT3NFBCsEIQioRnY65uecLU8rxtBR60xX3jAO40kQlEN_kcOz4SB6sq_rRgUHTEqVQJIvt8q3Ryo4ku2OrjczvJZRh1lShWgbA1Q.webp"
+  },
+  {
+    "anime": "코펠리온",
+    "type": "OP",
+    "song": "ANGEL",
+    "vocal": "angela [20]",
+    "videoId": "bO5r5YJrgJY",
+    "videoIds": [
+      "bO5r5YJrgJY",
+      "qmuJGuXZSbQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=bO5r5YJrgJY",
+    "source": "https://namu.wiki/w/%EC%BD%94%ED%8E%A0%EB%A6%AC%EC%98%A8",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/X6MBoqaSdqS1qzgQbMqpOKCJdmYoG9yb_2OkHfKWn2RlHMP3kdY88dYAK7tsq82Yrm5NN1yyidJ5f12PPodoeCnSDORoH6_3cljUtdSzAxi1NNeSbhXYc8kb3Nct5bnQe5BO0n7Y1cUx5JhdotEuxA.webp"
+  },
+  {
+    "anime": "괴물군(1980년 애니메이션)",
+    "type": "OP",
+    "song": "ユカイツーカイ怪物くん 번역명 번안명",
+    "vocal": "노자와 마사코 김서영",
+    "videoId": "pp-IylkYAGY",
+    "videoIds": [
+      "pp-IylkYAGY",
+      "-Ata8v77dsE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=pp-IylkYAGY",
+    "source": "https://namu.wiki/w/%EA%B4%B4%EB%AC%BC%EA%B5%B0(1980%EB%85%84%20%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)",
+    "year": 1980,
+    "image": "//i.namu.wiki/i/wh785X8YFmysenlAlRtrk7gpdyBYkMc8CvsXnsWGgPbZG4z9T2IMVaLeAHBVOxWjbQB2dZuco9h2WiHPyg2mlKEgLDDb37VjqPw2Q8sE1soa8DfhQm49P82ycjGj5Oa6vdMbyydcFDplNOjQ-wMGQg.webp"
+  },
+  {
+    "anime": "연금 3급 매지컬? 포카~앙",
+    "type": "OP",
+    "song": "鮮血の誓い 선혈의 맹세",
+    "vocal": "요정제국",
+    "videoId": "Kpq027OAMv0",
+    "videoIds": [
+      "Kpq027OAMv0",
+      "-CdGUc3wQ_U"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Kpq027OAMv0",
+    "source": "https://namu.wiki/w/%EC%97%B0%EA%B8%88%203%EA%B8%89%20%EB%A7%A4%EC%A7%80%EC%BB%AC%20%ED%8F%AC%EC%B9%B4~%EC%95%99",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/bP34ZSdIYSYW76Fdv6_kFYNXqq5Q9lNRrWbQBLc-8gbFNMwvea79DEDlo4a6CLrKFdmLoi_AnEyimnsVeyThEIe0A2FA5zQqwnKYvn6Te_qf1jgv_ukLmmP5yw1VxTGBbRxkQmkEmxMuJCebzQ2axQ.webp"
+  },
+  {
+    "anime": "기신포후 데몬베인",
+    "type": "OP",
+    "song": "人、神、機 -Man God Machine-",
+    "vocal": "이쿠자와 유이치(生沢佑一)",
+    "videoId": "CnZREeXpCnM",
+    "videoIds": [
+      "CnZREeXpCnM"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=CnZREeXpCnM",
+    "source": "https://namu.wiki/w/%EA%B8%B0%EC%8B%A0%ED%8F%AC%ED%9B%84%20%EB%8D%B0%EB%AA%AC%EB%B2%A0%EC%9D%B8",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/ymBlK_u6ScTDQZA_9RFOD06Jggyee_0iU6km2YaL-_ToUJx5dwy0tg-v8h2hfGrO20VoT6RwejdH5U8GFdGA9xwqTOgCWLVu9ddo1PRoAEJge6ConYrongvLvn7KlD6nXUgY8M54o95nwcJFEVmA7Q.webp"
+  },
+  {
+    "anime": "성흔의 퀘이사 Ⅱ",
+    "type": "OP",
+    "song": "螺旋、或いは聖なる欲望。 나선, 혹은 성스러운 욕망",
+    "vocal": "페이란",
+    "videoId": "1MZNCsnEGik",
+    "videoIds": [
+      "1MZNCsnEGik",
+      "mWEGx6rAUCg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=1MZNCsnEGik",
+    "source": "https://namu.wiki/w/%EC%84%B1%ED%9D%94%EC%9D%98%20%ED%80%98%EC%9D%B4%EC%82%AC%20%E2%85%A1",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/PuqHf4Bh5UuRaGDUIP7spCZqJ6wNI5TQelemBoUUImPEgWUWMXdarjvmukUI_m_Etvxz92QuvK2n-zG2ce1vASxdSpPH6Deh6p097bv_SMEE4VdNd4iMGXNRJmlNH2ndP58h3ARwpGmzV38rhOvRsQ.webp"
+  },
+  {
+    "anime": "왕도둑 징",
+    "type": "OP",
+    "song": "Shout it loud",
+    "vocal": "스쿠델리아 엘렉트로(スクーデリア エレクトロ) 홍종명",
+    "videoId": "R4tndPDzzyI",
+    "videoIds": [
+      "R4tndPDzzyI",
+      "wsX5jf6cx8M"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=R4tndPDzzyI",
+    "source": "https://namu.wiki/w/%EC%99%95%EB%8F%84%EB%91%91%20%EC%A7%95",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/l2rjDsak-bvY-R-rNT6AcscvAs7Fhcsc0Z-eDD2xsL5gD7r-sGNYPkp3Y2Yh3QOHILPl6m0pkkUfGXiAVscLqUlqQmLnq5IlMVz5IEOUShvHwPwxsx8ILaYXKbcaJeImi6xTH-BbXBcYVVnsIIJlJA.webp"
+  },
+  {
+    "anime": "첫 갸루/애니메이션",
+    "type": "OP",
+    "song": "はじめてのSEASON 첫 SEASON",
+    "vocal": "순정의 아필리아",
+    "videoId": "VV_680c9Mk8",
+    "videoIds": [
+      "VV_680c9Mk8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=VV_680c9Mk8",
+    "source": "https://namu.wiki/w/%EC%B2%AB%20%EA%B0%B8%EB%A3%A8/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/gla4fzB_6yrs2cwSLZ6twOtrg10OARbisF5gso79s2m99MWUCstIJU5HuCR61HIovIwU5mBvLmAwW5KD7fgnEqYsg4TcU43P25fhAs2Dyrx3FXzcqVL1IykFPW75Vc9gj7ldJGr_ShDdxuAsQXyQ4Q.webp"
+  },
+  {
+    "anime": "첫 갸루/애니메이션",
+    "type": "ED",
+    "song": "GAL的LOVE 갸루틱 러브",
+    "vocal": "에라바레시(エラバレシ)",
+    "videoId": "9MSKE0Gk5uk",
+    "videoIds": [
+      "9MSKE0Gk5uk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=9MSKE0Gk5uk",
+    "source": "https://namu.wiki/w/%EC%B2%AB%20%EA%B0%B8%EB%A3%A8/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/gla4fzB_6yrs2cwSLZ6twOtrg10OARbisF5gso79s2m99MWUCstIJU5HuCR61HIovIwU5mBvLmAwW5KD7fgnEqYsg4TcU43P25fhAs2Dyrx3FXzcqVL1IykFPW75Vc9gj7ldJGr_ShDdxuAsQXyQ4Q.webp"
+  },
+  {
+    "anime": "The Big-O",
+    "type": "OP",
+    "song": "시즌 1 OP BIG-O!",
+    "vocal": "나가이 루이(永井ルイ)",
+    "videoId": "Cdae0z2S06c",
+    "videoIds": [
+      "Cdae0z2S06c",
+      "LfmrHTdXgK4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Cdae0z2S06c",
+    "source": "https://namu.wiki/w/The%20Big-O",
+    "year": 1999,
+    "image": "//i.namu.wiki/i/cI7kUkED-p9xnXjiOnAxeixXtUp8cZrIgaOWxf588ukrVUZ-P9v8Z_xAyHOjyx8P0Xlz4RKI_Oyrc6TLWDTWkgrcH76u0p5la39OnVJZgyTUP4R9uYDvrkBEH-72EGZHX7xkt6d20ItMWnDKQQRcFQ.webp"
+  },
+  {
+    "anime": "The Big-O",
+    "type": "OP",
+    "song": "시즌 2 OP RESPECT",
+    "vocal": "",
+    "videoId": "j2PoXfZdYVU",
+    "videoIds": [
+      "j2PoXfZdYVU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=j2PoXfZdYVU",
+    "source": "https://namu.wiki/w/The%20Big-O",
+    "year": 1999,
+    "image": "//i.namu.wiki/i/cI7kUkED-p9xnXjiOnAxeixXtUp8cZrIgaOWxf588ukrVUZ-P9v8Z_xAyHOjyx8P0Xlz4RKI_Oyrc6TLWDTWkgrcH76u0p5la39OnVJZgyTUP4R9uYDvrkBEH-72EGZHX7xkt6d20ItMWnDKQQRcFQ.webp"
+  },
+  {
+    "anime": "늑대소녀와 흑왕자",
+    "type": "ED",
+    "song": "オオカミハート 늑대의 마음",
+    "vocal": "ORESAMA",
+    "videoId": "PwAgOqNvFGA",
+    "videoIds": [
+      "PwAgOqNvFGA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=PwAgOqNvFGA",
+    "source": "https://namu.wiki/w/%EB%8A%91%EB%8C%80%EC%86%8C%EB%85%80%EC%99%80%20%ED%9D%91%EC%99%95%EC%9E%90",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/MekGZRCB4r-gS2O86l4e3lMMuNZD-3KZUyCMZeqNxRAioSsr_mJDOTNBMWPMyS0sVo6UhHhT1NzwnoCHXpy1cnBSMDXOrNMeMRTQhN96Uee2c6gcLKfu4FrunwKgq7bjPqflzGlIIqKK0daUpaN5bQ.webp"
+  },
+  {
+    "anime": "지옥소녀",
+    "type": "OP",
+    "song": "逆さまの蝶",
+    "vocal": "SNoW",
+    "videoId": "OcSlkpVUGX0",
+    "videoIds": [
+      "OcSlkpVUGX0"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=OcSlkpVUGX0",
+    "source": "https://namu.wiki/w/%EC%A7%80%EC%98%A5%EC%86%8C%EB%85%80",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/kZ2YAb0FFBUolWKVpC0sZNccKbyDwDhdB5GTjgLHqCarw_LbS4PFyZAf1THJKjWhrGGIZ0xQorG5k0Qo0U4y1_3-k6oxfMUHmCvKlnycRkFt2J1LdtPBHJO_4OBfIolRr2D_2bFsWPU8FIKl-c5SDQ.webp"
+  },
+  {
+    "anime": "지옥소녀",
+    "type": "ED",
+    "song": "かりぬい",
+    "vocal": "노토 마미코",
+    "videoId": "_J5_caM3FeE",
+    "videoIds": [
+      "_J5_caM3FeE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=_J5_caM3FeE",
+    "source": "https://namu.wiki/w/%EC%A7%80%EC%98%A5%EC%86%8C%EB%85%80",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/kZ2YAb0FFBUolWKVpC0sZNccKbyDwDhdB5GTjgLHqCarw_LbS4PFyZAf1THJKjWhrGGIZ0xQorG5k0Qo0U4y1_3-k6oxfMUHmCvKlnycRkFt2J1LdtPBHJO_4OBfIolRr2D_2bFsWPU8FIKl-c5SDQ.webp"
+  },
+  {
+    "anime": "강철신 지그",
+    "type": "OP",
+    "song": "STORMBRINGER",
+    "vocal": "JAM Project",
+    "videoId": "I71tKoa-DiM",
+    "videoIds": [
+      "I71tKoa-DiM",
+      "jmvq1H5mgYg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=I71tKoa-DiM",
+    "source": "https://namu.wiki/w/%EA%B0%95%EC%B2%A0%EC%8B%A0%20%EC%A7%80%EA%B7%B8",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/F04ZnKnpjm-7L__lYgFn_QHdSGzUPd8akD_JJwK7qLZIJtQCarP4PEzFEXRHAJsZ3lB7KeadfjqQAJRUEmvdyo-qHArQIAzahq8DyCRzPctug_yCGFgJhPgCEv2Xh1JTgyVhMgUqitFMyf6GkEwt2Q.webp"
+  },
+  {
+    "anime": "베이블레이드 버스트(애니메이션 1기)",
+    "type": "OP",
+    "song": "バーストフィニッシュ! 버스트 피니시!",
+    "vocal": "코바야시 타츠유키(小林竜之)",
+    "videoId": "IcbBvqSKpjo",
+    "videoIds": [
+      "IcbBvqSKpjo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=IcbBvqSKpjo",
+    "source": "https://namu.wiki/w/%EB%B2%A0%EC%9D%B4%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C%20%EB%B2%84%EC%8A%A4%ED%8A%B8(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/iw719_n2hBOYDZqJI3b8vbHEDQCn6pXcWYF0ifcUVlonHdYudlmj2v6VySjWiIELnJqgT7OIjDa1bfgl3uHQCBZGqUhvelc-ju2kzjrkKtkv9g69OQfIeeOABJndGiGDnJOGDG9p-sQpjubwFtE2Dw.webp"
+  },
+  {
+    "anime": "H2O ~FOOTPRINTS IN THE SAND~",
+    "type": "OP",
+    "song": "片翼のイカロス 한쪽 날개의 이카로스",
+    "vocal": "사카키바라 유이",
+    "videoId": "s-yK15bvU7w",
+    "videoIds": [
+      "s-yK15bvU7w",
+      "dJmcEwvibFc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=s-yK15bvU7w",
+    "source": "https://namu.wiki/w/H2O%20~FOOTPRINTS%20IN%20THE%20SAND~",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/lCgjf172DEAm3gfbG7iOe-QZpuGroDCw33MBppR1poQARhnoQfF-GOchj6n0dEUJTsoQ3D-0_AvJ1oleJy51sBtBKU4aHlDslUbWoKVjyt6sUQNs6H_XHVhqWQoW-_KtjETq7zF0_nTbdYdsgQkreQ.webp"
+  },
+  {
+    "anime": "나츠메 우인장(애니메이션 1기)",
+    "type": "OP",
+    "song": "一斉の声 일제히 내는 목소리",
+    "vocal": "키타 슈헤이(喜多修平)",
+    "videoId": "tp-GmCZWweo",
+    "videoIds": [
+      "tp-GmCZWweo",
+      "oxbosHpFweQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=tp-GmCZWweo",
+    "source": "https://namu.wiki/w/%EB%82%98%EC%B8%A0%EB%A9%94%20%EC%9A%B0%EC%9D%B8%EC%9E%A5(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/ab2_399byqim5iQRAwv1bJCTHohDhKW-lnsbRzy0NnfH2FvbNy7sGIakbf069K0McuYpbg0U7ZxSrr-1HhLmM2qQDz6F5qAIPmWSB958J7idYrjiUMC7BdE5qBz1BX-I6iDxnFdiTX0v96dpgQB0lg.webp"
+  },
+  {
+    "anime": "그래도 마을은 돌아간다/애니메이션",
+    "type": "OP",
+    "song": "DOWN TOWN [2]",
+    "vocal": "사카모토 마아야",
+    "videoId": "VDOgeSpItv4",
+    "videoIds": [
+      "VDOgeSpItv4",
+      "tv_wNWre6sE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=VDOgeSpItv4",
+    "source": "https://namu.wiki/w/%EA%B7%B8%EB%9E%98%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%9D%80%20%EB%8F%8C%EC%95%84%EA%B0%84%EB%8B%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/Ty7vzjQmvXs0qXeH_MrLiV1fwCS1-SNC7azvu3xBmZaRH6IWmtGARwYJAEJ6poIKhMyMkUEarwe8tENtk4-PoC0zuHOG1C5d0wkSmfi1uD73KGWJXbDYCRJPZJIElKKFuGQ2HQv_WDCjh1T7p0TgMw.webp"
+  },
+  {
+    "anime": "그래도 마을은 돌아간다/애니메이션",
+    "type": "ED",
+    "song": "メイズ参上! 메이즈 등장!",
+    "vocal": "メイズ(메이즈) [3] [4]",
+    "videoId": "zojY06rkfdY",
+    "videoIds": [
+      "zojY06rkfdY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=zojY06rkfdY",
+    "source": "https://namu.wiki/w/%EA%B7%B8%EB%9E%98%EB%8F%84%20%EB%A7%88%EC%9D%84%EC%9D%80%20%EB%8F%8C%EC%95%84%EA%B0%84%EB%8B%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/Ty7vzjQmvXs0qXeH_MrLiV1fwCS1-SNC7azvu3xBmZaRH6IWmtGARwYJAEJ6poIKhMyMkUEarwe8tENtk4-PoC0zuHOG1C5d0wkSmfi1uD73KGWJXbDYCRJPZJIElKKFuGQ2HQv_WDCjh1T7p0TgMw.webp"
+  },
+  {
+    "anime": "사일런트 뫼비우스",
+    "type": "OP",
+    "song": "禁断のパンセ",
+    "vocal": "이시즈카 사오리(石塚早織)",
+    "videoId": "ENq_GjboyBA",
+    "videoIds": [
+      "ENq_GjboyBA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ENq_GjboyBA",
+    "source": "https://namu.wiki/w/%EC%82%AC%EC%9D%BC%EB%9F%B0%ED%8A%B8%20%EB%AB%BC%EB%B9%84%EC%9A%B0%EC%8A%A4",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/OHsBcbf9S9GuvffuLms2B9R2ERZHXinrjsQQjeJ7iwhC2fsrDTG-yCvZ24utlP0CXSUi-wNyFVk_17CkMGvMNA.webp"
+  },
+  {
+    "anime": "파천황유희",
+    "type": "OP",
+    "song": "Heartbreaking Romance",
+    "vocal": "이토 카나코",
+    "videoId": "aRZaj_vxtwQ",
+    "videoIds": [
+      "aRZaj_vxtwQ",
+      "qRP2eX9BoNU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=aRZaj_vxtwQ",
+    "source": "https://namu.wiki/w/%ED%8C%8C%EC%B2%9C%ED%99%A9%EC%9C%A0%ED%9D%AC",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/eP_P_Ney2Wp6y3iwJZkIpc17MnDIVnmJpv-fKwSN1iM3bFXWu5vikEq8P5DpMCdqpOCOqo6af_OQqn218VSdDQR5wQg91CQgFdsTrcitvhnOYDDvnIjtm9h2Sa_7SM-X03Ifi9SJHDNTIy7j9Aoyjw.webp"
+  },
+  {
+    "anime": "출동! 머신로보 레스큐",
+    "type": "OP",
+    "song": "Go! Go! レスキュー!",
+    "vocal": "JAM Project",
+    "videoId": "cCNx9yx9Nz0",
+    "videoIds": [
+      "cCNx9yx9Nz0",
+      "SjuuStbMX5U"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=cCNx9yx9Nz0",
+    "source": "https://namu.wiki/w/%EB%A8%B8%EC%8B%A0%EB%A1%9C%EB%B3%B4%20%EB%A0%88%EC%8A%A4%ED%81%90",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/tm7VJ3IcJ4bMap9cBFGTg5nr24M5Gz7CQ4mN3yDjvandTMLCwt7TLFuer3c7iaLNKwtcnshxY5610gGqEQ4rVpTF5tWm-NJwG25xU1lOcliEVTNUEoeYpAA-_S67u-UlBq1p5XmntXhVYbC_WzOVDw.webp"
+  },
+  {
+    "anime": "괭이갈매기 울 적에/애니메이션",
+    "type": "OP",
+    "song": "片翼の鳥 편익의 새 [1]",
+    "vocal": "시카타 아키코",
+    "videoId": "ru6YPlD5A2o",
+    "videoIds": [
+      "ru6YPlD5A2o",
+      "iUVzEkD83Vo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ru6YPlD5A2o",
+    "source": "https://namu.wiki/w/%EA%B4%AD%EC%9D%B4%EA%B0%88%EB%A7%A4%EA%B8%B0%20%EC%9A%B8%20%EC%A0%81%EC%97%90/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/7S-45t5iz0e5tjtPSltKHvU4ED2rIBgHdL7X1edE0YHUXHXCbmqE9vJaC0aw3wPXMUeK6xm94AErdYsYtfAz7DUT22b15Myl2jcLXLC-NSuX1g3MHNweWiEp3kQchJ2oQgA9mtKylm50T_ngJQeukQ.webp"
+  },
+  {
+    "anime": "바카노!/애니메이션",
+    "type": "OP",
+    "song": "Gun's&Roses",
+    "vocal": "",
+    "videoId": "yAgI51QvWxs",
+    "videoIds": [
+      "yAgI51QvWxs",
+      "UPYi5ABt9Lc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=yAgI51QvWxs",
+    "source": "https://namu.wiki/w/%EB%B0%94%EC%B9%B4%EB%85%B8!/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/ZeCNe1WZVYIMkVIdA9UP6Q0Aqe_2Qs_AgXtgRw79XZfFXsdRs6X0cBKWUj3nw_GOuD-qxppy7B1O7Ym0O1czDevgjxFbXcNLQNMFo7Zhkht7Yr51yfuoPOrgGIMCb78PZUZM8gy91WoTEoFDIv-8xA.webp"
+  },
+  {
+    "anime": "윤회의 라그랑제",
+    "type": "OP",
+    "song": "시즌 1 OP TRY UNITE!",
+    "vocal": "나카지마 메구미",
+    "videoId": "UW2vupImq4I",
+    "videoIds": [
+      "UW2vupImq4I"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=UW2vupImq4I",
+    "source": "https://namu.wiki/w/%EC%9C%A4%ED%9A%8C%EC%9D%98%20%EB%9D%BC%EA%B7%B8%EB%9E%91%EC%A0%9C",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/MBIWBV6EVXROiFFcVuTe7epdR-fuI-GJ55aNOW4FUDVsKyTMzHoNpSHNYzrfsmo3mSVMuPjuTTHi0f5FMgZzx4ulY7I6ME1Hp4zI1BG1xwKrf83aUXltOs0nbpDGesKThvTzbayWhWLbiMB489g-hA.webp"
+  },
+  {
+    "anime": "나츠메 우인장 5",
+    "type": "OP",
+    "song": "タカラバコ 보물 상자",
+    "vocal": "사사노말리",
+    "videoId": "38BOKqAYKmk",
+    "videoIds": [
+      "38BOKqAYKmk",
+      "qDUDd-rRpZU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=38BOKqAYKmk",
+    "source": "https://namu.wiki/w/%EB%82%98%EC%B8%A0%EB%A9%94%20%EC%9A%B0%EC%9D%B8%EC%9E%A5%205",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/DXJTcTuhLB82y-OoTIFG-NGHzTXMBKLWHBtADs-TleO7eJWB2KOkiKiYUbQs9GgPt9hbouQm_zj0hsTaXzG-a9ZKHufVyCkhpaY2o7iP3M-OflsHvxQusUI2sweaGPpyneFWvd2vk8_v7_CvPeHjWA.webp"
+  },
+  {
+    "anime": "기교기전 히오우전기",
+    "type": "OP",
+    "song": "ヒヲウのテーマ",
+    "vocal": "",
+    "videoId": "P9VyQJQxmsE",
+    "videoIds": [
+      "P9VyQJQxmsE",
+      "KOOFyK6XhAc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=P9VyQJQxmsE",
+    "source": "https://namu.wiki/w/%EA%B8%B0%EA%B5%90%EA%B8%B0%EC%A0%84%20%ED%9E%88%EC%98%A4%EC%9A%B0%EC%A0%84%EA%B8%B0",
+    "year": 2000,
+    "image": "//i.namu.wiki/i/ej4rWvhY0Dvv1uSir1WwTXDlGF6ngpKYQnTxYeZMp3rRtxVF10atNuIVhs03etdngg27BI2hbdN2-4MoLD5goaAdtjh9EXQLfkgx6q_nXcP9fNkDeN1BemAWEIODzdYfG1yyJqKVqwLN291TNfudfQ.webp"
+  },
+  {
+    "anime": "플리즈 트윈즈",
+    "type": "OP",
+    "song": "Second Flight",
+    "vocal": "KOTOKO & 사토 히로미",
+    "videoId": "JPfK8R8zLKQ",
+    "videoIds": [
+      "JPfK8R8zLKQ",
+      "VQ_yFu5zZQA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=JPfK8R8zLKQ",
+    "source": "https://namu.wiki/w/%EC%98%A4%EB%84%A4%EA%B0%80%EC%9D%B4%20%ED%8A%B8%EC%9C%88%EC%A6%88",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/o27gE4KPVN_OTtBUYwQCBdfmSqQ0YKDKgv33v_Y4b3IQ_tOBViAaNAulnsHYBqdM8B_TzsYcXTR0fkKlUIMFMVqPUzxAwajYvKDH4C-fIrUbl1xCDr7mRlNRwqguPB9V5HkRNO1IbBoXLN7Xi9o45g.webp"
+  },
+  {
+    "anime": "소울 이터 NOT!",
+    "type": "OP",
+    "song": "monochrome",
+    "vocal": "Dancing Dolls",
+    "videoId": "dbiKViEoirw",
+    "videoIds": [
+      "dbiKViEoirw",
+      "PVxLDXb_ZnQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=dbiKViEoirw",
+    "source": "https://namu.wiki/w/%EC%86%8C%EC%9A%B8%20%EC%9D%B4%ED%84%B0%20NOT!",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/fN2D5VjCC1424_3xUjIjYeM-PIaDIVbNyC4IwYlJ1Ddzf1zwzoXScpqqDH---mjMQZsHBJbV3SLMRCrsV-kYyzotN_gwoU58i5YC-3eaWrlZJZynn3MesdIXV4d540e3w_-QTlPptluO88L31FO_gg.webp"
+  },
+  {
+    "anime": "조커 게임",
+    "type": "OP",
+    "song": "REASON TRIANGLE",
+    "vocal": "",
+    "videoId": "9unuWqcTYx4",
+    "videoIds": [
+      "9unuWqcTYx4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=9unuWqcTYx4",
+    "source": "https://namu.wiki/w/%EC%A1%B0%EC%BB%A4%20%EA%B2%8C%EC%9E%84",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/7LrRTiiNRWS5WRNs7W2rWHsRjOXKiCYDaHXxokiuEPBA0-rHWSb1RyH4FyfFCYX8okIFoQWj_0hPb_WYD3Au-TKmbxBh8hw_gcU3JIBr9-ItvpAJUo3fHCsICe7Z_djkkXTqgEHms3BbNUPSd_2zhQ.webp"
+  },
+  {
+    "anime": "마탄의 왕과 바나디스/애니메이션",
+    "type": "OP",
+    "song": "銀閃の風",
+    "vocal": "스즈키 코노미",
+    "videoId": "8dCC89uTrOI",
+    "videoIds": [
+      "8dCC89uTrOI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=8dCC89uTrOI",
+    "source": "https://namu.wiki/w/%EB%A7%88%ED%83%84%EC%9D%98%20%EC%99%95%EA%B3%BC%20%EB%B0%94%EB%82%98%EB%94%94%EC%8A%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/k5Rjsr_Y8Izu0CCnofTMQ3hbutjNTtuAqO1Y6OGUIS0xYNFeLGAvBVSQsD8Fl7F0vYHO7YnyzLb2kFlctzvhN-7_xvF3LNnKRWkVcKfQI0NttPG6ja0Izaj-n0Oq98lahLVlbewcBQoWxLSrTShI2w.webp"
+  },
+  {
+    "anime": "단재분리의 크라임엣지/애니메이션",
+    "type": "OP",
+    "song": "運命の檻",
+    "vocal": "아이미",
+    "videoId": "bPxbvqL-4uo",
+    "videoIds": [
+      "bPxbvqL-4uo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=bPxbvqL-4uo",
+    "source": "https://namu.wiki/w/%EB%8B%A8%EC%9E%AC%EB%B6%84%EB%A6%AC%EC%9D%98%20%ED%81%AC%EB%9D%BC%EC%9E%84%EC%97%A3%EC%A7%80/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/kn3ca9Kfj2jE3tzJGDQLuo4wTvffarFEdMTVbVVacV2k5wVx4XZgN3nhuX4bHAbp0t0CN4WxmTKKUP5wxxpY-f65epUFwzHYN1fE-bfCjs7mq-TfFg5V675l9driS9BLBOCDAc6B5RkO8-z-g5XUJg.webp"
+  },
+  {
+    "anime": "CUE!",
+    "type": "OP",
+    "song": "일시 2019년 11월 2일( 토 ) / 3일( 일 ) [74] 개장 12：30",
+    "vocal": "",
+    "videoId": "JaKAvUTO9cE",
+    "videoIds": [
+      "JaKAvUTO9cE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=JaKAvUTO9cE",
+    "source": "https://namu.wiki/w/CUE!",
+    "year": 2026,
+    "image": "//i.namu.wiki/i/qIBdE3QH6LPZXJjm-L37LSD0Ej5m9MET_Mwnr3q-uzQzqRWka_cm06YRsRTC2vKeI9IuYXs5SDizIQQSiiqXkUxHbKCKbMCmJydoaPfRwquUBRg3KiiQAmv5iUsW9O09KcwlzYyQcRDYVNvQqNVaCQ.webp"
+  },
+  {
+    "anime": "나츠메 우인장 6",
+    "type": "OP",
+    "song": "フローリア 플로리아",
+    "vocal": "사코 토모히사",
+    "videoId": "riRTl2YnfD0",
+    "videoIds": [
+      "riRTl2YnfD0",
+      "Ng9aUVGOvAI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=riRTl2YnfD0",
+    "source": "https://namu.wiki/w/%EB%82%98%EC%B8%A0%EB%A9%94%20%EC%9A%B0%EC%9D%B8%EC%9E%A5%206",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/xYUdoXmotPCaD4i-NHDZABP-1YhO3usrvlFI__QM7nJRvmbOKKqbZQoU3WZ_GVfi0Bjyvc3Ekt3DyH6rYFEy723UniwL84jHcNZgI_rk6xu4wgr_sNr7aUN4gshohTp7HHn6mA2Yn2eTvPGqQiAFEA.webp"
+  },
+  {
+    "anime": "괴물왕녀",
+    "type": "OP",
+    "song": "BLOOD QUEEN",
+    "vocal": "미사토 아키",
+    "videoId": "7CHu8tZr83c",
+    "videoIds": [
+      "7CHu8tZr83c",
+      "V17HY1VW8IA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=7CHu8tZr83c",
+    "source": "https://namu.wiki/w/%EA%B4%B4%EB%AC%BC%EC%99%95%EB%85%80",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/kRiGrQ_Ywig5M9YyWS7rNXuOdlaWibvtSbP079_pCNw384HwFrqVc4FhL_KrptdZO1SFa2JOq094c94xp-pjpTVarVX0lQydkeyW_X-KvP65pnxkfBn7l8hZoVWGL-NeAi5ltuE58at8r4bRCmPMQA.webp"
+  },
+  {
+    "anime": "미소녀 전사 세일러 문 S",
+    "type": "OP",
+    "song": "ムーンライト伝説 문 라이트 전설 달빛의 전설",
+    "vocal": "Moon Lips [10] 김현아 (KBS) , 지아이 (대원방송)",
+    "videoId": "kHSgBL_QHjU",
+    "videoIds": [
+      "kHSgBL_QHjU",
+      "SDoTr3W-SMo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=kHSgBL_QHjU",
+    "source": "https://namu.wiki/w/%EB%AF%B8%EC%86%8C%EB%85%80%20%EC%A0%84%EC%82%AC%20%EC%84%B8%EC%9D%BC%EB%9F%AC%20%EB%AC%B8%20S",
+    "year": 1994,
+    "image": "//i.namu.wiki/i/xrdrenZyc-I6iBUQEBvrrfEA2UpSEUO5TVdi_EGrPkXm8H9bx8usp7SgjKlrFNqu3_OBaKunJ_ztBMIlLLGbe56bWWX5EIB_rkxCC-XvKaQgNONiL2D9w3gn3I6pIXJJKrlF1jiruBovJf99KCmxaA.webp"
+  },
+  {
+    "anime": "미소녀 전사 세일러 문 S",
+    "type": "ED",
+    "song": "1 (90~91화) 乙女のポリシー 소녀의 폴리시",
+    "vocal": "이시다 요코 (石田よう子)",
+    "videoId": "iiwf7BMmwes",
+    "videoIds": [
+      "iiwf7BMmwes"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=iiwf7BMmwes",
+    "source": "https://namu.wiki/w/%EB%AF%B8%EC%86%8C%EB%85%80%20%EC%A0%84%EC%82%AC%20%EC%84%B8%EC%9D%BC%EB%9F%AC%20%EB%AC%B8%20S",
+    "year": 1994,
+    "image": "//i.namu.wiki/i/xrdrenZyc-I6iBUQEBvrrfEA2UpSEUO5TVdi_EGrPkXm8H9bx8usp7SgjKlrFNqu3_OBaKunJ_ztBMIlLLGbe56bWWX5EIB_rkxCC-XvKaQgNONiL2D9w3gn3I6pIXJJKrlF1jiruBovJf99KCmxaA.webp"
+  },
+  {
+    "anime": "스모모모모모모 ~지상 최강의 신부~",
+    "type": "ED",
+    "song": "15화 ED GOOD LUCK",
+    "vocal": "미~코(み〜こ) [6]",
+    "videoId": "rF1F9l57TcA",
+    "videoIds": [
+      "rF1F9l57TcA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=rF1F9l57TcA",
+    "source": "https://namu.wiki/w/%EC%8A%A4%EB%AA%A8%EB%AA%A8%EB%AA%A8%EB%AA%A8%EB%AA%A8%EB%AA%A8%20~%EC%A7%80%EC%83%81%20%EC%B5%9C%EA%B0%95%EC%9D%98%20%EC%8B%A0%EB%B6%80~",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/SPgFcFsVsX7EXJMUMbP8TNgL4glW6uTLHEZQxqbDa1eU3QnnsR4HMFLDVp4lmF9ei_Q2kqdQQmMV_r-gkL2q-OS2S1OUBc_MAeoGNSVR2xnZD4SgmipyLYH5YSZi4RpDZXrbOtHP37XrW8d1-2-OuQ.webp"
+  },
+  {
+    "anime": "사무라이건",
+    "type": "OP",
+    "song": "SamuraiCrew",
+    "vocal": "ZZ",
+    "videoId": "rV2VxDnQoZs",
+    "videoIds": [
+      "rV2VxDnQoZs",
+      "D8yr2V-P0tE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=rV2VxDnQoZs",
+    "source": "https://namu.wiki/w/%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4%EA%B1%B4",
+    "year": 2004,
+    "image": "//i.namu.wiki/i/TPUarn5GE0AVLzJv4FzNiv2GussEH45fnaaZzcFc8ywmdaZJxTcsuVwR1nQfBBLi97kAG0UJrjB37v7wDKEBOsLqimofNYFB203SHy4C_jk8go6vFbn0DdvsHAgeWFyEokYs_7WJcomMItxBEgHWKQ.webp"
+  },
+  {
+    "anime": "호오즈키의 냉철(애니메이션 1기)",
+    "type": "OP",
+    "song": "地獄の沙汰も君次第 지옥의 사태도 너 하기 나름",
+    "vocal": "지옥의 사태 올스타즈(地獄の沙汰オールスターズ) 호오즈키 ( 야스모토 히로키 )염라대왕( 나가사코 타카시 ) 시로( 코바야시 유미코 ) 카라우리( 카키하라 테츠야 ) 나스비( 아오야마 토우코 ) 오코( 키타무라 에리 ) YOUR SONG IS GOOD",
+    "videoId": "ePSz2NODsdc",
+    "videoIds": [
+      "ePSz2NODsdc",
+      "HZkhxCtByYs"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ePSz2NODsdc",
+    "source": "https://namu.wiki/w/%ED%98%B8%EC%98%A4%EC%A6%88%ED%82%A4%EC%9D%98%20%EB%83%89%EC%B2%A0(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/Fw9Wy3A_9R2La00MOizLCyAxDTJ3yYf3pUnVWAul0uXkXKapAX-Xp0BKacn_nA6ez8U6qGKo7F3YhKfWtw2HFIAwsP_IXcqUFtRqsIPtVIogQaFkLbzrnS3eiRv4qoi6bZUQOFd6YsLvVFFMY362sg.webp"
+  },
+  {
+    "anime": ".hack//SIGN",
+    "type": "OP",
+    "song": "Obsession",
+    "vocal": "See-Saw",
+    "videoId": "bpOdFxTC8ZQ",
+    "videoIds": [
+      "bpOdFxTC8ZQ",
+      "5b9JzKhhVZo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=bpOdFxTC8ZQ",
+    "source": "https://namu.wiki/w/.hack//SIGN",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/oJndV3e4wNWW-toKF1HoGNEgxUKTlE4DFnuEkCQrzas8FYc-ao2SoJa_SkDtOR2mc1CF2zig1CWTFA0VB1cY5K3spAG-50B7Pi9BFsYbbdNytwV3injLWMuU5UsSBLSSyQM1sFXXqKa_ubA48EVKCQ.webp"
+  },
+  {
+    "anime": "사무라이 7",
+    "type": "OP",
+    "song": "UNLIMITED",
+    "vocal": "아이카와 나나세",
+    "videoId": "TrccvQSqAV8",
+    "videoIds": [
+      "TrccvQSqAV8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=TrccvQSqAV8",
+    "source": "https://namu.wiki/w/%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4%207",
+    "year": 2024,
+    "image": "//i.namu.wiki/i/9M2hc7otmOvmkSQjp_Cc-xHs0eEYgR5fHnxvyHlZaMzOK1-xfXdrMewNYEZ2zAxE5Fb14mE5g8GSnqRNzO2Sct5Z2ocFQXP_gevHOA_DL5xiTGQu06ogc6yVMUvRr8t1VSTlNcclGUs6bg8pfiXOvg.webp"
+  },
+  {
+    "anime": "REC(만화)",
+    "type": "OP",
+    "song": "Cheer!〜まっかなキモチ〜",
+    "vocal": "사카이 카나",
+    "videoId": "oMAAreq6Z98",
+    "videoIds": [
+      "oMAAreq6Z98",
+      "7BfQCNYHT2Q"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=oMAAreq6Z98",
+    "source": "https://namu.wiki/w/REC(%EB%A7%8C%ED%99%94)",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/vlYwdLrO7VU3kwD12WpaJ-PeQOf6BRwqr4O2kJ3sEa68uxvL84vdhU4y1APEuNq3GPVrLnYDpB-fVP0qZZQHZQSqwugBBgj-H-R0tA5e8GUPu3KoJbEnChleksD5Nbk3g0_ZdBbVP8ckoUphTiDB9g.webp"
+  },
+  {
+    "anime": "노라가미(애니메이션 1기)",
+    "type": "OP",
+    "song": "午夜の待ち合わせ 한밤중의 만남",
+    "vocal": "Hello Sleepwalkers",
+    "videoId": "36rkVIr_hsA",
+    "videoIds": [
+      "36rkVIr_hsA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=36rkVIr_hsA",
+    "source": "https://namu.wiki/w/%EB%85%B8%EB%9D%BC%EA%B0%80%EB%AF%B8(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/P5zgUu6OYJ8Kd5djb-Q3nMBjin7NC0LEeLIgHApfsRzex5hFzuA0ml9X_WPfr29GCmx_LtmEcN3Zu0gwomhlBprK70T4LwOKB_Aw1nQymboz6-69esHWbOGaAIr3rBkafgDoTte8xvPX0ns_WvKiPQ.webp"
+  },
+  {
+    "anime": "지구방위가족",
+    "type": "OP",
+    "song": "SAMURAI",
+    "vocal": "ROLLY&아리치카 마스미(有近真澄) 전영호",
+    "videoId": "rYDSl8V7bNQ",
+    "videoIds": [
+      "rYDSl8V7bNQ",
+      "M4gJkeDWGzU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=rYDSl8V7bNQ",
+    "source": "https://namu.wiki/w/%EC%A7%80%EA%B5%AC%EB%B0%A9%EC%9C%84%EA%B0%80%EC%A1%B1",
+    "year": 2001,
+    "image": "//i.namu.wiki/i/0OJANGaLcp87dMXM2Gk5_9n1WfqIK9hsap_YYOh-TeuLCXt7vY_mqT9fCRNtOmmrOYV_QJblmRvL-Xb8iEb9m8yjwl2W4b9_e8AgZmip5mV0OoxYLCDu0Fd9nXpyYC6C_mN3mhZR7yv7i4FcpnyvyQ.webp"
+  },
+  {
+    "anime": "무장소녀 마키아벨리즘/애니메이션",
+    "type": "OP",
+    "song": "Shocking Blue",
+    "vocal": "이토 미쿠",
+    "videoId": "BxVr2kAiC2E",
+    "videoIds": [
+      "BxVr2kAiC2E",
+      "C4D9KhR_rZA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=BxVr2kAiC2E",
+    "source": "https://namu.wiki/w/%EB%AC%B4%EC%9E%A5%EC%86%8C%EB%85%80%20%EB%A7%88%ED%82%A4%EC%95%84%EB%B2%A8%EB%A6%AC%EC%A6%98/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/nFeujymtBRjJBDlHbNRkeQxEFf-7BydPb7lEKn8spqEKEtA1jRr3H198C6ygEqUh_i8TkJtYT_sMouY4NHijYww41fUeKXq5cgpuCJjDr6FeiqMT_jWysaRpbFIRLi8amJk7i3iW-guodT63-JYLqQ.webp"
+  },
+  {
+    "anime": "비비드레드 오퍼레이션",
+    "type": "OP",
+    "song": "/ 1화 ED ENERGY",
+    "vocal": "earthmind",
+    "videoId": "-R2ogn_TZgA",
+    "videoIds": [
+      "-R2ogn_TZgA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=-R2ogn_TZgA",
+    "source": "https://namu.wiki/w/%EB%B9%84%EB%B9%84%EB%93%9C%EB%A0%88%EB%93%9C%20%EC%98%A4%ED%8D%BC%EB%A0%88%EC%9D%B4%EC%85%98",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/G3h0cCTnslbeGgn5v4MGeCLdUC2eC9xsEWdLhykpTGANXxBzK2VSdxSKJ9CW7cpUjyO5fbMW3IreLke5xzwMJ50I-EhgZvecQwQEvfL9Gv-Yz7rM1gBw9XMOsf1i-DKuKb6cS3CHs0-GthT5XOIEJQ.webp"
+  },
+  {
+    "anime": "가면의 메이드가이",
+    "type": "OP",
+    "song": "Special Life!",
+    "vocal": "KOTOKO",
+    "videoId": "jzmVncqn8Bs",
+    "videoIds": [
+      "jzmVncqn8Bs"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=jzmVncqn8Bs",
+    "source": "https://namu.wiki/w/%EA%B0%80%EB%A9%B4%EC%9D%98%20%EB%A9%94%EC%9D%B4%EB%93%9C%EA%B0%80%EC%9D%B4",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/-Q0JJ1ZzQ3LPbygRV2SQsuojpwr0hDJt0TKac5rU_5dwa7C0Z6J3PJy4Wc4_V7TZqlErecNxNNbMAW-60ZHByS1JtC7IRhkdTvcwuw5hZTmpVJB4iWdVm97V3YdUoZaucfeUCzzfKCr2lBIWD2HJvw.webp"
+  },
+  {
+    "anime": "가면의 메이드가이",
+    "type": "ED",
+    "song": "ワクガイ!!",
+    "vocal": "후쿠야마 요시키",
+    "videoId": "FkASdXpjUmc",
+    "videoIds": [
+      "FkASdXpjUmc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=FkASdXpjUmc",
+    "source": "https://namu.wiki/w/%EA%B0%80%EB%A9%B4%EC%9D%98%20%EB%A9%94%EC%9D%B4%EB%93%9C%EA%B0%80%EC%9D%B4",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/-Q0JJ1ZzQ3LPbygRV2SQsuojpwr0hDJt0TKac5rU_5dwa7C0Z6J3PJy4Wc4_V7TZqlErecNxNNbMAW-60ZHByS1JtC7IRhkdTvcwuw5hZTmpVJB4iWdVm97V3YdUoZaucfeUCzzfKCr2lBIWD2HJvw.webp"
+  },
+  {
+    "anime": "사키 -Saki- 전국편",
+    "type": "OP",
+    "song": "New SPARKS!",
+    "vocal": "하시모토 미유키",
+    "videoId": "B2k5Ce-Bj9g",
+    "videoIds": [
+      "B2k5Ce-Bj9g",
+      "BVCE5LL-Dlo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=B2k5Ce-Bj9g",
+    "source": "https://namu.wiki/w/%EC%82%AC%ED%82%A4%20-Saki-%20%EC%A0%84%EA%B5%AD%ED%8E%B8",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/4S15h79zoKxe-u7Z3PS9JeGgf2Tbm1fmzGmuQzM7oUHshXyFR3GK2hgWuQTHOF4vSOie4wnlERjFIPJW0-bhYXVAa9iAbsSHWZCggB6Ijf3a6_HNVBB09eeCOnggjHY5CthGmOXMCmEurSqoJ1cy3Q.webp"
+  },
+  {
+    "anime": "XXX HOLiC(애니메이션 1기)",
+    "type": "OP",
+    "song": "19才 19세",
+    "vocal": "스가 시카오",
+    "videoId": "0-brcHX7sME",
+    "videoIds": [
+      "0-brcHX7sME"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=0-brcHX7sME",
+    "source": "https://namu.wiki/w/XXX%20HOLiC(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/vFEK8UOoe89ki3mVlC4AesBtUFs3dcTC0nWVDkNj-QWvFt5jpPq-H3XeoJ-F78y7PnhGxCmSuybIkcZPh2Vnjtuw7Fh0GzY0EFmr4hQuDX2E82MPkrlTyL-e7bs6CiSkTFGrbyHYg1EFvm-TlmnGoA.webp"
+  },
+  {
+    "anime": "소녀혁명 우테나",
+    "type": "OP",
+    "song": "輪舞-revolution 윤무-revolution",
+    "vocal": "오쿠이 마사미",
+    "videoId": "tyPv7QyuZl0",
+    "videoIds": [
+      "tyPv7QyuZl0",
+      "YmHhh__EVqw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=tyPv7QyuZl0",
+    "source": "https://namu.wiki/w/%EC%86%8C%EB%85%80%ED%98%81%EB%AA%85%20%EC%9A%B0%ED%85%8C%EB%82%98",
+    "year": 1997,
+    "image": "//i.namu.wiki/i/vLy6wtPTPnLxyvX8mOzEtVt2gBtS9agtqohj4nV3wBWnF2LzpbvfLJP8KKQUA_L9-2JqabLV2zGmoGwXRPV-oemmustc5f8C4mamOWyF2JQyvX5Ys8ohEbaEdhM08hnB213L6AgpfiLJjXtmFmNJEA.webp"
+  },
+  {
+    "anime": "신만이 아는 세계(애니메이션 1기)",
+    "type": "OP",
+    "song": "God only knows 第三幕",
+    "vocal": "ELISA",
+    "videoId": "AL2elWM-y3g",
+    "videoIds": [
+      "AL2elWM-y3g",
+      "iYP5EzO9lJE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=AL2elWM-y3g",
+    "source": "https://namu.wiki/w/%EC%8B%A0%EB%A7%8C%EC%9D%B4%20%EC%95%84%EB%8A%94%20%EC%84%B8%EA%B3%84(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/1wkaY_Ncg2_dQwvKpXYJplwCbZsYvujQC2b5854ORcCipVFS0NhrNmp99ex3D_L0FvaYM9Dth6vzwBlwkRRiSUjgS0ETMCPSaqAKSxZ7y45GmuKkyIss61lPleYvM-nu-H0sejpJUKzohMuyDKe2yg.webp"
+  },
+  {
+    "anime": "전국 바사라/애니메이션",
+    "type": "OP",
+    "song": "JAP",
+    "vocal": "abingdon boys school",
+    "videoId": "TLXRxbe20us",
+    "videoIds": [
+      "TLXRxbe20us"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=TLXRxbe20us",
+    "source": "https://namu.wiki/w/%EC%A0%84%EA%B5%AD%20%EB%B0%94%EC%82%AC%EB%9D%BC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/kvGbedW0NuR_eQTQFYMyWM56LD8LSmILZ2Kc9pKfYJZUDXQ9vnqhwncwHgr9l-3gusKSKRiECYJtVn_BSg8ry-Ff9a1Ld5fqN-CQ1toegy_OemlxdcNVKrgm4-v1CZ9ZqPbOd2zzA_rcmnbwfOGN2g.webp"
+  },
+  {
+    "anime": "전국 바사라/애니메이션",
+    "type": "ED",
+    "song": "Break & Peace",
+    "vocal": "DUSTZ",
+    "videoId": "TdGS0nSOJiA",
+    "videoIds": [
+      "TdGS0nSOJiA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=TdGS0nSOJiA",
+    "source": "https://namu.wiki/w/%EC%A0%84%EA%B5%AD%20%EB%B0%94%EC%82%AC%EB%9D%BC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/kvGbedW0NuR_eQTQFYMyWM56LD8LSmILZ2Kc9pKfYJZUDXQ9vnqhwncwHgr9l-3gusKSKRiECYJtVn_BSg8ry-Ff9a1Ld5fqN-CQ1toegy_OemlxdcNVKrgm4-v1CZ9ZqPbOd2zzA_rcmnbwfOGN2g.webp"
+  },
+  {
+    "anime": "스위트 프리큐어♪",
+    "type": "OP",
+    "song": "1 (1~23화) ラ♪ラ♪ラ♪スイートプリキュア♪ 라♪라♪라♪ 스위트 프리큐어♪",
+    "vocal": "쿠도 마유(工藤真由) [14] 채민지 [15]",
+    "videoId": "61I30lAVT9A",
+    "videoIds": [
+      "61I30lAVT9A",
+      "bL-V9j8jzUU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=61I30lAVT9A",
+    "source": "https://namu.wiki/w/%EC%8A%A4%EC%9C%84%ED%8A%B8%20%ED%94%84%EB%A6%AC%ED%81%90%EC%96%B4%E2%99%AA",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/nGijEqKahz19mmTXoDorWDC3U38lVNtNC4ZD9mFukFZSrWIxFL68QY29s9uKX4Y7QAZawSEgMfk33yQMZAaRed_jvDyRyOGSsibwG0944iouucAkpA5smA9v4BZ6J-VJsiWg57x3asoUWnyA68kkbQ.webp"
+  },
+  {
+    "anime": "멋지다 코니",
+    "type": "OP",
+    "song": "キャラだもん",
+    "vocal": "시노류(篠龍) ( 시노하라 토모에 , 우자키 류도) 불명",
+    "videoId": "UfOTJqp32Xw",
+    "videoIds": [
+      "UfOTJqp32Xw",
+      "ntU9ZEj6wD0"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=UfOTJqp32Xw",
+    "source": "https://namu.wiki/w/%EB%A9%8B%EC%A7%80%EB%8B%A4%20%EC%BD%94%EB%8B%88",
+    "year": 2000,
+    "image": "//i.namu.wiki/i/wezswZwN2kCxbYUa0Pheb9y0JO0NvxIMxQ5gF0fm15EGxH7qeDu46XlsGoiKpKoTJZZPvIqsTLcQXrsPlzwRCDHgAzLThCnML3joWay6ZBev892H4NkohgRgyCpq6metmxB9-EQN5vXZcIzI3ztDdQ.webp"
+  },
+  {
+    "anime": "사카모토입니다만?/애니메이션",
+    "type": "OP",
+    "song": "COOLEST",
+    "vocal": "커스터마이Z(カスタマイZ)",
+    "videoId": "CnVvJa272J0",
+    "videoIds": [
+      "CnVvJa272J0"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=CnVvJa272J0",
+    "source": "https://namu.wiki/w/%EC%82%AC%EC%B9%B4%EB%AA%A8%ED%86%A0%EC%9E%85%EB%8B%88%EB%8B%A4%EB%A7%8C%3F/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/5HuiHMsMdRYjYB3_0GsUdAZiW4KXmEdC92gAbnH_dh9uXPcfGtDPeJfNAa3gAbkejBvvcHtT6UeMdovMqbVqIbk7Ac0MHc8ctrhrGdjt8lWDLB0K7hcmL_MMJUUzvTANgCfHBK2LJs5UpjEcJuHTcA.webp"
+  },
+  {
+    "anime": "그레이트 마징가",
+    "type": "OP",
+    "song": "おれはグレートマジンガー",
+    "vocal": "미즈키 이치로 컬럼비아 요람회(コロムビアゆりかご会)",
+    "videoId": "PdYVkIz1QhI",
+    "videoIds": [
+      "PdYVkIz1QhI",
+      "g7z2v2eX41c"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=PdYVkIz1QhI",
+    "source": "https://namu.wiki/w/%EA%B7%B8%EB%A0%88%EC%9D%B4%ED%8A%B8%20%EB%A7%88%EC%A7%95%EA%B0%80",
+    "year": 1974,
+    "image": "//i.namu.wiki/i/nghrjz00YYbypu9dxGXa3782EYR8ZNPAZzoYQeVo01pHXVet5F5aCYg6NVRP4ePM_GvJqF9x0l5Ml5A-Q3_U_utMrGTspdN4hqU3GmHOT5KlC0ZeWFrPmBqT44P1WBd9l_F-de80NvJcdzJWwqQfHw.webp"
+  },
+  {
+    "anime": "연애폭군",
+    "type": "OP",
+    "song": "恋?で愛?で暴君です! 사랑으로 애정으로 폭군이에요!",
+    "vocal": "Wake Up, Girls!",
+    "videoId": "i0IP777-yLg",
+    "videoIds": [
+      "i0IP777-yLg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=i0IP777-yLg",
+    "source": "https://namu.wiki/w/%EC%97%B0%EC%95%A0%ED%8F%AD%EA%B5%B0",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/cnkpvZSJV_99DeNB19gH4eCFw_WqwcMXcaM11AFxJA9BiT4yuQOZzdArwSVKN3ZJcH05qCxDdogQmGJ9PH-pzaz75NBnjrX6U4zviBFUCSycmiYJtFYjCaWBckx81a9981gc_N8LqagOyehpx8lYkw.webp"
+  },
+  {
+    "anime": "Kiss×sis(TVA)",
+    "type": "OP",
+    "song": "バランスKISS",
+    "vocal": "아코 & 리코 ( 타케타츠 아야나 , 타츠미 유이코 )",
+    "videoId": "YDhaDdQpGI4",
+    "videoIds": [
+      "YDhaDdQpGI4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=YDhaDdQpGI4",
+    "source": "https://namu.wiki/w/Kiss%C3%97sis(TVA)",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/seFSYB9Ww3SzGWZCz43MEsrdJrroTgsoRcO3h0ZKvyq7wbx56ziaEDwEzRwN1uPAlV7wtE-h7jhvKY9hT_R19xnMCsL7icHkOLBC7xOa9BgBz8gYwwcQ2GlUDUcGCCQhgRGHJUr-F-dOVmM_Zwqe9g.webp"
+  },
+  {
+    "anime": "제로의 사역마 F",
+    "type": "OP",
+    "song": "I'LL BE THERE FOR YOU",
+    "vocal": "ICHIKO",
+    "videoId": "LSf7hxr9z-8",
+    "videoIds": [
+      "LSf7hxr9z-8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=LSf7hxr9z-8",
+    "source": "https://namu.wiki/w/%EC%A0%9C%EB%A1%9C%EC%9D%98%20%EC%82%AC%EC%97%AD%EB%A7%88%20F",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/R6-h-oq4Dr2tzxcp0V85zR4Zg5V7R84XQS4Ajr8E03kYFvWpjgtoE5AIKtgzUHx-Cbt6nzySz3kV7t7wJ7AhcNEzAQote9B_IX3nB8myYozmNXpYPosYGYQzaBVnAw7nCgl6gFMIiIvhtZxBM44KKg.webp"
+  },
+  {
+    "anime": "유루유리 산☆하이!",
+    "type": "OP",
+    "song": "ちょちょちょ!ゆるゆり☆かぷりっちょ!!!",
+    "vocal": "나나모리중☆오락부",
+    "videoId": "5rLy6mCtNCc",
+    "videoIds": [
+      "5rLy6mCtNCc",
+      "qpNHzrM0CKQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=5rLy6mCtNCc",
+    "source": "https://namu.wiki/w/%EC%9C%A0%EB%A3%A8%EC%9C%A0%EB%A6%AC%20%EC%82%B0%E2%98%86%ED%95%98%EC%9D%B4!",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/0uwu1SQRYaH87vlh-QwITjv4sZHF6wYBae6AH1YtZXPCdTrb8zuu32Aa2GjwCCmQW8MHG05qhE5dhsIVRkMHaRPvdsO17hcE0rRVYB2KMxf89BvG2eNK3gw47VZQmKg2hTBj-J9zLGHSlycrcR8bhw.webp"
+  },
+  {
+    "anime": "ef - a tale of melodies.",
+    "type": "OP",
+    "song": "ebullient future",
+    "vocal": "ELISA",
+    "videoId": "JscXGnFaMjE",
+    "videoIds": [
+      "JscXGnFaMjE",
+      "_nNO71s6mEw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=JscXGnFaMjE",
+    "source": "https://namu.wiki/w/ef%20-%20a%20tale%20of%20melodies.",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/NadJVCbam3MRuzNGlLtuBdHTHa_q3CEje23Pkxv8rMha0KU2w6DnUaZCoUFwfXiNKEm2qDvy0h4yNCbvjDesLHExvYtRdvcp9A60e1RkM_s_QRmozpOt3M4W-f9JoZlIsnydBMLAlFRNhtQrmnP4dQ.webp"
+  },
+  {
+    "anime": "푸른 꽃/애니메이션",
+    "type": "OP",
+    "song": "青い花 푸른 꽃",
+    "vocal": "공기공단(空気公団)",
+    "videoId": "LN1umHSPTKI",
+    "videoIds": [
+      "LN1umHSPTKI",
+      "6Se5r5DCKrQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=LN1umHSPTKI",
+    "source": "https://namu.wiki/w/%ED%91%B8%EB%A5%B8%20%EA%BD%83/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/UcTY4uheMPvrywap-ZLUp2E-V6iMK_aiL3wk4jIfQ6pr6muThQuQiN9C-rBq-IdogCdTy0XU2WyxJ4wRshC4gu5v77cykNa3A7khtZWIsyPnqPaE6XB3I4BD2ew-LHGsMKd3_IB-NjJOnUZqP3iasQ.webp"
+  },
+  {
+    "anime": "키즈나이버",
+    "type": "OP",
+    "song": "LAY YOUR HANDS ON ME",
+    "vocal": "BOOM BOOM SATELLITES [25]",
+    "videoId": "Fmp0KXH5R7Y",
+    "videoIds": [
+      "Fmp0KXH5R7Y"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Fmp0KXH5R7Y",
+    "source": "https://namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%EC%9D%B4%EB%B2%84",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/0FWNAxbjdIyo6I1vX3CxEcOV7v06Ir8ZkTiR9d7dJ3mTx4RCw_5tYUf3l4t1ypnCHlBQpEO5Qj-LW-p7uqLe5qyu5wkflhcU-bYzVtw6Kzu-XIDvrX-28bAxDQjv4pzgofnGbyQhGvAQioGC4B108A.webp"
+  },
+  {
+    "anime": "키즈나이버",
+    "type": "ED",
+    "song": "はじまりの速度 시작의 속도",
+    "vocal": "작사 오카다 마리",
+    "videoId": "5xHpBN3TnA0",
+    "videoIds": [
+      "5xHpBN3TnA0"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=5xHpBN3TnA0",
+    "source": "https://namu.wiki/w/%ED%82%A4%EC%A6%88%EB%82%98%EC%9D%B4%EB%B2%84",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/0FWNAxbjdIyo6I1vX3CxEcOV7v06Ir8ZkTiR9d7dJ3mTx4RCw_5tYUf3l4t1ypnCHlBQpEO5Qj-LW-p7uqLe5qyu5wkflhcU-bYzVtw6Kzu-XIDvrX-28bAxDQjv4pzgofnGbyQhGvAQioGC4B108A.webp"
+  },
+  {
+    "anime": "판도라 하츠/애니메이션",
+    "type": "OP",
+    "song": "Parallel Hearts",
+    "vocal": "FictionJunction",
+    "videoId": "AXurH1jYi0U",
+    "videoIds": [
+      "AXurH1jYi0U",
+      "bzF-Vol2GAA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=AXurH1jYi0U",
+    "source": "https://namu.wiki/w/%ED%8C%90%EB%8F%84%EB%9D%BC%20%ED%95%98%EC%B8%A0/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/pxg41ybwn3XQhl_kfi8otne3ht0_Kg4rl_OHtCocFVCxgLChKyCTw4sAL5ojYBaXWh25-A7inj_Qr5eQ1oKnLsz9gPH7qF7_5AwOLB6sYBR8Udbr9KBMLl9bQyWNt96V25Uhqyu191Z9Zo7UDflzlQ.webp"
+  },
+  {
+    "anime": "내가 아가씨 학교에 ‘서민 샘플’로 납치당한 사건/애니메이션",
+    "type": "OP",
+    "song": "イチズレシピ 일편단심 레시피",
+    "vocal": "아이돌 칼리지(アイドルカレッジ)",
+    "videoId": "cJx6B9B_mD0",
+    "videoIds": [
+      "cJx6B9B_mD0",
+      "UocpmgsDPik",
+      "7bFHzDa9U9w",
+      "252Tp9_VUC0"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=cJx6B9B_mD0",
+    "source": "https://namu.wiki/w/%EB%82%B4%EA%B0%80%20%EC%95%84%EA%B0%80%EC%94%A8%20%ED%95%99%EA%B5%90%EC%97%90%20%E2%80%98%EC%84%9C%EB%AF%BC%20%EC%83%98%ED%94%8C%E2%80%99%EB%A1%9C%20%EB%82%A9%EC%B9%98%EB%8B%B9%ED%95%9C%20%EC%82%AC%EA%B1%B4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/WZaiToIlfu9EtPSfm7XdoyJRRqRrNKk6aNe9RW6GnqJsOOmHgZjPFqmjEsAMWKrXC0CHFTBFXDHxg8mk7xlNbMlpGjVoUr65us53r9Vljm2nSso9HJwdGSmaI63F0zgJaTxD0Wqzp2Bf5hc3IL7_7g.webp"
+  },
+  {
+    "anime": "내가 아가씨 학교에 ‘서민 샘플’로 납치당한 사건/애니메이션",
+    "type": "ED",
+    "song": "トワイライトに消えないで 트와일라이트에 사라지지 마",
+    "vocal": "하라 유미 [4]",
+    "videoId": "rGqDA8R0ZUU",
+    "videoIds": [
+      "rGqDA8R0ZUU",
+      "_lLOMKFg6l4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=rGqDA8R0ZUU",
+    "source": "https://namu.wiki/w/%EB%82%B4%EA%B0%80%20%EC%95%84%EA%B0%80%EC%94%A8%20%ED%95%99%EA%B5%90%EC%97%90%20%E2%80%98%EC%84%9C%EB%AF%BC%20%EC%83%98%ED%94%8C%E2%80%99%EB%A1%9C%20%EB%82%A9%EC%B9%98%EB%8B%B9%ED%95%9C%20%EC%82%AC%EA%B1%B4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/WZaiToIlfu9EtPSfm7XdoyJRRqRrNKk6aNe9RW6GnqJsOOmHgZjPFqmjEsAMWKrXC0CHFTBFXDHxg8mk7xlNbMlpGjVoUr65us53r9Vljm2nSso9HJwdGSmaI63F0zgJaTxD0Wqzp2Bf5hc3IL7_7g.webp"
+  },
+  {
+    "anime": "전국마신 고쇼군",
+    "type": "OP",
+    "song": "ゴーショーグン発進せよ",
+    "vocal": "후지이 켄(藤井 健)",
+    "videoId": "1f-oASal95Y",
+    "videoIds": [
+      "1f-oASal95Y"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=1f-oASal95Y",
+    "source": "https://namu.wiki/w/%EC%A0%84%EA%B5%AD%EB%A7%88%EC%8B%A0%20%EA%B3%A0%EC%87%BC%EA%B5%B0",
+    "year": 1981,
+    "image": "//i.namu.wiki/i/I9meZcXqjARqv8QCF_yybHG7uQGrUUXRifwYJLn-qst2rayNg7EoFQtM23N3noICngvSjayeDOgjKTlIthTewsJv69CpUcDVbcXOylCDb9txKpyhKPZ2Rbw6pKW4J2R-0hJ5YwslLtsTyFdH3l5C3w.webp"
+  },
+  {
+    "anime": "비디오전사 레자리온",
+    "type": "OP",
+    "song": "ビデオ戦士レザリオン",
+    "vocal": "미야우치 타카유키",
+    "videoId": "NXblNjuw6w4",
+    "videoIds": [
+      "NXblNjuw6w4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=NXblNjuw6w4",
+    "source": "https://namu.wiki/w/%EB%B9%84%EB%94%94%EC%98%A4%EC%A0%84%EC%82%AC%20%EB%A0%88%EC%9E%90%EB%A6%AC%EC%98%A8",
+    "year": 1984,
+    "image": "//i.namu.wiki/i/ugRyJyRD3tn1BkRuWXEPkgSqFs1RnZxpnHUF99v5fBzgqgo3O_e8WZg_XERQWON-U3Nu7mh2cwNSQ1zyyDf8H1xRuQSSoeZClkgomXh3HmYEALV96cM3fhwcJZ7-WXABKTF0NQOSZMt1_MUMLYTtWg.webp"
+  },
+  {
+    "anime": "폭렬천사",
+    "type": "OP",
+    "song": "Loosey",
+    "vocal": "THE STRiPES 연주",
+    "videoId": "5PAbRpzoEX8",
+    "videoIds": [
+      "5PAbRpzoEX8",
+      "sEKXMIDHC64"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=5PAbRpzoEX8",
+    "source": "https://namu.wiki/w/%ED%8F%AD%EB%A0%AC%EC%B2%9C%EC%82%AC",
+    "year": 2004,
+    "image": "//i.namu.wiki/i/U4eWMWC50qXPKKB6Pn5v6r6zzOw0p2Yw7Qp9WK7-L7e4BeVY7Enjo7BUq6aQsGmX2pte78UhyfEZZyVh9DmclAz5q6j84Vif4Bqv0DwataUx63-qCiVFzmvhL0RbakhAz5XYOMyFasPZrPBPLZqGQg.webp"
+  },
+  {
+    "anime": "은여우 -신의 사자-",
+    "type": "OP",
+    "song": "tiny lamp",
+    "vocal": "fhána",
+    "videoId": "B38sOOPEBKA",
+    "videoIds": [
+      "B38sOOPEBKA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=B38sOOPEBKA",
+    "source": "https://namu.wiki/w/%EC%9D%80%EC%97%AC%EC%9A%B0%20-%EC%8B%A0%EC%9D%98%20%EC%82%AC%EC%9E%90-",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/hG2AcBQhXwSOKFmDoCPFm5tyw3qWibSXx0f9YYIL3QDRkdfU69VCHM5hOIwvSyjXrhfrhmwGAYDcmb5ckFKjMWmlXdhTjI0FwkuSv_X8qPRHpbjr34a_xBFsnzx9MZOme7vj7d8qPEVxX2rhdEANxQ.webp"
+  },
+  {
+    "anime": "은여우 -신의 사자-",
+    "type": "ED",
+    "song": "月光STORY",
+    "vocal": "SCREEN mode",
+    "videoId": "Re3fRZVWInw",
+    "videoIds": [
+      "Re3fRZVWInw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Re3fRZVWInw",
+    "source": "https://namu.wiki/w/%EC%9D%80%EC%97%AC%EC%9A%B0%20-%EC%8B%A0%EC%9D%98%20%EC%82%AC%EC%9E%90-",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/hG2AcBQhXwSOKFmDoCPFm5tyw3qWibSXx0f9YYIL3QDRkdfU69VCHM5hOIwvSyjXrhfrhmwGAYDcmb5ckFKjMWmlXdhTjI0FwkuSv_X8qPRHpbjr34a_xBFsnzx9MZOme7vj7d8qPEVxX2rhdEANxQ.webp"
+  },
+  {
+    "anime": "타마유라(애니메이션)",
+    "type": "OP",
+    "song": "やさしさに包まれたなら 상냥함에 감싸였다면",
+    "vocal": "사카모토 마아야",
+    "videoId": "K8yTydPGglg",
+    "videoIds": [
+      "K8yTydPGglg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=K8yTydPGglg",
+    "source": "https://namu.wiki/w/%ED%83%80%EB%A7%88%EC%9C%A0%EB%9D%BC(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/zwB3ivmWDZK2wBDm1mZB9yQQ9s4KYEq2SiSZkOX3TAWEMeKBOaCRZxZ-eJ9nu8n09eRb3VVL-uSgJ-hZjirM540hl0F5dlwavvwBf9M5ozvYzNw_HGbo-CKWgdVxZcq3o16jCWNLDhCxPzUxpxPHyw.webp"
+  },
+  {
+    "anime": "마법의 스테이지 팬시라라",
+    "type": "OP",
+    "song": "La La La 〜くちびるに願いをこめて〜 La La La ~입술에 소원을 담아서~",
+    "vocal": "오오모리 레이코(大森玲子) 양정화 /코러스: 정여진",
+    "videoId": "9pSCW05yEVs",
+    "videoIds": [
+      "9pSCW05yEVs",
+      "8ThyYNKCEko"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=9pSCW05yEVs",
+    "source": "https://namu.wiki/w/%EB%A7%88%EB%B2%95%EC%9D%98%20%EC%8A%A4%ED%85%8C%EC%9D%B4%EC%A7%80%20%ED%8C%AC%EC%8B%9C%20%EB%9D%BC%EB%9D%BC",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/6embdyI4ZouV6IwzGyP-FWJLg1KA_VCai8zrwhHVwuxNatpEv59aq-RD1VZrcoXES0Tm1eF_mScv4Z3Z6kpgignuybbrnwQdDgC3w9zdzO4IcMOuoIQ8iHatiuI1wUEuy-eW6ytA4ycXl6KGjot7iA.webp"
+  },
+  {
+    "anime": "클레이모어(만화)/애니메이션",
+    "type": "OP",
+    "song": "レゾンデートル 존재 이유",
+    "vocal": "NIGHTMARE",
+    "videoId": "eI68_HxrrbY",
+    "videoIds": [
+      "eI68_HxrrbY",
+      "eLTYpGFLN40"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=eI68_HxrrbY",
+    "source": "https://namu.wiki/w/%ED%81%B4%EB%A0%88%EC%9D%B4%EB%AA%A8%EC%96%B4(%EB%A7%8C%ED%99%94)/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/1ACN8HhOxs9sQkOywNIK9vy2EfP7FbjSh_PiMwhVIBjt0sGHgyAQrYyzAzX7YylWTOZIy4T1l2vHopvSZ6HC3kVnCQLg_n5nDBkz_T2Ae07TZjarTjwSTSuj-htcwdXVS4qQ0Q1M92I4mtNTlPSj_g.webp"
+  },
+  {
+    "anime": "현란무답제",
+    "type": "OP",
+    "song": "Take★Back",
+    "vocal": "G★B 쉘터(G★Bシェルター)",
+    "videoId": "v9IrUWrHXng",
+    "videoIds": [
+      "v9IrUWrHXng",
+      "GYJ5kpYr2wA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=v9IrUWrHXng",
+    "source": "https://namu.wiki/w/%ED%98%84%EB%9E%80%EB%AC%B4%EB%8B%B5%EC%A0%9C",
+    "year": 2004,
+    "image": "//i.namu.wiki/i/Wq6ON4PJqevm3ja1GijYnSGmcFReDxNBiQBrXWEcgES9RfI59R6hUe1XQNqaGelV8QaB15JFWRUMtz2UC4Zu45n2M1iGu2oMZ0pbDVlAzr4c8oz8fidyFHL37H-nZiOdpFNJbvGDeqITD-K1HXKICg.webp"
+  },
+  {
+    "anime": "라디앙(애니메이션 1기)",
+    "type": "OP",
+    "song": "Utopia",
+    "vocal": "04 Limited Sazabys",
+    "videoId": "U8Py5D0QzmE",
+    "videoIds": [
+      "U8Py5D0QzmE",
+      "dkPE8EDBFAw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=U8Py5D0QzmE",
+    "source": "https://namu.wiki/w/%EB%9D%BC%EB%94%94%EC%95%99(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2018,
+    "image": "//i.namu.wiki/i/0Oeq35qbx6CzKH_NFCDschwN5YT5AWhPJk8aNo_wGX465lDql1Ke3G4huRn5_QMXuHEpM0pYReYfAWvcCKXENyt6DmJEdPaeG17H0tRDira4pQZYykegZAKssiJPAPsSuZSIRXc7BkVwL_XC5GCWqQ.webp"
+  },
+  {
+    "anime": "허니와 클로버(애니메이션 1기)",
+    "type": "OP",
+    "song": "ドラマチック 드라마틱",
+    "vocal": "YUKI 이정은",
+    "videoId": "_fhmxyhVRjE",
+    "videoIds": [
+      "_fhmxyhVRjE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=_fhmxyhVRjE",
+    "source": "https://namu.wiki/w/%ED%97%88%EB%8B%88%EC%99%80%20%ED%81%B4%EB%A1%9C%EB%B2%84(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/sApviVMT0Y-PA_TPLg9RbHuC6pxlCfu_txoF7WZjUe0iSF_qMw0eAxTbGFN9-zEuZBIO4FkpEu6BrmDSgp9GdZtzJa6iOtGSYgdc_BRxRmrTs9N6Gykpzl66VWw5f8untd9BHIh5Sz0NzVa2eWJ-BQ.webp"
+  },
+  {
+    "anime": "메카쿠시티 액터즈",
+    "type": "OP",
+    "song": "daze",
+    "vocal": "진 ft. 메이리아 from GARNiDELiA",
+    "videoId": "AV-_bh4u-b4",
+    "videoIds": [
+      "AV-_bh4u-b4",
+      "9d2iLvb3mwQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=AV-_bh4u-b4",
+    "source": "https://namu.wiki/w/%EB%A9%94%EC%B9%B4%EC%BF%A0%EC%8B%9C%ED%8B%B0%20%EC%95%A1%ED%84%B0%EC%A6%88",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/jQ-EBH0-Np5TY5e2OOBOiuXhSF2gautFgZ3prD6I3WmXBftQ19dL9B8ZcMRA9t7Ma3aMzVnbZzuvRwxb7uNEv9xeK7UF603e9DT1ef8OiuVFdc91K3LCu9Rv8lVqYZNZcJ6cU5RIIsO-z1SPYGWdfg.webp"
+  },
+  {
+    "anime": "오버맨 킹게이너",
+    "type": "OP",
+    "song": "キングゲイナー・オーバー! 킹게이너 오버!",
+    "vocal": "후쿠야마 요시키",
+    "videoId": "p9m3LOUzZs4",
+    "videoIds": [
+      "p9m3LOUzZs4",
+      "Nh0S1stXKrw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=p9m3LOUzZs4",
+    "source": "https://namu.wiki/w/%EC%98%A4%EB%B2%84%EB%A7%A8%20%ED%82%B9%EA%B2%8C%EC%9D%B4%EB%84%88",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/oSIzcY3MYWXcs5ePSqxBe65WwMnfjZ3VQFp7KMiRO_rgIuo20EQwS8tqFe0KjbVV-_gk16VkJTbDvwFdXkrpfKuX_wsJIQBZtSrIVBybYnN4d7YI66Ce-stP1DNH9aTjEATjXiO23fsmUVLJLSIfqA.webp"
+  },
+  {
+    "anime": "캔디캔디/애니메이션",
+    "type": "OP",
+    "song": "キャンディ キャンディ 들장미 소녀 캔디",
+    "vocal": "호리에 미츠코 , ザ・チャープス(The Chirps)",
+    "videoId": "zPSQ7cdngaE",
+    "videoIds": [
+      "zPSQ7cdngaE",
+      "oIoEZ07L21Q",
+      "4AMO_YRN62k"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=zPSQ7cdngaE",
+    "source": "https://namu.wiki/w/%EC%BA%94%EB%94%94%EC%BA%94%EB%94%94/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 1976,
+    "image": "//i.namu.wiki/i/BsRbPnJYzeg_QJi_sCBwWK3w-AAcLFoidsI3pQBm-pKoump_ErKxwLxIFsWlFgtkxi_xyWh6G-1kmJbygUZygz_8cJEBOWsmB9wBM6uTnR7okS0jOFTInkMfSYXeBXjckX4RTcoejRTTR2eTQAoO9A.webp"
+  },
+  {
+    "anime": "전국무쌍(애니메이션)",
+    "type": "OP",
+    "song": "戦-ikusa-",
+    "vocal": "와가키 밴드(和楽器バンド)",
+    "videoId": "Y5zj3dwNxJw",
+    "videoIds": [
+      "Y5zj3dwNxJw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Y5zj3dwNxJw",
+    "source": "https://namu.wiki/w/%EC%A0%84%EA%B5%AD%EB%AC%B4%EC%8C%8D%20%EC%8B%9C%EB%A6%AC%EC%A6%88/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/GSqCpoKyKsU_MzcCBCitOmv5bOWuxZ6MTGB92iMsWfSjlY85J9pwYgpErRos_wS1q0fypPp3LOdruop0IKvW1ndCp3nn8ZRhbX3OMiqxl0Tt-SWjjsvj2r9BRRA6zzrX-Wp14gN_vCZJQdauQamBZg.webp"
+  },
+  {
+    "anime": "후레쉬 프리큐어!",
+    "type": "OP",
+    "song": "1 (1~25화) Let’s! フレッシュプリキュア! Let's! 후레쉬 프리큐어!",
+    "vocal": "모이에 미즈키(茂家瑞季) 이재현 (chorus 김하영 )",
+    "videoId": "hryr5sl1QvI",
+    "videoIds": [
+      "hryr5sl1QvI",
+      "lKZRfPaClBc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=hryr5sl1QvI",
+    "source": "https://namu.wiki/w/%ED%94%84%EB%A0%88%EC%89%AC%20%ED%94%84%EB%A6%AC%ED%81%90%EC%96%B4!",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/rs8VTGWakVUi_YAt1M_tFO9yNc8TMNCNu9tu8ArxDqcVZrWISiR9C5HZRFJdTqDFIOtitp2LKCaDf1jDN9r7CGGmtq7IdiOUhxtoHgzC79sbaev5eNJ48wM6NqWMNQv1mH-3q3TdKOTdl2P75eOyzQ.webp"
+  },
+  {
+    "anime": "GEAR파이터 덴도",
+    "type": "OP",
+    "song": "W-Infinity",
+    "vocal": "미에노 히토미 with 카게야마 히로노부 이영미 with TULA [32]",
+    "videoId": "pqqfx4e_e8c",
+    "videoIds": [
+      "pqqfx4e_e8c",
+      "RAL733XI4ks"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=pqqfx4e_e8c",
+    "source": "https://namu.wiki/w/GEAR%EC%A0%84%EC%82%AC%20%EB%8D%B4%EB%8F%84",
+    "year": 2000,
+    "image": "//i.namu.wiki/i/8wMO6bMx0rmRyXzanu1_iP24rceAfu-ztd2-LmulekoHbkRL9RgIQqV4Fv8fJWUs51EMFibTFEytcB39FgBanzmY-pudzEFwBXmzzJ-kWrv3PWag1Z1UCgAGir4_8W_oXajIijpA7M7Cg0eQXnhJfg.webp"
+  },
+  {
+    "anime": "라스트 엑자일",
+    "type": "OP",
+    "song": "Cloud Age Symphony",
+    "vocal": "OKINO,SHUNTARO [7]",
+    "videoId": "yuQaEfJnIa4",
+    "videoIds": [
+      "yuQaEfJnIa4",
+      "p7IduKn03UU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=yuQaEfJnIa4",
+    "source": "https://namu.wiki/w/%EB%9D%BC%EC%8A%A4%ED%8A%B8%20%EC%97%91%EC%9E%90%EC%9D%BC",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/2GqUGpewuopgLvWAQSo6pEf9GmARKJgbu_um_Bg5hLAiqyYQN4CG58MxejQr9vjxyzCh7V0xfpbPRVikx4vWD2vqP0PvJcyN2zY-kW8Piv2sGEGGNkgCoa6xGqf912OdP-hiD7CvHb4AtGy8d30iRQ.webp"
+  },
+  {
+    "anime": "마법소녀 메구짱",
+    "type": "OP",
+    "song": "魔女っ子メグちゃん 마법소녀 메구짱",
+    "vocal": "마에카와 요코(前川陽子)",
+    "videoId": "nNqwmI7Ki-o",
+    "videoIds": [
+      "nNqwmI7Ki-o",
+      "Awal-rYFcMI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=nNqwmI7Ki-o",
+    "source": "https://namu.wiki/w/%EB%A7%88%EB%B2%95%EC%86%8C%EB%85%80%20%EB%A9%94%EA%B5%AC%EC%A7%B1",
+    "year": 1974,
+    "image": "//i.namu.wiki/i/oduXwWeWcPih_thPZ4HznKGC_SkyB2j78aTMut5y9QUoHlgPsjyPhKq0d7c17LBfvii8IeQmdC8T4ClS5kZm-arVUsfvDb7saHhnv5pmKA5UtGCAd9ojLiu2OhSj732aEU-XPAzbdqaPxIGYQ7gs6A.webp"
+  },
+  {
+    "anime": "앨리스와 조로쿠/애니메이션",
+    "type": "OP",
+    "song": "ワンダードライブ",
+    "vocal": "ORESAMA",
+    "videoId": "KVog1J_KnRQ",
+    "videoIds": [
+      "KVog1J_KnRQ",
+      "5-9s4DUfBLs"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=KVog1J_KnRQ",
+    "source": "https://namu.wiki/w/%EC%95%A8%EB%A6%AC%EC%8A%A4%EC%99%80%20%EC%A1%B0%EB%A1%9C%EC%BF%A0/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/VcBZYPouNbj0xcVdRTsuqJ72rWbfJRaCYRHFcjjaOPGppK1-U7JMvcD-gTQ0YVmWEGHZ3uJpP8mgUkHxdtjD2URhF23atIHH8DK0ir6Y4N-G6yqoVD4rLsT4mH_g0cLN_AhuxvuUsLUhR2AbJATAWQ.webp"
+  },
+  {
+    "anime": "베이블레이드 버스트 진검",
+    "type": "OP",
+    "song": "/ED GATTI'N'ROLL!! 진검승부",
+    "vocal": "이와사키 케이(岩崎 慧) TULA",
+    "videoId": "XiANrqh5CMc",
+    "videoIds": [
+      "XiANrqh5CMc",
+      "DTV7s2CgmNQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=XiANrqh5CMc",
+    "source": "https://namu.wiki/w/%EB%B2%A0%EC%9D%B4%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C%20%EB%B2%84%EC%8A%A4%ED%8A%B8%20%EC%A7%84%EA%B2%80",
+    "year": 2019,
+    "image": "//i.namu.wiki/i/2F2MUmYkA8HWwbR8-EvXhjET7ekpWnIy85JTQ9ryMEVuhe5U7U1hYbHBgd-Q10j-N3vQ_0uya3tllExS5r27e3b3QGkeRtW_9I6TShcLyEDgAzOgMzmTfmTqY7QNaih7p5N-hqYAJeOkyDnbuIaE6g.webp"
+  },
+  {
+    "anime": "트라이건 스탬피드",
+    "type": "ED",
+    "song": "星のクズ α 별 부스러기 α Stars α",
+    "vocal": "Salyu × haruka nakamura",
+    "videoId": "sRc-5RGEtVI",
+    "videoIds": [
+      "sRc-5RGEtVI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=sRc-5RGEtVI",
+    "source": "https://namu.wiki/w/%ED%8A%B8%EB%9D%BC%EC%9D%B4%EA%B1%B4%20%EC%8A%A4%ED%83%AC%ED%94%BC%EB%93%9C",
+    "year": 2023,
+    "image": "//i.namu.wiki/i/HBw-Hyf3xsjvWZbpfTLJ86xHFuW7O7dpdOPVwiuWbFnxn3uycCGVtdS-57GAOl4Lnx7Kmqi3MaQ--Cl9DriUJUwuBIt1__xWj_sjvMO1wgBQF1GXbfUXRnTWT4xHt1uyn7dpF2qykkQQuxVboBVtIQ.webp"
+  },
+  {
+    "anime": "스크랩드 프린세스/애니메이션",
+    "type": "OP",
+    "song": "Little Wing",
+    "vocal": "JAM Project featuring 오쿠이 마사미",
+    "videoId": "xi8ZNryJM20",
+    "videoIds": [
+      "xi8ZNryJM20"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=xi8ZNryJM20",
+    "source": "https://namu.wiki/w/%EC%8A%A4%ED%81%AC%EB%9E%A9%EB%93%9C%20%ED%94%84%EB%A6%B0%EC%84%B8%EC%8A%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/4RUws_WIzp6T15HZlTbse0e8Pa6YvV_eck3vEf3iHRMigL_mSSZgUXUqFkQ_lRVkEbBHeT15s20xQWakl4QGONtEf3XyY-J5Iv9S1xqLSKkCgQWJNsfBi-yP-7kzZzegp7d6AqVFhATDJ9Z4NbsZTA.webp"
+  },
+  {
+    "anime": "바보걸/애니메이션",
+    "type": "OP",
+    "song": "全力☆Summer! 힘껏☆Summer!",
+    "vocal": "angela",
+    "videoId": "R59cOoIM_LQ",
+    "videoIds": [
+      "R59cOoIM_LQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=R59cOoIM_LQ",
+    "source": "https://namu.wiki/w/%EB%B0%94%EB%B3%B4%EA%B1%B8/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/xNb00r6YbXWMEd5LKfegrf-wcD2wOdBKLzCTGZdYj54ZWfBMChq48oIHLzs31O0Kh9w-UmWToay3BWp4GNTMpLXvX5dhEkpYr0zJfXPW7f9RYftZvzeXFWYAMFSujHGAJdaU4uLwkIIcnqUh0vyyAw.webp"
+  },
+  {
+    "anime": "장갑기병 보톰즈",
+    "type": "OP",
+    "song": "炎のさだめ 불꽃의 숙명",
+    "vocal": "TETSU [10]",
+    "videoId": "J8hwDQJRU7E",
+    "videoIds": [
+      "J8hwDQJRU7E",
+      "Rszhfg9aUvs"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=J8hwDQJRU7E",
+    "source": "https://namu.wiki/w/%EC%9E%A5%EA%B0%91%EA%B8%B0%EB%B3%91%20%EB%B3%B4%ED%86%B0%EC%A6%88",
+    "year": 1983,
+    "image": "//i.namu.wiki/i/9qGWw8Tz3xRD8UMNnh2ar29QdWNO-_JCV2HoSO-KeO8BBgyxu82OHydKRlGSISBbN8_QelElUb8bTlEUToXPhvtk5iU15P9jztxIQnra-qRA9nMEFo2rgejQSlD4YuDe3MEiA6y82KV8Wa7HKZn7KA.webp"
+  },
+  {
+    "anime": "이누가미 양과 네코야마 양",
+    "type": "ED",
+    "song": "「絶対♡服従宣言」 절대♡복종선언",
+    "vocal": "이누가미 야치요 (CV. 우에사카 스미레 ), 네코야마 스즈 (CV. 토야마 나오 )",
+    "videoId": "pfv6jfqUmZg",
+    "videoIds": [
+      "pfv6jfqUmZg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=pfv6jfqUmZg",
+    "source": "https://namu.wiki/w/%EC%9D%B4%EB%88%84%EA%B0%80%EB%AF%B8%20%EC%96%91%EA%B3%BC%20%EB%84%A4%EC%BD%94%EC%95%BC%EB%A7%88%20%EC%96%91",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/v4Qt_3SpLy23Hze-aJa3b2eKfLVSHYopPMqx8qCfpokntRVOq-XDBervCRvI8N7x5NSrWIKo0VKtfANx07nQ7B9if-SN8j3s1PiZ8OpccxRa7AlSkjnXZCphtExWAj3Eks4blwOkFCFJYErGpLYwhQ.webp"
+  },
+  {
+    "anime": "사사미양@노력하지않아/애니메이션",
+    "type": "OP",
+    "song": "Alteration",
+    "vocal": "ZAQ",
+    "videoId": "ofM1_XaIcl8",
+    "videoIds": [
+      "ofM1_XaIcl8",
+      "W_BL0XMcCXY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ofM1_XaIcl8",
+    "source": "https://namu.wiki/w/%EC%82%AC%EC%82%AC%EB%AF%B8%EC%96%91%40%EB%85%B8%EB%A0%A5%ED%95%98%EC%A7%80%EC%95%8A%EC%95%84/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/On5hgCxdIj7yHgt_EjdOqlcChpmDtBSOhtWAA7rr0LlbDmTd5EnO63O2qXEIIVr0UMXSHIryRUNettd4-IQvAgKEjFoMqstvxRsmbR8-vee0ALjOj9Iksxfs_wiHZvBiSHRC25DAbxWs9WJcmnCz9w.webp"
+  },
+  {
+    "anime": "유리쿠마 아라시",
+    "type": "OP",
+    "song": "あの森で待ってる 그 숲에서 기다릴게",
+    "vocal": "봉주르 스즈키(ボンジュール鈴木)",
+    "videoId": "VGyc1iqgfE8",
+    "videoIds": [
+      "VGyc1iqgfE8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=VGyc1iqgfE8",
+    "source": "https://namu.wiki/w/%EC%9C%A0%EB%A6%AC%EC%BF%A0%EB%A7%88%20%EC%95%84%EB%9D%BC%EC%8B%9C",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/0dcnCmP3fAID339jaIYdfm61ICRtPBCHGHoCsmAJWo9Kv6URt4gKnBO3pEisGPjvM2Zw3rod695OAw7nliGLq3s5a98-rErybFfY-ObdVXUtiU7a8pOdLhZaTH5hpjXQZ187MdSikQVTClmGKw3sSQ.webp"
+  },
+  {
+    "anime": "리스토란테 파라디조",
+    "type": "OP",
+    "song": "マリーゴールド",
+    "vocal": "orange pekoe",
+    "videoId": "8i6luush-Ms",
+    "videoIds": [
+      "8i6luush-Ms",
+      "XdqunNurAYg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=8i6luush-Ms",
+    "source": "https://namu.wiki/w/%EB%A6%AC%EC%8A%A4%ED%86%A0%EB%9E%80%ED%85%8C%20%ED%8C%8C%EB%9D%BC%EB%94%94%EC%A1%B0",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/uBFQjsTQPwW8NPqo0sBiyfsFPTQcerEepKwFnbU_X__7yymRjqb4e9i4jrfmDcEx8pgbdTn4VFSFdvAUUsa1euuEHTFU3aZ9kAes4Z78A-gQA7DVNwSY-poikNjafkur-auLO251lp32yIXg6NURqQ.webp"
+  },
+  {
+    "anime": "노을빛으로 물드는 언덕/애니메이션",
+    "type": "OP",
+    "song": "初恋パラシュート",
+    "vocal": "하시모토 미유키",
+    "videoId": "_C9t2xGf36k",
+    "videoIds": [
+      "_C9t2xGf36k",
+      "9fQ4pnqEH1I"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=_C9t2xGf36k",
+    "source": "https://namu.wiki/w/%EB%85%B8%EC%9D%84%EB%B9%9B%EC%9C%BC%EB%A1%9C%20%EB%AC%BC%EB%93%9C%EB%8A%94%20%EC%96%B8%EB%8D%95/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/6V3jJ3wXsR5dUKFH89FqdsFSQDqZdQiZzTb4IKM-VSiT4N813hQ9V5_b8eNtn0yeUs85iH44bL4UDuIeaMFS4pyC7OZ7KAtK4F6VB5V_i0o73eMWMm7nzAPNorUuGfdu-9PIE-Qy9MgD8uuZTIbMpA.webp"
+  },
+  {
+    "anime": "히나코 노트/애니메이션",
+    "type": "OP",
+    "song": "O P あ ・ え ・ い ・ う ・ え ・ お ・あお !! 아 ・ 에 ・ 이 ・ 우 ・ 에 ・ 오 ・아오 !!",
+    "vocal": "극단 히토토세(劇団ひととせ)",
+    "videoId": "ThpdGIKEMlQ",
+    "videoIds": [
+      "ThpdGIKEMlQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ThpdGIKEMlQ",
+    "source": "https://namu.wiki/w/%ED%9E%88%EB%82%98%EC%BD%94%20%EB%85%B8%ED%8A%B8/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/HJMw7f3V9enp0369o7SNAukQqYnAGltNjHZXZFazTjSVGtJpbieH95O4RLDbPoWxFDAaOqCGLspzy_1JooNU4Bndk7WPHZLemf-TKMD-bkSaq21TVslgMD8OHKLYLq9TWMxc2S7JGL399FsO_eVKxw.webp"
+  },
+  {
+    "anime": "사랑한다고 말해/애니메이션",
+    "type": "OP",
+    "song": "Friendship 〜for 好きっていいなよ。 번역명 번안명",
+    "vocal": "오카자키 리츠코",
+    "videoId": "L0G_kNrqOcY",
+    "videoIds": [
+      "L0G_kNrqOcY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=L0G_kNrqOcY",
+    "source": "https://namu.wiki/w/%EC%82%AC%EB%9E%91%ED%95%9C%EB%8B%A4%EA%B3%A0%20%EB%A7%90%ED%95%B4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/suLIDNUp1Nz9VD9cSm6Ufq3d5gCdv1h-C15QWKTSRd2uh-v021jIzLNMDBRLvPNWAyZ87PxzzUGxDzY6ul9xLjFtmWJj9Gnjl20VBSqK-10DYVbpSyMzm3YOBvNLLHSHiEoRjeqxydI-Atcz0ZjDSg.webp"
+  },
+  {
+    "anime": "하루치카 ~하루타와 치카는 청춘이다~",
+    "type": "OP",
+    "song": "虹を編めたら 무지개를 엮을 수 있다면",
+    "vocal": "fhána",
+    "videoId": "W7syYOXLS7Q",
+    "videoIds": [
+      "W7syYOXLS7Q"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=W7syYOXLS7Q",
+    "source": "https://namu.wiki/w/%ED%95%98%EB%A3%A8%EC%B9%98%EC%B9%B4%20~%ED%95%98%EB%A3%A8%ED%83%80%EC%99%80%20%EC%B9%98%EC%B9%B4%EB%8A%94%20%EC%B2%AD%EC%B6%98%EC%9D%B4%EB%8B%A4~",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/zjuh1lMyzmmunpIQde1tHnsnPKM7GSjzRP8i3WuqxJQz8hZX8oCdy4y39NnD7RHn2rZ8T0atxGt9B_tir2JbtZkUWDH8Ar6J6jTqlzdzaijVjyox6XVWtQONlmnAO7V6yyaRILwxQZNmcTjNc2RTIw.webp"
+  },
+  {
+    "anime": "하루치카 ~하루타와 치카는 청춘이다~",
+    "type": "ED",
+    "song": "空想トライアングル 공상 트라이앵글",
+    "vocal": "ChouCho",
+    "videoId": "nW2DLH-F7UE",
+    "videoIds": [
+      "nW2DLH-F7UE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=nW2DLH-F7UE",
+    "source": "https://namu.wiki/w/%ED%95%98%EB%A3%A8%EC%B9%98%EC%B9%B4%20~%ED%95%98%EB%A3%A8%ED%83%80%EC%99%80%20%EC%B9%98%EC%B9%B4%EB%8A%94%20%EC%B2%AD%EC%B6%98%EC%9D%B4%EB%8B%A4~",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/zjuh1lMyzmmunpIQde1tHnsnPKM7GSjzRP8i3WuqxJQz8hZX8oCdy4y39NnD7RHn2rZ8T0atxGt9B_tir2JbtZkUWDH8Ar6J6jTqlzdzaijVjyox6XVWtQONlmnAO7V6yyaRILwxQZNmcTjNc2RTIw.webp"
+  },
+  {
+    "anime": "드래곤볼 Z",
+    "type": "OP",
+    "song": "1 (1화~199화) / 비디오판 OP CHA-LA HEAD-CHA-LA [37] 신나 신나게",
+    "vocal": "카게야마 히로노부 (影山ヒロノブ) 박정민",
+    "videoId": "NiD3622SMFY",
+    "videoIds": [
+      "NiD3622SMFY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=NiD3622SMFY",
+    "source": "https://namu.wiki/w/%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B3%BC%20Z",
+    "year": 1989,
+    "image": "//i.namu.wiki/i/xJFazC-RyHYVW2nTgtBu9pqB_dCubTJKXZVY2LwINBcijGsBzEed9T8tJVXlNSvqP-YFNHuIAzGTevqKnabWFfR1dtziEamv0_9Kwzf9YwnV38M0H_9chCtY6Qu5M0jqJKKhQ7muHfCz6qi21e3taA.webp"
+  },
+  {
+    "anime": "버블검 크라이시스 TOKYO 2040",
+    "type": "OP",
+    "song": "Y'know",
+    "vocal": "프리즈 아사기리(プリス・アサギリ) the same 스도 아키라(須藤あきら) 불명",
+    "videoId": "VrATMdEsr1I",
+    "videoIds": [
+      "VrATMdEsr1I"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=VrATMdEsr1I",
+    "source": "https://namu.wiki/w/%EB%B2%84%EB%B8%94%EA%B2%80%20%ED%81%AC%EB%9D%BC%EC%9D%B4%EC%8B%9C%EC%8A%A4%20TOKYO%202040",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/NSh29sjnrkliFeGyUTIQtqUC1X0jO0LuL2Uhjkosabi_6pC6Mdq9Ojb-4Ep7P0SsI6xk5SyCj8eWg1SZqaZgLjeuAbjv_uheB1tGpgbTfMIn43bs_aWAXUajdcU-aDGfEyVP22pznoOSZefdnziQnw.webp"
+  },
+  {
+    "anime": "버블검 크라이시스 TOKYO 2040",
+    "type": "ED",
+    "song": "Waiting for you",
+    "vocal": "프리즈 아사기리(プリス・アサギリ) the same 스도 아키라(須藤あきら) 불명",
+    "videoId": "mgrzUzJg3jI",
+    "videoIds": [
+      "mgrzUzJg3jI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=mgrzUzJg3jI",
+    "source": "https://namu.wiki/w/%EB%B2%84%EB%B8%94%EA%B2%80%20%ED%81%AC%EB%9D%BC%EC%9D%B4%EC%8B%9C%EC%8A%A4%20TOKYO%202040",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/NSh29sjnrkliFeGyUTIQtqUC1X0jO0LuL2Uhjkosabi_6pC6Mdq9Ojb-4Ep7P0SsI6xk5SyCj8eWg1SZqaZgLjeuAbjv_uheB1tGpgbTfMIn43bs_aWAXUajdcU-aDGfEyVP22pznoOSZefdnziQnw.webp"
+  },
+  {
+    "anime": "밤의 얏타맨",
+    "type": "OP",
+    "song": "極限DREAMER",
+    "vocal": "SCREEN mode",
+    "videoId": "P1J7WsnST10",
+    "videoIds": [
+      "P1J7WsnST10"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=P1J7WsnST10",
+    "source": "https://namu.wiki/w/%EB%B0%A4%EC%9D%98%20%EC%96%8F%ED%83%80%EB%A7%A8",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/hFUZC9bGM2wUVC0FYdhrXDTwNMC484527PclYNkCsh_2ZkkSix1pkUNRV-QS9W1K5lChbH896PS5faEOYM_HCHFdu997Gvr-DG0bjv44WfjPWlMkCQWXVkqSPzNOZ2u8IrFoFC4T_OBUQJp8ienCsQ.webp"
+  },
+  {
+    "anime": "토끼 드롭스/애니메이션",
+    "type": "OP",
+    "song": "SWEET DROPS",
+    "vocal": "PUFFY",
+    "videoId": "N3AIT585JoE",
+    "videoIds": [
+      "N3AIT585JoE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=N3AIT585JoE",
+    "source": "https://namu.wiki/w/%ED%86%A0%EB%81%BC%20%EB%93%9C%EB%A1%AD%EC%8A%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/JNPPAAA_L7EGMtc_wSnLmnMFN3nyiN5AftySSBB-MTdudDjSR3Eb9cecqDuCpZpPIsRWAQFzwxhqZidu0fa4c74I2lzr3oVisIGC--Kdsap_H2xX_siWqv4MDbV4ZM9fahhCbKXEcbGmtrlv_z4g0Q.webp"
+  },
+  {
+    "anime": "야쿠시지 료코의 괴기 사건부/애니메이션",
+    "type": "OP",
+    "song": "Theme principal",
+    "vocal": "",
+    "videoId": "FD5j_SUA59o",
+    "videoIds": [
+      "FD5j_SUA59o"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=FD5j_SUA59o",
+    "source": "https://namu.wiki/w/%EC%95%BC%EC%BF%A0%EC%8B%9C%EC%A7%80%20%EB%A3%8C%EC%BD%94%EC%9D%98%20%EA%B4%B4%EA%B8%B0%20%EC%82%AC%EA%B1%B4%EB%B6%80/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/GwGyYn8J9KeOvozwFvn1AmuJmhNE4Z9f98HREvbpkTwmQidWwsV9YeDGh1M-GPXLOIEFc19qoF55LKWOywiJxbgiCR8mqF5LrV4NgAa8Knt_1vaMEoULYrv6WElMtDsuXkpOUHg15B0uXtlFBIra2A.webp"
+  },
+  {
+    "anime": "마인탐정 네우로/애니메이션",
+    "type": "OP",
+    "song": "(1~25화) DIRTY",
+    "vocal": "NIGHTMARE",
+    "videoId": "A8GZReei1hY",
+    "videoIds": [
+      "A8GZReei1hY",
+      "mfUf54Okt0E"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=A8GZReei1hY",
+    "source": "https://namu.wiki/w/%EB%A7%88%EC%9D%B8%ED%83%90%EC%A0%95%20%EB%84%A4%EC%9A%B0%EB%A1%9C/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/bhOjQ_pAz90K6hua93aJ4D5KNpDGaEK_ce8jOvrOYu4SdOPeBNylpRltpdWRv3IuicRgy3B4TA_KoT2sZW0yA2cumhIoAuK5B8xPksMCMtxw-rq7TA3d482pcYckzmQadAZV6p5xWsjIjaUVlquFpg.webp"
+  },
+  {
+    "anime": "아쿠에리안 에이지",
+    "type": "OP",
+    "song": "/ 13화 ED Everlasting Love",
+    "vocal": "SeYUN",
+    "videoId": "q-yKiq-II70",
+    "videoIds": [
+      "q-yKiq-II70"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=q-yKiq-II70",
+    "source": "https://namu.wiki/w/%EC%95%84%EC%BF%A0%EC%97%90%EB%A6%AC%EC%95%88%20%EC%97%90%EC%9D%B4%EC%A7%80",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/fTCUiTlmdq-G77k1cP8kyPlue1SH8tAqB4kL6mOkgQY-WeOaRJoJQgjNSBO_ctHfU6grB9ABt4eV8UbqsRpoFNHPlrBDhMHDyQ9UBZcnlgzMYiTvqrwbiS-43GPzVPiuHEt5dOG_baIX43vdU3G3MA.webp"
+  },
+  {
+    "anime": "아쿠에리안 에이지",
+    "type": "ED",
+    "song": "PRISM",
+    "vocal": "T.L.Signal 1화 아시하라 미키(芦原みき) from Little Voice 2~12화",
+    "videoId": "6vq7PqjXRcc",
+    "videoIds": [
+      "6vq7PqjXRcc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=6vq7PqjXRcc",
+    "source": "https://namu.wiki/w/%EC%95%84%EC%BF%A0%EC%97%90%EB%A6%AC%EC%95%88%20%EC%97%90%EC%9D%B4%EC%A7%80",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/fTCUiTlmdq-G77k1cP8kyPlue1SH8tAqB4kL6mOkgQY-WeOaRJoJQgjNSBO_ctHfU6grB9ABt4eV8UbqsRpoFNHPlrBDhMHDyQ9UBZcnlgzMYiTvqrwbiS-43GPzVPiuHEt5dOG_baIX43vdU3G3MA.webp"
+  },
+  {
+    "anime": "CANAAN",
+    "type": "OP",
+    "song": "mind as Judgment",
+    "vocal": "페이란 (飛蘭)",
+    "videoId": "12pHlAjUygc",
+    "videoIds": [
+      "12pHlAjUygc",
+      "gFbdJZCBzKw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=12pHlAjUygc",
+    "source": "https://namu.wiki/w/CANAAN",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/cx51YLN63A_iwBqXlqI6WICcXLxkDJNnwbH63at92RyZy0YjBEEEv4MFGH1yh7t5-WZ513p123OXE-jW2CxqYK88kdzBE4o4XZLxtLeoNeqlLNh4F-u9yoopQe_4EuWFYpmL2bwqNOvURPL4KoWY8A.webp"
+  },
+  {
+    "anime": "눈의 여왕 ~THE SNOW QUEEN~",
+    "type": "OP",
+    "song": "スノーダイヤモンド Snow Diamond",
+    "vocal": "",
+    "videoId": "inowsoyOaAQ",
+    "videoIds": [
+      "inowsoyOaAQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=inowsoyOaAQ",
+    "source": "https://namu.wiki/w/%EB%88%88%EC%9D%98%20%EC%97%AC%EC%99%95%20~THE%20SNOW%20QUEEN~",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/Jm1N1mkz4Q-nHFpC-z675ucCktLwrAuU9F9ovwpPgNBLM3dimgyGycNkkngh3togLepaIA-3W6l3Z_HDDwNe3nzdpNFN71k5e_tbn9jhkGExFzsuW8N_3MtpBR5ExwIh9EnvHjDifMrSelgpkyo6xA.webp"
+  },
+  {
+    "anime": "눈의 여왕 ~THE SNOW QUEEN~",
+    "type": "ED",
+    "song": "大好きな君に 사랑하는 너에게",
+    "vocal": "오다 카즈마사(小田和正)",
+    "videoId": "IMLiKV-Yhw4",
+    "videoIds": [
+      "IMLiKV-Yhw4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=IMLiKV-Yhw4",
+    "source": "https://namu.wiki/w/%EB%88%88%EC%9D%98%20%EC%97%AC%EC%99%95%20~THE%20SNOW%20QUEEN~",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/Jm1N1mkz4Q-nHFpC-z675ucCktLwrAuU9F9ovwpPgNBLM3dimgyGycNkkngh3togLepaIA-3W6l3Z_HDDwNe3nzdpNFN71k5e_tbn9jhkGExFzsuW8N_3MtpBR5ExwIh9EnvHjDifMrSelgpkyo6xA.webp"
+  },
+  {
+    "anime": "스컬맨(애니메이션)",
+    "type": "OP",
+    "song": "ひかりのまち 빛의 마을",
+    "vocal": "TOKIO",
+    "videoId": "o9O3ECHAMfY",
+    "videoIds": [
+      "o9O3ECHAMfY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=o9O3ECHAMfY",
+    "source": "https://namu.wiki/w/%EC%8A%A4%EC%BB%AC%EB%A7%A8(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/c1DfGiGnn0VC8W1yPnCINLROPzzkZGcGBH3AkglO3xVDlJXbCfFdx7KYA5cpnOtuZ2sCrvEne9UqTC2z3_3GyOcL441t9hKTf-o_cmw_5p0OcGruRwVK-pjKjErEGvOQauo47EGkhRtFB1b_-pWEog.webp"
+  },
+  {
+    "anime": "스컬맨(애니메이션)",
+    "type": "ED",
+    "song": "明日は明日の君が生まれる 내일은 내일의 네가 태어날 거야",
+    "vocal": "Chocolove from AKB48",
+    "videoId": "YG9tnQhRp-w",
+    "videoIds": [
+      "YG9tnQhRp-w"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=YG9tnQhRp-w",
+    "source": "https://namu.wiki/w/%EC%8A%A4%EC%BB%AC%EB%A7%A8(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98)",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/c1DfGiGnn0VC8W1yPnCINLROPzzkZGcGBH3AkglO3xVDlJXbCfFdx7KYA5cpnOtuZ2sCrvEne9UqTC2z3_3GyOcL441t9hKTf-o_cmw_5p0OcGruRwVK-pjKjErEGvOQauo47EGkhRtFB1b_-pWEog.webp"
+  },
+  {
+    "anime": "가사라키",
+    "type": "OP",
+    "song": "MESSAGE #9 [11]",
+    "vocal": "타네 토모코(種ともこ)",
+    "videoId": "jWXBug4B8BA",
+    "videoIds": [
+      "jWXBug4B8BA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=jWXBug4B8BA",
+    "source": "https://namu.wiki/w/%EA%B0%80%EC%82%AC%EB%9D%BC%ED%82%A4",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/ERc_OaL-rmVRl5B6EKFHOJ5yKnxbzN1W8SpwZvUXxJ1cNd38LEdpEJ3e9DYgxzT40NYzPMlPYFzVgYuv4IaLXU6xOp9IHhXJDTnpTxogZ8iUlsrdT5flli68xH7arb5-GgVnsHzvVoOQB94L2blsFA.webp"
+  },
+  {
+    "anime": "가사라키",
+    "type": "ED",
+    "song": "LOVE SONG",
+    "vocal": "타네 토모코(種ともこ)",
+    "videoId": "x4UBy0u7l7s",
+    "videoIds": [
+      "x4UBy0u7l7s"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=x4UBy0u7l7s",
+    "source": "https://namu.wiki/w/%EA%B0%80%EC%82%AC%EB%9D%BC%ED%82%A4",
+    "year": 1998,
+    "image": "//i.namu.wiki/i/ERc_OaL-rmVRl5B6EKFHOJ5yKnxbzN1W8SpwZvUXxJ1cNd38LEdpEJ3e9DYgxzT40NYzPMlPYFzVgYuv4IaLXU6xOp9IHhXJDTnpTxogZ8iUlsrdT5flli68xH7arb5-GgVnsHzvVoOQB94L2blsFA.webp"
+  },
+  {
+    "anime": "BLACK★ROCK SHOOTER(TVA)",
+    "type": "OP",
+    "song": "BLACK★ROCK SHOOTER",
+    "vocal": "supercell(음악 그룹) feat. 하츠네 미쿠",
+    "videoId": "waoht6xMSgw",
+    "videoIds": [
+      "waoht6xMSgw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=waoht6xMSgw",
+    "source": "https://namu.wiki/w/BLACK%E2%98%85ROCK%20SHOOTER(TVA)",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/LpvavXtoNFhmOh_YWMqNHXrHW909-NnPRPN9SQDhB_lJoo2qQOkyG0iqeIud5Me4CE_PKeHFYZDqPNFi4Z10ZXrVOf2HnIid9yrnjdhKKb5vIOcZnLDJRTEfmaRjAGoH9x3IFxVsOCFXA7is3Kx3eA.webp"
+  },
+  {
+    "anime": "최종병기 그녀 Another love song",
+    "type": "ED",
+    "song": "真夜中の虹 〜everlasting love〜 번역명 번안명",
+    "vocal": "아사쿠라 아키라(麻倉あきら)",
+    "videoId": "6EzEZ8wZ6p4",
+    "videoIds": [
+      "6EzEZ8wZ6p4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=6EzEZ8wZ6p4",
+    "source": "https://namu.wiki/w/%EC%B5%9C%EC%A2%85%EB%B3%91%EA%B8%B0%20%EA%B7%B8%EB%85%80%20Another%20love%20song",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/DhbJPsXgAKc8JioNLveWMMCgQ6KOB-otRIK397nL8oKn1c01ZdolNdRDmjcr9FnNsl54_fOQD7jFQ2JwfTnV9Ypx4EZ0GZYEnminvvkAlmIEMcvo798YB_S0d86k6UJJ0KqqKKLQTVdbfc1j_ofVUA.webp"
+  },
+  {
+    "anime": "블레이드 앤 소울/애니메이션",
+    "type": "OP",
+    "song": "サヨナラ嘘ツキ",
+    "vocal": "みみめめMIMI",
+    "videoId": "y6-GZmUuBOA",
+    "videoIds": [
+      "y6-GZmUuBOA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=y6-GZmUuBOA",
+    "source": "https://namu.wiki/w/%EB%B8%94%EB%A0%88%EC%9D%B4%EB%93%9C%20%EC%95%A4%20%EC%86%8C%EC%9A%B8/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/IZMhk4rMQvbpCd5KcahWEVbK4TdCDEWZAR33SX6olpOG0OZ29HMHrqIh7mNMT-nHqxB6puKN9I_YlAOWbqs9rNKGungcnkKF0Sn6pboSBc5Ls5YetTfRJZFW8ogwk9RAl0CqI2miaNlbx91nocO3Vg.webp"
+  },
+  {
+    "anime": "여름의 폭풍!(애니메이션 1기)",
+    "type": "OP",
+    "song": "あたしだけにかけて",
+    "vocal": "오모카게 럭키 홀 feat. 고토 마리코(미도리)",
+    "videoId": "OzDb67Th2iQ",
+    "videoIds": [
+      "OzDb67Th2iQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=OzDb67Th2iQ",
+    "source": "https://namu.wiki/w/%EC%97%AC%EB%A6%84%EC%9D%98%20%ED%8F%AD%ED%92%8D!(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/1AsDYdpIOcgHteHt6FvJH-SO5iY9dlNEWJHr_YX9lc1j9_9E1gi0kwy-gqr4Ca6FwcBqpGpJLBnlQmvQvpqtYlG2l4yGMW1MrWhcMr80L1-f9JsxzlNl1LN6m-QSJpEJ1KlIHQERo8PpA_yNI7gTXw.webp"
+  },
+  {
+    "anime": "여름의 폭풍!(애니메이션 1기)",
+    "type": "ED",
+    "song": "キラリフタリ",
+    "vocal": "시라이시 료코",
+    "videoId": "hsJYSVJa5PE",
+    "videoIds": [
+      "hsJYSVJa5PE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=hsJYSVJa5PE",
+    "source": "https://namu.wiki/w/%EC%97%AC%EB%A6%84%EC%9D%98%20%ED%8F%AD%ED%92%8D!(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/1AsDYdpIOcgHteHt6FvJH-SO5iY9dlNEWJHr_YX9lc1j9_9E1gi0kwy-gqr4Ca6FwcBqpGpJLBnlQmvQvpqtYlG2l4yGMW1MrWhcMr80L1-f9JsxzlNl1LN6m-QSJpEJ1KlIHQERo8PpA_yNI7gTXw.webp"
+  },
+  {
+    "anime": "오다 노부나의 야망/애니메이션",
+    "type": "OP",
+    "song": "Link",
+    "vocal": "아이미",
+    "videoId": "U9rRXJRCgCg",
+    "videoIds": [
+      "U9rRXJRCgCg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=U9rRXJRCgCg",
+    "source": "https://namu.wiki/w/%EC%98%A4%EB%8B%A4%20%EB%85%B8%EB%B6%80%EB%82%98%EC%9D%98%20%EC%95%BC%EB%A7%9D/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/URRPMkloP7YfxmxdlafFZ_XdaVU8XvNVF7XFR_lMGgZNY4Hy31P0knN7Utlw1JSA3asf0HaecC4QumZagrPMUHYhHCJNqlDy1nTdCghuE3SRQ_CImF_BbZZ5CcAgeuiPLNn46zkSl5Cimx467rjktw.webp"
+  },
+  {
+    "anime": "오다 노부나의 야망/애니메이션",
+    "type": "ED",
+    "song": "ヒカリ",
+    "vocal": "미즈타 마키노(みずたまきの)",
+    "videoId": "cSZToc5medQ",
+    "videoIds": [
+      "cSZToc5medQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=cSZToc5medQ",
+    "source": "https://namu.wiki/w/%EC%98%A4%EB%8B%A4%20%EB%85%B8%EB%B6%80%EB%82%98%EC%9D%98%20%EC%95%BC%EB%A7%9D/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/URRPMkloP7YfxmxdlafFZ_XdaVU8XvNVF7XFR_lMGgZNY4Hy31P0knN7Utlw1JSA3asf0HaecC4QumZagrPMUHYhHCJNqlDy1nTdCghuE3SRQ_CImF_BbZZ5CcAgeuiPLNn46zkSl5Cimx467rjktw.webp"
+  },
+  {
+    "anime": "쓰레기의 본망/애니메이션",
+    "type": "OP",
+    "song": "嘘の火花 거짓말의 불꽃",
+    "vocal": "96네코",
+    "videoId": "0g-MG0JxxbE",
+    "videoIds": [
+      "0g-MG0JxxbE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=0g-MG0JxxbE",
+    "source": "https://namu.wiki/w/%EC%93%B0%EB%A0%88%EA%B8%B0%EC%9D%98%20%EB%B3%B8%EB%A7%9D/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/Nas1iPcmR3Ahsw-5zYV4g8Cm5yN80cxq-_tGFIDtNMqlasVVL6EqaiA11UtpGImBOq_x_RAJMW_6_AZmZCoz4ktx4jVKZZ4yyeRfYF25k3cNDSCZjvkS8emSaUu1AUqOd5LiDl5N1o70IXhPUBqTRQ.webp"
+  },
+  {
+    "anime": "DOG DAYS",
+    "type": "OP",
+    "song": "SCARLET KNIGHT",
+    "vocal": "미즈키 나나",
+    "videoId": "lfODYIiNPWQ",
+    "videoIds": [
+      "lfODYIiNPWQ",
+      "7dh2zT925Lg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=lfODYIiNPWQ",
+    "source": "https://namu.wiki/w/DOG%20DAYS",
+    "year": 2011,
+    "image": "//i.namu.wiki/i/ZKQPrK69LCHtlEQLpEXpsGMMah5QwMpsOruo0eIjROLRk97V-H07jfxsg8SHPCO6Z6Bb1NUiT3MYOQpVbfQP44XhV_6zcqtY9DiBf6Xg5xhBrTHfgzCB7dcYEoPp6tR5FImc1K9oIhbrM1fBLE5ofg.webp"
+  },
+  {
+    "anime": "위저드 배리스터즈 변마사 세실",
+    "type": "OP",
+    "song": "JUSTITIA [12]",
+    "vocal": "Lia",
+    "videoId": "XUm_0Q0oOjw",
+    "videoIds": [
+      "XUm_0Q0oOjw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=XUm_0Q0oOjw",
+    "source": "https://namu.wiki/w/%EC%9C%84%EC%A0%80%EB%93%9C%20%EB%B0%B0%EB%A6%AC%EC%8A%A4%ED%84%B0%EC%A6%88%20%EB%B3%80%EB%A7%88%EC%82%AC%20%EC%84%B8%EC%8B%A4",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/GDDHpIDkJ-INe6hyb0N5PPwuc1_eVC2UwQvP9nUsdObBaXAyTZpI5_bnU9hmbcz27Bb0fbBhuxuMzK74-OfDQQ5rjUAwFqkhI6C2PDJyO7UCAC45wlsKMd43yMuXOMBmWWsEJDUZQpDGqlAWSup7vQ.webp"
+  },
+  {
+    "anime": "플라네테스/애니메이션",
+    "type": "OP",
+    "song": "Dive in the Sky",
+    "vocal": "사카이 미키오(酒井ミキオ)",
+    "videoId": "nC6BX5niR5I",
+    "videoIds": [
+      "nC6BX5niR5I"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=nC6BX5niR5I",
+    "source": "https://namu.wiki/w/%ED%94%8C%EB%9D%BC%EB%84%A4%ED%85%8C%EC%8A%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/21tT6cr--2bbBFClevlJYjSSy2kcn1Z7uzKjJvnvMb1XCIoegeSTrNK-8Sr3fEYXloTJPcoaWpcMvfAipIqGVG7gNU8y4IXkwu9eo16K9IiW9zW4ToeHHTkhOAekdcVaxPgM-F9_zJqzMjkr5Nhraw.webp"
+  },
+  {
+    "anime": "플라네테스/애니메이션",
+    "type": "ED",
+    "song": "Wonderful Life",
+    "vocal": "사카이 미키오(酒井ミキオ)",
+    "videoId": "4xhuNgd0Z2k",
+    "videoIds": [
+      "4xhuNgd0Z2k"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=4xhuNgd0Z2k",
+    "source": "https://namu.wiki/w/%ED%94%8C%EB%9D%BC%EB%84%A4%ED%85%8C%EC%8A%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/21tT6cr--2bbBFClevlJYjSSy2kcn1Z7uzKjJvnvMb1XCIoegeSTrNK-8Sr3fEYXloTJPcoaWpcMvfAipIqGVG7gNU8y4IXkwu9eo16K9IiW9zW4ToeHHTkhOAekdcVaxPgM-F9_zJqzMjkr5Nhraw.webp"
+  },
+  {
+    "anime": "그녀의 플래그가 꺾이면/애니메이션",
+    "type": "OP",
+    "song": "クピドゥレビュー",
+    "vocal": "유우키 아오이",
+    "videoId": "RBWquPMNRLA",
+    "videoIds": [
+      "RBWquPMNRLA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=RBWquPMNRLA",
+    "source": "https://namu.wiki/w/%EA%B7%B8%EB%85%80%EC%9D%98%20%ED%94%8C%EB%9E%98%EA%B7%B8%EA%B0%80%20%EA%BA%BE%EC%9D%B4%EB%A9%B4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/w8wE-mz9P6sYYXKPgykn2-Xa8WCoDwVt-QgNcL2SITEZLECC8xA_jOAewJl-9DrGINX6FW1N3_lppOObn26TQBLFxuyXEp9WMpoukbMF1YuOcw0gtY8ke2LL4kPpwCmCvNC-oJ1F5H6_tz03Ad5I1w.webp"
+  },
+  {
+    "anime": "그녀의 플래그가 꺾이면/애니메이션",
+    "type": "ED",
+    "song": "彼女がフラグを立てる理由 (わけ)",
+    "vocal": "YELL ( 키도 이부키 , 카야노 아이 , 아스미 카나 , 하나자와 카나 , 히카사 요코 , 스와 아야카 ) [2]",
+    "videoId": "2ZKhGtxqGzs",
+    "videoIds": [
+      "2ZKhGtxqGzs"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=2ZKhGtxqGzs",
+    "source": "https://namu.wiki/w/%EA%B7%B8%EB%85%80%EC%9D%98%20%ED%94%8C%EB%9E%98%EA%B7%B8%EA%B0%80%20%EA%BA%BE%EC%9D%B4%EB%A9%B4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/w8wE-mz9P6sYYXKPgykn2-Xa8WCoDwVt-QgNcL2SITEZLECC8xA_jOAewJl-9DrGINX6FW1N3_lppOObn26TQBLFxuyXEp9WMpoukbMF1YuOcw0gtY8ke2LL4kPpwCmCvNC-oJ1F5H6_tz03Ad5I1w.webp"
+  },
+  {
+    "anime": "힘내라! 킥커즈",
+    "type": "OP",
+    "song": "君は流れ星",
+    "vocal": "니시무라 토모미 [3]",
+    "videoId": "lCALZcN785A",
+    "videoIds": [
+      "lCALZcN785A"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=lCALZcN785A",
+    "source": "https://namu.wiki/w/%ED%9E%98%EB%82%B4%EB%9D%BC!%20%ED%82%A5%EC%BB%A4%EC%A6%88",
+    "year": 1986,
+    "image": "//i.namu.wiki/i/bOogaH7RmbJ4pIX_SUeyCDHwL-HSRUs180DIeUC8rlpSUxT_07ZbmcyCaetzMl_NWKZNtz6rNt26i0GsVN8PBff5s2S3REUIprfAgmbivsKKxpffbXe9RjjCN5rv2YYgddVDLT1JYJSc5UUTTy5DXQ.webp"
+  },
+  {
+    "anime": "힘내라! 킥커즈",
+    "type": "ED",
+    "song": "銀河の少年",
+    "vocal": "니시무라 토모미",
+    "videoId": "v3nuUeO82Rs",
+    "videoIds": [
+      "v3nuUeO82Rs"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=v3nuUeO82Rs",
+    "source": "https://namu.wiki/w/%ED%9E%98%EB%82%B4%EB%9D%BC!%20%ED%82%A5%EC%BB%A4%EC%A6%88",
+    "year": 1986,
+    "image": "//i.namu.wiki/i/bOogaH7RmbJ4pIX_SUeyCDHwL-HSRUs180DIeUC8rlpSUxT_07ZbmcyCaetzMl_NWKZNtz6rNt26i0GsVN8PBff5s2S3REUIprfAgmbivsKKxpffbXe9RjjCN5rv2YYgddVDLT1JYJSc5UUTTy5DXQ.webp"
+  },
+  {
+    "anime": "사우루스 팡팡",
+    "type": "OP",
+    "song": "僕たちのスタート 우리들의 스타트",
+    "vocal": "카게야마 히로노부",
+    "videoId": "zbqU-A9Ge_8",
+    "videoIds": [
+      "zbqU-A9Ge_8",
+      "Bgx3TK3yet8",
+      "P61_i8mycoA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=zbqU-A9Ge_8",
+    "source": "https://namu.wiki/w/%EC%82%AC%EC%9A%B0%EB%A3%A8%EC%8A%A4%20%ED%8C%A1%ED%8C%A1",
+    "year": 1995,
+    "image": "//i.namu.wiki/i/msUOcYIubcgzcrwM3NEg_HCZ227ewPh3SssENz3rHxs3veC7RYCoLCd7feNhVD09nm6e6xqoD8aC_hA-l_LuHC_zLhU0g2Sq__ttHrYs0cerlAWtv2xpsPhxR9cO0a16G4wmgWhTsrqn-CbOJp29nQ.webp"
+  },
+  {
+    "anime": "사우루스 팡팡",
+    "type": "ED",
+    "song": "Sunday Island",
+    "vocal": "코우다 마리코",
+    "videoId": "CtFmRs2UY6g",
+    "videoIds": [
+      "CtFmRs2UY6g"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=CtFmRs2UY6g",
+    "source": "https://namu.wiki/w/%EC%82%AC%EC%9A%B0%EB%A3%A8%EC%8A%A4%20%ED%8C%A1%ED%8C%A1",
+    "year": 1995,
+    "image": "//i.namu.wiki/i/msUOcYIubcgzcrwM3NEg_HCZ227ewPh3SssENz3rHxs3veC7RYCoLCd7feNhVD09nm6e6xqoD8aC_hA-l_LuHC_zLhU0g2Sq__ttHrYs0cerlAWtv2xpsPhxR9cO0a16G4wmgWhTsrqn-CbOJp29nQ.webp"
+  },
+  {
+    "anime": "내가 인기 없는 건 아무리 생각해도 너희들 탓이야!/애니메이션",
+    "type": "OP",
+    "song": "私がモテないのはどう考えてもお前らが悪い 내가 인기 없는 건 아무리 생각해도 너희들 탓이야",
+    "vocal": "스즈키 코노미 n' 키바오브아키바",
+    "videoId": "gZYq7rat9d4",
+    "videoIds": [
+      "gZYq7rat9d4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=gZYq7rat9d4",
+    "source": "https://namu.wiki/w/%EB%82%B4%EA%B0%80%20%EC%9D%B8%EA%B8%B0%20%EC%97%86%EB%8A%94%20%EA%B1%B4%20%EC%95%84%EB%AC%B4%EB%A6%AC%20%EC%83%9D%EA%B0%81%ED%95%B4%EB%8F%84%20%EB%84%88%ED%9D%AC%EB%93%A4%20%ED%83%93%EC%9D%B4%EC%95%BC!/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/WaPbzKvEcyabUB5uS9wfqgvv4B9lMU_xn8-8PMi4OkRhpbjMjvttpHjT6f0VdPwGCCeLLQXrElT7mWEV_Gp9lef2ZSJQ4_CtS8hEZDXgt8rtPn6kMhaDoDavfOgnYvvIq3VEFU9HLTUuvS1_llmdzA.webp"
+  },
+  {
+    "anime": "내가 인기 없는 건 아무리 생각해도 너희들 탓이야!/애니메이션",
+    "type": "ED",
+    "song": "どう考えても私は悪くない",
+    "vocal": "쿠로키 토모코 ( 킷타 이즈미 )",
+    "videoId": "B1e5eQekIQU",
+    "videoIds": [
+      "B1e5eQekIQU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=B1e5eQekIQU",
+    "source": "https://namu.wiki/w/%EB%82%B4%EA%B0%80%20%EC%9D%B8%EA%B8%B0%20%EC%97%86%EB%8A%94%20%EA%B1%B4%20%EC%95%84%EB%AC%B4%EB%A6%AC%20%EC%83%9D%EA%B0%81%ED%95%B4%EB%8F%84%20%EB%84%88%ED%9D%AC%EB%93%A4%20%ED%83%93%EC%9D%B4%EC%95%BC!/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/WaPbzKvEcyabUB5uS9wfqgvv4B9lMU_xn8-8PMi4OkRhpbjMjvttpHjT6f0VdPwGCCeLLQXrElT7mWEV_Gp9lef2ZSJQ4_CtS8hEZDXgt8rtPn6kMhaDoDavfOgnYvvIq3VEFU9HLTUuvS1_llmdzA.webp"
+  },
+  {
+    "anime": "ARIA The ORIGINATION",
+    "type": "OP",
+    "song": "スピラーレ Spirale",
+    "vocal": "마키노 유이 김정선",
+    "videoId": "Tj7VtXzkCvQ",
+    "videoIds": [
+      "Tj7VtXzkCvQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Tj7VtXzkCvQ",
+    "source": "https://namu.wiki/w/ARIA%20The%20ORIGINATION",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/o0PhY_Nj3itFB2yFEcAccNp7YMaeNy82e39MjUe1A4fCsvdIfN0QsZx00j0Xl_5T6Dshgq70gOFOYa9Y9k3zdsVUw7TjQijFmF3lX8ap9AVvsq8ySuH0QDVkDdRBMMDdH1_uuzP24nUBSCnKFu9pnw.webp"
+  },
+  {
+    "anime": "ARIA The ORIGINATION",
+    "type": "ED",
+    "song": "金の波 千の波 금빛 물결, 천 개의 물결",
+    "vocal": "아라이 아키노 장아름",
+    "videoId": "iiOtw6d-_ZQ",
+    "videoIds": [
+      "iiOtw6d-_ZQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=iiOtw6d-_ZQ",
+    "source": "https://namu.wiki/w/ARIA%20The%20ORIGINATION",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/o0PhY_Nj3itFB2yFEcAccNp7YMaeNy82e39MjUe1A4fCsvdIfN0QsZx00j0Xl_5T6Dshgq70gOFOYa9Y9k3zdsVUw7TjQijFmF3lX8ap9AVvsq8ySuH0QDVkDdRBMMDdH1_uuzP24nUBSCnKFu9pnw.webp"
+  },
+  {
+    "anime": "킬링바이츠/애니메이션",
+    "type": "OP",
+    "song": "killing bites",
+    "vocal": "fripSide",
+    "videoId": "cHnSLCYdYWk",
+    "videoIds": [
+      "cHnSLCYdYWk",
+      "S7B7AWUnTtY"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=cHnSLCYdYWk",
+    "source": "https://namu.wiki/w/%ED%82%AC%EB%A7%81%EB%B0%94%EC%9D%B4%EC%B8%A0/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2018,
+    "image": "//i.namu.wiki/i/koHezl3axRxjCKb3fxfGXSmogOAadGrijRu8LYitSaU5f6kjc7-Xb1KGB0DZfTvzFh57U94mRjRlbuphSYi9yc5SwFXsEbavVE85KuOSEMx0jCQ9SuMyRJMY5pGfe9wmpr3oJ_j6XjSNFOhTK8Cppw.webp"
+  },
+  {
+    "anime": "나츠메 우인장 4",
+    "type": "OP",
+    "song": "今, このとき 지금, 이 때",
+    "vocal": "히이라기(ひいらぎ)",
+    "videoId": "IAdKGZtW2uY",
+    "videoIds": [
+      "IAdKGZtW2uY",
+      "-_9FlQ2fK6Q"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=IAdKGZtW2uY",
+    "source": "https://namu.wiki/w/%EB%82%98%EC%B8%A0%EB%A9%94%20%EC%9A%B0%EC%9D%B8%EC%9E%A5%204",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/OvgmMb5t2y-IxqI6V8jfuTfcH18rmeiP9hW2Hei-Dt4h1FWXWgb2xd8rNMf9D5DP4XV63G67DdXN2dGQp5PIiEl4LMZovbOplpGjnah2DGQiRAifGC5Cy64f7l1lvKXawtj4EsyAv8zmgjQOt5sobg.webp"
+  },
+  {
+    "anime": "아마기 브릴리언트 파크/애니메이션",
+    "type": "OP",
+    "song": "エクストラ・マジック・アワー 엑스트라 매직 아워",
+    "vocal": "AKINO with bless4",
+    "videoId": "L1SeZtTb_i8",
+    "videoIds": [
+      "L1SeZtTb_i8",
+      "Rt9Tg_dj41Y"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=L1SeZtTb_i8",
+    "source": "https://namu.wiki/w/%EC%95%84%EB%A7%88%EA%B8%B0%20%EB%B8%8C%EB%A6%B4%EB%A6%AC%EC%96%B8%ED%8A%B8%20%ED%8C%8C%ED%81%AC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/84IM5A8pqy-uKamnCgFjfXSQiFspxldiV0bcxyPNeHeoPYa95UwebN3WUgzU0GtGz6y4JvMRQ1IoWrTbLyzuipQyKmA9kINo13EQcR1tggYr9drIlHyRFRPLg8uHYsOvXrrzbqXDQu_J0_FnE_UoHQ.webp"
+  },
+  {
+    "anime": "드래곤볼 다이마",
+    "type": "OP",
+    "song": "ジャカ☆ジャ～ン Jaka Jaan",
+    "vocal": "Zedd feat.C&K 이철규",
+    "videoId": "IhFjM79DtZ8",
+    "videoIds": [
+      "IhFjM79DtZ8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=IhFjM79DtZ8",
+    "source": "https://namu.wiki/w/%EB%93%9C%EB%9E%98%EA%B3%A4%EB%B3%BC%20%EB%8B%A4%EC%9D%B4%EB%A7%88",
+    "year": 1986,
+    "image": "//i.namu.wiki/i/Q6ZJZ0MeDN61UeGt5tg2YOMxTtK0mvSSuZQQoBmA1ufL6MTB3EZ118OzhGNo3wXIUXb0NDCD2GsVjoaDxHXpKjUEw_8LN97Y4dF1J0UIeDUMaA52AUsKMGXlb3irUSfJ-RU5hrtIunwgNXw9cpOS-A.webp"
+  },
+  {
+    "anime": "히다마리 스케치(애니메이션 1기)",
+    "type": "OP",
+    "song": "スケッチスイッチ 스케치 스위치",
+    "vocal": "아스미 카나 미즈하시 카오리 신타니 료코 고토 유코",
+    "videoId": "fp_VGtCURvI",
+    "videoIds": [
+      "fp_VGtCURvI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=fp_VGtCURvI",
+    "source": "https://namu.wiki/w/%ED%9E%88%EB%8B%A4%EB%A7%88%EB%A6%AC%20%EC%8A%A4%EC%BC%80%EC%B9%98(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/ufh7X3vhrOJFhnCs2VyO1456AMYJIKKBweGYXYmxfT37EwrMs8bAiOvZiD1lWm4ZFepqDI6Wm3zDhiPbtpWj2iJx8l37hpwc7UPeAsLki2efvSO_ikcVeW9N0Bny8JyaodJqPeVRFi1fbTC3mYD8oA.webp"
+  },
+  {
+    "anime": "히다마리 스케치(애니메이션 1기)",
+    "type": "ED",
+    "song": "芽生えドライブ 싹터라 드라이브",
+    "vocal": "marble",
+    "videoId": "E2jnURo5xbg",
+    "videoIds": [
+      "E2jnURo5xbg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=E2jnURo5xbg",
+    "source": "https://namu.wiki/w/%ED%9E%88%EB%8B%A4%EB%A7%88%EB%A6%AC%20%EC%8A%A4%EC%BC%80%EC%B9%98(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/ufh7X3vhrOJFhnCs2VyO1456AMYJIKKBweGYXYmxfT37EwrMs8bAiOvZiD1lWm4ZFepqDI6Wm3zDhiPbtpWj2iJx8l37hpwc7UPeAsLki2efvSO_ikcVeW9N0Bny8JyaodJqPeVRFi1fbTC3mYD8oA.webp"
+  },
+  {
+    "anime": "NEW GAME!!",
+    "type": "OP",
+    "song": "STEP by STEP UP↑↑↑↑",
+    "vocal": "fourfolium",
+    "videoId": "KgUfWuvoN4E",
+    "videoIds": [
+      "KgUfWuvoN4E"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=KgUfWuvoN4E",
+    "source": "https://namu.wiki/w/NEW%20GAME!!",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/7NwY40fsIrRojr1y1Ce5A9y4causO_5V38-MSZxB9HTRanJSvzfpx9NECTCbnrWfjDwE2am-boT9-kxHsMTDoSUp5cpZNEVzxs6hALEOdLfJ4KpXPLnHunobQG-IMngTIAAFJiKPKlwYcd2lkzASyg.webp"
+  },
+  {
+    "anime": "게이머즈!/애니메이션",
+    "type": "OP",
+    "song": "GAMERS!",
+    "vocal": "텐도 카렌( 카네모토 히사코 ) 호시노모리 치아키( 이와미 마나카 ) 아구리( 오오쿠보 루미 )",
+    "videoId": "A1Gp1U2YF48",
+    "videoIds": [
+      "A1Gp1U2YF48",
+      "X0Z9hbAXxhA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=A1Gp1U2YF48",
+    "source": "https://namu.wiki/w/%EA%B2%8C%EC%9D%B4%EB%A8%B8%EC%A6%88!/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/IDb7BDSS0QHYk2k8Pg8cJ_FlU6Qk3zAa5Bjtt5cRsYejPimz69AA9_8maOloTffp0PpNpHSkgt7_4h5WmlBEc6MHRm96UVC4eGVkA-AIuciH3SFnm2NiPNTcrsRFNAYFJ3za7FBnmJYQm3pOiivvpQ.webp"
+  },
+  {
+    "anime": "딸기 마시마로",
+    "type": "OP",
+    "song": "いちごコンプリート 딸기 컴플리트",
+    "vocal": "이토 치카 (CV. 치바 사에코 ) 마츠오카 미우 (CV. 오리카사 후미코 ) 사쿠라기 마츠리 (CV. 카와스미 아야코 ) 아나 코폴라 (CV. 노토 마미코 )",
+    "videoId": "8BIREU3K5P4",
+    "videoIds": [
+      "8BIREU3K5P4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=8BIREU3K5P4",
+    "source": "https://namu.wiki/w/%EB%94%B8%EA%B8%B0%20%EB%A7%88%EC%8B%9C%EB%A7%88%EB%A1%9C",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/8U_8OYE-jfXyJEGQHUOqZlG1bV_m63Kw8LXzVU2YsChh6Ad2zoLU6mvOlC1l82x3N8XnEIRcc7Tqk_qvsT7m4dajzUTj9HX2cl9bxFt8iU_QWItiHUy0eXbDR1TzIGt4xXz4cXZ6aCzhR9EicXtMhw.webp"
+  },
+  {
+    "anime": "드래건 드라이브",
+    "type": "OP",
+    "song": "TRUE",
+    "vocal": "시모카와 미쿠니 김령희",
+    "videoId": "jiHtAmupn2I",
+    "videoIds": [
+      "jiHtAmupn2I",
+      "2oGD6aoqOLo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=jiHtAmupn2I",
+    "source": "https://namu.wiki/w/%EB%93%9C%EB%9E%98%EA%B1%B4%20%EB%93%9C%EB%9D%BC%EC%9D%B4%EB%B8%8C",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/_2PdNOz8nbAbdSW-ZaNOWV2Lyj_F9MHZhsZfePQ9Xfk9HHG693lvuunr4xKwnQhELWt0vFPw0jQA9gj5xGabTFsIBWM1yTujO4DUcHDZLLQamfn9CYO02yDSSPUz8zBZRbjA9LvBxR2kfdxJIYwsOw.webp"
+  },
+  {
+    "anime": "플리즈 티쳐",
+    "type": "OP",
+    "song": "헤이세이 애니송 대상",
+    "vocal": "",
+    "videoId": "c3P7ldgKA2k",
+    "videoIds": [
+      "c3P7ldgKA2k",
+      "-VkdtVPVuTM"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=c3P7ldgKA2k",
+    "source": "https://namu.wiki/w/%ED%94%8C%EB%A6%AC%EC%A6%88%20%ED%8B%B0%EC%B3%90",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/05SAwxhc3iemSIwL5p6NzScgooMTzSKR6nLvnpoAue0AxmFLK4rwky-2XGAu_W_5qZg25qteRN_AaAUKlkS6Sc6wd8AC50jecbhxYaYe6UWxJGpHQJlfcI2Bf7rNzQDhMZK4R7VDdafqIrNHW-ZaOA.webp"
+  },
+  {
+    "anime": "마오유우 마왕용사/애니메이션",
+    "type": "OP",
+    "song": "向かい風",
+    "vocal": "YOHKO",
+    "videoId": "sElC_Hu35_g",
+    "videoIds": [
+      "sElC_Hu35_g"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=sElC_Hu35_g",
+    "source": "https://namu.wiki/w/%EB%A7%88%EC%98%A4%EC%9C%A0%EC%9A%B0%20%EB%A7%88%EC%99%95%EC%9A%A9%EC%82%AC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/tXnMUtqRFXR00k24w3pW4v613aVKbOvmLy0ih8ODAG4NFBoHT0-1v93H1a2D231P7zYscga7ThXUdat70GVuAPoV2jmJ9HVwCK9zD-hwj9vylM85vyMZUE7LyvOynQwH-SV8FdWuPypA6d6prDKqqw.webp"
+  },
+  {
+    "anime": "마오유우 마왕용사/애니메이션",
+    "type": "ED",
+    "song": "Unknown Vision",
+    "vocal": "아라이 아키노",
+    "videoId": "xANQxzTx4Os",
+    "videoIds": [
+      "xANQxzTx4Os"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=xANQxzTx4Os",
+    "source": "https://namu.wiki/w/%EB%A7%88%EC%98%A4%EC%9C%A0%EC%9A%B0%20%EB%A7%88%EC%99%95%EC%9A%A9%EC%82%AC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/tXnMUtqRFXR00k24w3pW4v613aVKbOvmLy0ih8ODAG4NFBoHT0-1v93H1a2D231P7zYscga7ThXUdat70GVuAPoV2jmJ9HVwCK9zD-hwj9vylM85vyMZUE7LyvOynQwH-SV8FdWuPypA6d6prDKqqw.webp"
+  },
+  {
+    "anime": "메다카 박스/애니메이션",
+    "type": "OP",
+    "song": "HAPPY CRAZY BOX",
+    "vocal": "쿠리바야시 미나미",
+    "videoId": "z2C6kJdf1Lo",
+    "videoIds": [
+      "z2C6kJdf1Lo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=z2C6kJdf1Lo",
+    "source": "https://namu.wiki/w/%EB%A9%94%EB%8B%A4%EC%B9%B4%20%EB%B0%95%EC%8A%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/xvUm-2NE080G_KRMHwgjCE38bhC4OcM_d1ZarDiDJBumbjs450i32MhZ2ob9j7IphLx8FiIMMrd8Yaof2_Qj4_CFAJHjRAsK6zT81vRWGHJQ2nD_7lRnbh0TWE_eU1yXvSPm1gWS7d6mmWUyOfCsaA.webp"
+  },
+  {
+    "anime": "메다카 박스/애니메이션",
+    "type": "OP",
+    "song": "BELIEVE",
+    "vocal": "쿠리바야시 미나미",
+    "videoId": "BV7PfwR4WW4",
+    "videoIds": [
+      "BV7PfwR4WW4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=BV7PfwR4WW4",
+    "source": "https://namu.wiki/w/%EB%A9%94%EB%8B%A4%EC%B9%B4%20%EB%B0%95%EC%8A%A4/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/xvUm-2NE080G_KRMHwgjCE38bhC4OcM_d1ZarDiDJBumbjs450i32MhZ2ob9j7IphLx8FiIMMrd8Yaof2_Qj4_CFAJHjRAsK6zT81vRWGHJQ2nD_7lRnbh0TWE_eU1yXvSPm1gWS7d6mmWUyOfCsaA.webp"
+  },
+  {
+    "anime": "스크라이드",
+    "type": "OP",
+    "song": "Reckless Fire",
+    "vocal": "이데 야스아키(井出泰彰)",
+    "videoId": "qVH66YvV9W8",
+    "videoIds": [
+      "qVH66YvV9W8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=qVH66YvV9W8",
+    "source": "https://namu.wiki/w/%EC%8A%A4%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%93%9C",
+    "year": 2001,
+    "image": "//i.namu.wiki/i/49d0C4W6YVde6LCY05O4hs_9TaPyfCE1-K2Wex5mCqjgQ58a1M1nu5EiF8nbcVLigW26VQTYnAnCCjjytHWGUYtjW6NWyD-PEDWBDn2gmHaWhPjMkB_IxSEPGkb4gHzI95CZa0QLme2OnDT7HskgCA.webp"
+  },
+  {
+    "anime": "스크라이드",
+    "type": "ED",
+    "song": "/ 26화 OP Drastic my soul",
+    "vocal": "사카이 미키오(酒井ミキオ)",
+    "videoId": "JiRFALE5768",
+    "videoIds": [
+      "JiRFALE5768"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=JiRFALE5768",
+    "source": "https://namu.wiki/w/%EC%8A%A4%ED%81%AC%EB%9D%BC%EC%9D%B4%EB%93%9C",
+    "year": 2001,
+    "image": "//i.namu.wiki/i/49d0C4W6YVde6LCY05O4hs_9TaPyfCE1-K2Wex5mCqjgQ58a1M1nu5EiF8nbcVLigW26VQTYnAnCCjjytHWGUYtjW6NWyD-PEDWBDn2gmHaWhPjMkB_IxSEPGkb4gHzI95CZa0QLme2OnDT7HskgCA.webp"
+  },
+  {
+    "anime": "To LOVE 트러블(애니메이션 1기)",
+    "type": "OP",
+    "song": "forever we can make it!",
+    "vocal": "THYME",
+    "videoId": "Ri2zqyWnlVA",
+    "videoIds": [
+      "Ri2zqyWnlVA",
+      "l8KIJCrr0_o"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Ri2zqyWnlVA",
+    "source": "https://namu.wiki/w/To%20LOVE%20%ED%8A%B8%EB%9F%AC%EB%B8%94(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/MuTXoT2GX3I_RLqC7WRMs3VyXBrvzO9Gm8JvnNwnDn12asZ7iMlY0WxJvd1yEkRaC8av4_4-h2Q2IolJfF_ugbfGMWpsTm_ij0nVr-XbVmlpC-y9cK_p1cXsTwMnzYg02DPxHS1p1YB1-VQIdkU8fg.webp"
+  },
+  {
+    "anime": "유큐 홀더! 마법선생 네기마! 2",
+    "type": "OP",
+    "song": "ハッピー☆マテリアル 해피☆머티어리얼",
+    "vocal": "코노에 토타 ( 타카쿠라 유카 ) 토키사카 쿠로마루 ( 히로세 유우키 ) 사쿠라메 키리에 ( 카야노 아이 ) 유우키 카린 ( 오구라 유이 ) 유우키 시노부( 하라다 사야카 ) 유키히로 미조레( 키토 아카리 )",
+    "videoId": "eQlYavHp4Pk",
+    "videoIds": [
+      "eQlYavHp4Pk",
+      "ujuQY7qoYkQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=eQlYavHp4Pk",
+    "source": "https://namu.wiki/w/%EC%9C%A0%ED%81%90%20%ED%99%80%EB%8D%94!%20%EB%A7%88%EB%B2%95%EC%84%A0%EC%83%9D%20%EB%84%A4%EA%B8%B0%EB%A7%88!%202",
+    "year": 2017,
+    "image": "//i.namu.wiki/i/pbnqnNnaSH6_VfR0G5CHjFyjUfTrJ80hrrFGel7tgTIo3GVWevsQm4lAfV0_GDQMqnOegaEXaNCxlfpOeXqjCHaC_GH5ld0BvABrhLWrWjM_GX6Lgk6B6TpbklW13tCbHMU5AIfu5UgEyeZq4M0fgA.webp"
+  },
+  {
+    "anime": "쵸비츠/애니메이션",
+    "type": "OP",
+    "song": "Let Me Be With You [5]",
+    "vocal": "ROUND TABLE featuring Nino 박미진",
+    "videoId": "cDILVWma8Sk",
+    "videoIds": [
+      "cDILVWma8Sk",
+      "ehTe0bLNZIw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=cDILVWma8Sk",
+    "source": "https://namu.wiki/w/%EC%B5%B8%EB%B9%84%EC%B8%A0/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/KyYymglJdmc_zpKeeaoKz9jHKEesAuDkJi8H0vbEqQc0jUlCuIp8LERIsm8Sz-zmNY_o76Gq8CEEfefPkFfORXS6EPjwFp9foO0N8qLAAedWm7k2SasR-AgilshNYyA9Lml5qDEBP897pycyljpqlA.webp"
+  },
+  {
+    "anime": "스피드 그래퍼",
+    "type": "OP",
+    "song": "일본판 OP Girls on Film グラビアの美少女 그라비아의 미소녀",
+    "vocal": "듀란 듀란",
+    "videoId": "7bT1IgtsCsQ",
+    "videoIds": [
+      "7bT1IgtsCsQ",
+      "qtAYUnaA9Mg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=7bT1IgtsCsQ",
+    "source": "https://namu.wiki/w/%EC%8A%A4%ED%94%BC%EB%93%9C%20%EA%B7%B8%EB%9E%98%ED%8D%BC",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/lynX5ifi0gOTmHWld0Ol-hnlwtMXbNPFND4YBDvRwVPK43k5laONJWbCzHnR1mdmMZP-ImQ6eZEgS3vzs1PdftN03ATb6AUT4LSENESKhvWHOkNSit81nm4Mvlj-66G-a5qa7YLXJzxqlA1g2OTLYg.webp"
+  },
+  {
+    "anime": "제비뽑기 언밸런스",
+    "type": "OP",
+    "song": "くじびきアンバランス",
+    "vocal": "UNDER17",
+    "videoId": "4RNBSf3E2ls",
+    "videoIds": [
+      "4RNBSf3E2ls"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=4RNBSf3E2ls",
+    "source": "https://namu.wiki/w/%EC%A0%9C%EB%B9%84%EB%BD%91%EA%B8%B0%20%EC%96%B8%EB%B0%B8%EB%9F%B0%EC%8A%A4",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/xhooSyn3PRSOw_JRHteVR-zSP7eJOBJa4DOeS26WvkmsKQbMpMzd3FHQ5nI9ftDLIU4xoS0uV0wFAM-bjKY-uDz_yDrVFxafUY0JoaZcQquXvncdsNH9inHpPOs5UHzDwc2EtIo7VB1aTiIGi0zVAg.webp"
+  },
+  {
+    "anime": "제비뽑기 언밸런스",
+    "type": "ED",
+    "song": "かがやきサイリューム",
+    "vocal": "UNDER17",
+    "videoId": "D8cmOZig9b0",
+    "videoIds": [
+      "D8cmOZig9b0"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=D8cmOZig9b0",
+    "source": "https://namu.wiki/w/%EC%A0%9C%EB%B9%84%EB%BD%91%EA%B8%B0%20%EC%96%B8%EB%B0%B8%EB%9F%B0%EC%8A%A4",
+    "year": 2006,
+    "image": "//i.namu.wiki/i/xhooSyn3PRSOw_JRHteVR-zSP7eJOBJa4DOeS26WvkmsKQbMpMzd3FHQ5nI9ftDLIU4xoS0uV0wFAM-bjKY-uDz_yDrVFxafUY0JoaZcQquXvncdsNH9inHpPOs5UHzDwc2EtIo7VB1aTiIGi0zVAg.webp"
+  },
+  {
+    "anime": "마법의 리본/애니메이션",
+    "type": "OP",
+    "song": "笑顔の ゲンキ 웃는 얼굴의 기운",
+    "vocal": "SMAP",
+    "videoId": "Fbn9Hs4L6Mk",
+    "videoIds": [
+      "Fbn9Hs4L6Mk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Fbn9Hs4L6Mk",
+    "source": "https://namu.wiki/w/%EB%A7%88%EB%B2%95%EC%9D%98%20%EB%A6%AC%EB%B3%B8/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 1992,
+    "image": "//i.namu.wiki/i/Z1cPySOPrLw9bQiw_iNvScW-3MHwBmgcejPGPhMW5dYUi8K__2cwkSznHAxLuJP3OSp0r25rFJfAA_oh5WXD4HRmmrCBRnxDb4KBVYmy0uBK1luPqEdhQUZkzxceDfwGDGAT6VNaHwOWw-vjvns3SA.webp"
+  },
+  {
+    "anime": "TEXHNOLYZE",
+    "type": "OP",
+    "song": "GUARDIAN ANGEL (XAVIER'S EDIT)",
+    "vocal": "Juno Reactor",
+    "videoId": "u3SzOzm8lmo",
+    "videoIds": [
+      "u3SzOzm8lmo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=u3SzOzm8lmo",
+    "source": "https://namu.wiki/w/%ED%85%8C%ED%81%AC%EB%85%B8%EB%9D%BC%EC%9D%B4%EC%A6%88",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/JWORkoB9auBGty56A2WJ-rTPI9A2ZsVv4uJ9Z95NeprJXlR3Xq2740KBOgtvVIVOylU80XCEXEhTLY_T5k_e-JUEiFhQkJjhCUW-mpuRIo_RTDzA-rvFKeF7r0_jMnnskMNPsbUFN68FkrrGeTtctg.webp"
+  },
+  {
+    "anime": "TEXHNOLYZE",
+    "type": "ED",
+    "song": "月の歌 달의",
+    "vocal": "TV ver. Full ver. 노래 GACKT",
+    "videoId": "Rh1hoNwFfg8",
+    "videoIds": [
+      "Rh1hoNwFfg8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Rh1hoNwFfg8",
+    "source": "https://namu.wiki/w/%ED%85%8C%ED%81%AC%EB%85%B8%EB%9D%BC%EC%9D%B4%EC%A6%88",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/JWORkoB9auBGty56A2WJ-rTPI9A2ZsVv4uJ9Z95NeprJXlR3Xq2740KBOgtvVIVOylU80XCEXEhTLY_T5k_e-JUEiFhQkJjhCUW-mpuRIo_RTDzA-rvFKeF7r0_jMnnskMNPsbUFN68FkrrGeTtctg.webp"
+  },
+  {
+    "anime": "수장기공 단쿠가 노바",
+    "type": "OP",
+    "song": "鳥の歌 새의",
+    "vocal": "[3] TV ver. Full ver. 노래 센리 마나카(千里愛風)",
+    "videoId": "EK51HfpbxaA",
+    "videoIds": [
+      "EK51HfpbxaA"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=EK51HfpbxaA",
+    "source": "https://namu.wiki/w/%EC%88%98%EC%9E%A5%EA%B8%B0%EA%B3%B5%20%EB%8B%A8%EC%BF%A0%EA%B0%80%20%EB%85%B8%EB%B0%94",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/yC9CEN8-QIEBsdq2wBoilV2eVlR7NtwTbjnGRJ25c7WZoV22dEVa517RlMBhpQk97pD6tCGUOPkWshHXGU9tE-jM_Nkw8Z22-sVe81wW6uIWgDYE_8NPMMvOXbo7GaLQaoakJAl9ADqV-aWr4bQLcQ.webp"
+  },
+  {
+    "anime": "사무라이 디퍼 쿄우",
+    "type": "OP",
+    "song": "青のレクイエム 청의 레퀴엠",
+    "vocal": "츠보쿠라 유이코(坪倉唯子) [12] 마야",
+    "videoId": "3EhrVE60YGQ",
+    "videoIds": [
+      "3EhrVE60YGQ",
+      "gxf6Gdt-h8k"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=3EhrVE60YGQ",
+    "source": "https://namu.wiki/w/%EC%82%AC%EB%AC%B4%EB%9D%BC%EC%9D%B4%20%EB%94%94%ED%8D%BC%20%EC%BF%84%EC%9A%B0",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/E8YfHX0TEEvFOUAgNCSEpYf0-_RgGNaf5zDHVrBHt7iHnoxV-4YmTml53FWQdhqigtgScc96wp47PA_wBrfbXRsMO0GQPTu5WzAsVxacPOagTdL1ykmZgG-_qPUkUNKnjAw0HhFEEK_aNlBBZvH2sg.webp"
+  },
+  {
+    "anime": "라제폰",
+    "type": "OP",
+    "song": "ヘミソフィア",
+    "vocal": "사카모토 마아야",
+    "videoId": "4t1_35xiub4",
+    "videoIds": [
+      "4t1_35xiub4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=4t1_35xiub4",
+    "source": "https://namu.wiki/w/%EB%9D%BC%EC%A0%9C%ED%8F%B0",
+    "year": 2002,
+    "image": "//i.namu.wiki/i/vLy6wtPTPnLxyvX8mOzEtVt2gBtS9agtqohj4nV3wBWnF2LzpbvfLJP8KKQUA_L9-2JqabLV2zGmoGwXRPV-oemmustc5f8C4mamOWyF2JQyvX5Ys8ohEbaEdhM08hnB213L6AgpfiLJjXtmFmNJEA.webp"
+  },
+  {
+    "anime": "학생회의 일존 Lv.2",
+    "type": "OP",
+    "song": "Precious",
+    "vocal": "헤키요 학원 학생회 Lv.2 혼다 마리코 , 미나 , 토가시 미스즈 , 노미즈 이오리",
+    "videoId": "BQet6Ckz6rs",
+    "videoIds": [
+      "BQet6Ckz6rs"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=BQet6Ckz6rs",
+    "source": "https://namu.wiki/w/%ED%95%99%EC%83%9D%ED%9A%8C%EC%9D%98%20%EC%9D%BC%EC%A1%B4%20Lv.2",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/twoUElwxx7LCuDs2hGIQMGJKze7ru0dSSHtC3cZ47s3eXSUtayIsdGte6Adq-Q-w0BSO8e158pWVm5sRqsdA2ypMpZKXDOo9N_TPKTZRlD5KNdKQIgx-QSRYnLFDrBUXXnpFqCnxrSmLEKJIHEzX2w.webp"
+  },
+  {
+    "anime": "새여동생 마왕의 계약자(애니메이션 1기)",
+    "type": "OP",
+    "song": "Blade of Hope",
+    "vocal": "sweet ARMS",
+    "videoId": "qBV7C0s-42c",
+    "videoIds": [
+      "qBV7C0s-42c"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=qBV7C0s-42c",
+    "source": "https://namu.wiki/w/%EC%83%88%EC%97%AC%EB%8F%99%EC%83%9D%20%EB%A7%88%EC%99%95%EC%9D%98%20%EA%B3%84%EC%95%BD%EC%9E%90(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/gWlhoQz9OmzWjKqMZuDtEXgSIfopsQkBkgOWYJ-IPGiH38FuAkd0YQdNuM8aSL1WBdo7C_mnoRhOOUFK4zfydUZZx9eU5PsAuNdAE68g9H6k7Uuot5Iwn92MPjr1qAN_H677szFF8bdh2FdcwGh6gA.webp"
+  },
+  {
+    "anime": "심쿵! 프리큐어",
+    "type": "OP",
+    "song": "Happy Go Lucky! ドキドキ! プリキュア Happy Go! Lucky! 심쿵 프리큐어!",
+    "vocal": "쿠로사와 토모요 이재현 [23]",
+    "videoId": "2HMRmOUstvU",
+    "videoIds": [
+      "2HMRmOUstvU",
+      "aBLSxQiikzg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=2HMRmOUstvU",
+    "source": "https://namu.wiki/w/%EB%91%90%EA%B7%BC%EB%91%90%EA%B7%BC!%20%ED%94%84%EB%A6%AC%ED%81%90%EC%96%B4",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/DhPaFGGjpn4UTJhWgjJoCXIVGRmNFnGsSfcxDZS-JVddvsTVYl_dkWFumYoaa3YVae9UemLduWXVm8uJRitNa-uRSndZ3XJ5AU3Ys5K-uVk1nGYBFPK-YCWEE76dP2RoxWQ2lFZQN9X8Jk1bY7G8kQ.webp"
+  },
+  {
+    "anime": "심쿵! 프리큐어",
+    "type": "ED",
+    "song": "1 (1~26화) この空の向こう 이 하늘 저편에는",
+    "vocal": "요시다 히토미 이재현",
+    "videoId": "tN3SLY6RfoI",
+    "videoIds": [
+      "tN3SLY6RfoI"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=tN3SLY6RfoI",
+    "source": "https://namu.wiki/w/%EB%91%90%EA%B7%BC%EB%91%90%EA%B7%BC!%20%ED%94%84%EB%A6%AC%ED%81%90%EC%96%B4",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/DhPaFGGjpn4UTJhWgjJoCXIVGRmNFnGsSfcxDZS-JVddvsTVYl_dkWFumYoaa3YVae9UemLduWXVm8uJRitNa-uRSndZ3XJ5AU3Ys5K-uVk1nGYBFPK-YCWEE76dP2RoxWQ2lFZQN9X8Jk1bY7G8kQ.webp"
+  },
+  {
+    "anime": "YAWARA!",
+    "type": "OP",
+    "song": "1 ミラクル・ガール (미라클 걸) (1~43화)",
+    "vocal": "",
+    "videoId": "FjXJrkxQeAE",
+    "videoIds": [
+      "FjXJrkxQeAE",
+      "CtHcSWb4SEQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=FjXJrkxQeAE",
+    "source": "https://namu.wiki/w/YAWARA!",
+    "year": 1989,
+    "image": "//i.namu.wiki/i/SPu2qMHT5CYNIMh7iFYRULAf0qJwR4lFv4G9XLNvFxlGL-jTO-XIKWsyCx0emJ3goTF5nJIUS_mZIEs93_atlKmFkc7HHxiyt4TlvyZxfMo7Rvf05151nEoXOvkOqb0CKygBMtR0J-jHgSFftpufng.webp"
+  },
+  {
+    "anime": "암굴왕",
+    "type": "OP",
+    "song": "We Were Lovers",
+    "vocal": "",
+    "videoId": "l1g-drupCIQ",
+    "videoIds": [
+      "l1g-drupCIQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=l1g-drupCIQ",
+    "source": "https://namu.wiki/w/%EC%95%94%EA%B5%B4%EC%99%95",
+    "year": 2004,
+    "image": "//i.namu.wiki/i/vLy6wtPTPnLxyvX8mOzEtVt2gBtS9agtqohj4nV3wBWnF2LzpbvfLJP8KKQUA_L9-2JqabLV2zGmoGwXRPV-oemmustc5f8C4mamOWyF2JQyvX5Ys8ohEbaEdhM08hnB213L6AgpfiLJjXtmFmNJEA.webp"
+  },
+  {
+    "anime": "내일의 나쟈",
+    "type": "OP",
+    "song": "ナージャ！！ 냐자",
+    "vocal": "혼다 미나코 박보람",
+    "videoId": "ws_DsZoC8ik",
+    "videoIds": [
+      "ws_DsZoC8ik"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ws_DsZoC8ik",
+    "source": "https://namu.wiki/w/%EB%82%B4%EC%9D%BC%EC%9D%98%20%EB%82%98%EC%9F%88",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/x0NtoDEPf-gfwZeeSevO4B8Xw1OWnq74-4YguoiyTD04-j9z1P2rLbcJfVwVSFgjK9Zt8wes8BqbGmjmRrGnJBbzuoCHSjnJzkpY5nylDxbwt4pX-ruQ-dmARw_lAikxkAbVnV3nclv3RpOkzzi46Q.webp"
+  },
+  {
+    "anime": "마우스(만화)",
+    "type": "OP",
+    "song": "マウス Chu マウス",
+    "vocal": "UNDER17",
+    "videoId": "57Ef6egT4kE",
+    "videoIds": [
+      "57Ef6egT4kE",
+      "eiM5s1sMQK4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=57Ef6egT4kE",
+    "source": "https://namu.wiki/w/%EB%A7%88%EC%9A%B0%EC%8A%A4(%EB%A7%8C%ED%99%94)",
+    "year": 2003,
+    "image": "//i.namu.wiki/i/dohzNHRom_Vsz31SXoKJdbdKYuGeIMFEaUgHWgfmyKSMjvKQ8_OPDSw-rbbyO17JQ2yWmSqE4If_ny4VGVoBWFDFpdsxB4-7PQ83SUxy4LhJEqWswMVSVqLy8L1aXRomvdF5Y38nUC35ehbzpR6jfg.webp"
+  },
+  {
+    "anime": "GUN X SWORD",
+    "type": "OP",
+    "song": "GUN×SWORD",
+    "vocal": "",
+    "videoId": "wL_Adc4pxI4",
+    "videoIds": [
+      "wL_Adc4pxI4"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=wL_Adc4pxI4",
+    "source": "https://namu.wiki/w/GUN%20X%20SWORD",
+    "year": 2005,
+    "image": "//i.namu.wiki/i/cBwizYUQRvL5bi3GIpnfTFwiA9HgQku8401gDskpWzINLWHhuHFm6aVcL_f-VlMS5aIiYX_W3rbe2NdJp0WQpGysHu29oKYH7n9JTbl6PRMoxoy4DM2DQVjbv234EN_gB3UbV9FyizXsOgDNmVcKpg.webp"
+  },
+  {
+    "anime": "모든 것이 F가 된다 THE PERFECT INSIDER",
+    "type": "ED",
+    "song": "ナナヒツジ 일곱 양",
+    "vocal": "シナリオアート",
+    "videoId": "-1Dx2sZZneE",
+    "videoIds": [
+      "-1Dx2sZZneE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=-1Dx2sZZneE",
+    "source": "https://namu.wiki/w/%EB%AA%A8%EB%93%A0%20%EA%B2%83%EC%9D%B4%20F%EA%B0%80%20%EB%90%9C%EB%8B%A4%20THE%20PERFECT%20INSIDER",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/Tp5B0M9p67WtdXzkEp_Oo3RV6kmpQDX-gOaEKa0xKWp6B8C_80dm1rF5umWyN7cqGg1oMs20wmD3A63_aRUZlmZp3oqlDhYEt445cXssGiFlD--WQLySRzq4xl_8yn_YkwND9lhXgeJsh0eomzg2hw.webp"
+  },
+  {
+    "anime": "플립 플래퍼즈",
+    "type": "OP",
+    "song": "Serendipity",
+    "vocal": "ZAQ",
+    "videoId": "swQDiWpz-4s",
+    "videoIds": [
+      "swQDiWpz-4s",
+      "q6v51jfkmC0"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=swQDiWpz-4s",
+    "source": "https://namu.wiki/w/%ED%94%8C%EB%A6%BD%20%ED%94%8C%EB%9E%98%ED%8D%BC%EC%A6%88",
+    "year": 2016,
+    "image": "//i.namu.wiki/i/oh43mhn6NwQnSpe52C-mp14oBVz7W8OpcP_1TOH6ASPh5PYpZ-NW5bVzC1XIv2JVjO8pMV0l0ow5hzLUyFKx-ZlxSTVRxvRM6pRY5TwfsMbb72262urQsZ9W9DY_i3zfSLDN5_5tVRZLTRzxxbv29Q.webp"
+  },
+  {
+    "anime": "나나코 SOS",
+    "type": "OP",
+    "song": "オレンジのダンシング 오렌지의 댄싱",
+    "vocal": "타카하시 미유키(高橋みゆき)",
+    "videoId": "e07ijwWjnQ4",
+    "videoIds": [
+      "e07ijwWjnQ4",
+      "1VXCW38syYk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=e07ijwWjnQ4",
+    "source": "https://namu.wiki/w/%EB%82%98%EB%82%98%EC%BD%94%20SOS",
+    "year": 1983,
+    "image": "//i.namu.wiki/i/dg-I61YsCqZcqlLeHoSR64JPeukqUO5y3rPv1FcgOkVrqmTP0elDlsYKDLrq-HkdXm_jDCcwKDCfvelUmkTVjIAaDOcN6iPmFs9J7AFByBCaQThZ0NIhNdrUhxYDb1_ZcUHfeXx18fScY8a3ri0f6A.webp"
+  },
+  {
+    "anime": "마지모지 루루모 완결편",
+    "type": "ED",
+    "song": "ふたりのクロノスタシス",
+    "vocal": "엔도 유리카",
+    "videoId": "qb7pFuat7Sc",
+    "videoIds": [
+      "qb7pFuat7Sc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=qb7pFuat7Sc",
+    "source": "https://namu.wiki/w/%EB%A7%88%EC%A7%80%EB%AA%A8%EC%A7%80%20%EB%A3%A8%EB%A3%A8%EB%AA%A8%20%EC%99%84%EA%B2%B0%ED%8E%B8",
+    "year": 2019,
+    "image": "//i.namu.wiki/i/j7jxt2ErqLoNEOPdn0L63tG3RYFOXK_84K6CqPocnDjOz7GbUAFiDwnJnqW8h9IXC-asjqG03C0bdNji3iY-O2D2HMlFXA5kqaRmvmcZYuwKddJad-v_IekwF3D0kPkbYEuB-XdR2RCqRwSl5SVdzQ.webp"
+  },
+  {
+    "anime": "이것은 좀비입니까? 오브 더 데드",
+    "type": "OP",
+    "song": "パショナート",
+    "vocal": "노미즈 이오리",
+    "videoId": "dwAY82qSn-Y",
+    "videoIds": [
+      "dwAY82qSn-Y"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=dwAY82qSn-Y",
+    "source": "https://namu.wiki/w/%EC%9D%B4%EA%B2%83%EC%9D%80%20%EC%A2%80%EB%B9%84%EC%9E%85%EB%8B%88%EA%B9%8C%3F%20%EC%98%A4%EB%B8%8C%20%EB%8D%94%20%EB%8D%B0%EB%93%9C",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/g1fSr40EsBTFFRShwoFsoLKKy1QdJr87VgGFE0rrutmSOSsNaunGo46Jkkf2hLfu7aunhlpJS2M9ap8qP_iAEwCFmXs9TG0Xs0AIvdGF5gsH70qAdmV0HxD8dV5Aprx5laHg3jP_9sYBJfBzzg19CA.webp"
+  },
+  {
+    "anime": "이것은 좀비입니까? 오브 더 데드",
+    "type": "ED",
+    "song": "恋のビギナーなんです(T_T)",
+    "vocal": "야마구치 리에",
+    "videoId": "mUrXrmW8nhQ",
+    "videoIds": [
+      "mUrXrmW8nhQ"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=mUrXrmW8nhQ",
+    "source": "https://namu.wiki/w/%EC%9D%B4%EA%B2%83%EC%9D%80%20%EC%A2%80%EB%B9%84%EC%9E%85%EB%8B%88%EA%B9%8C%3F%20%EC%98%A4%EB%B8%8C%20%EB%8D%94%20%EB%8D%B0%EB%93%9C",
+    "year": 2012,
+    "image": "//i.namu.wiki/i/g1fSr40EsBTFFRShwoFsoLKKy1QdJr87VgGFE0rrutmSOSsNaunGo46Jkkf2hLfu7aunhlpJS2M9ap8qP_iAEwCFmXs9TG0Xs0AIvdGF5gsH70qAdmV0HxD8dV5Aprx5laHg3jP_9sYBJfBzzg19CA.webp"
+  },
+  {
+    "anime": "파이널 판타지 언리미티드",
+    "type": "OP",
+    "song": "Over the FANTASY",
+    "vocal": "우에다 카나",
+    "videoId": "R5KDSkuLl14",
+    "videoIds": [
+      "R5KDSkuLl14",
+      "XwuAz8cGX9I"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=R5KDSkuLl14",
+    "source": "https://namu.wiki/w/%ED%8C%8C%EC%9D%B4%EB%84%90%20%ED%8C%90%ED%83%80%EC%A7%80%20%EC%96%B8%EB%A6%AC%EB%AF%B8%ED%8B%B0%EB%93%9C",
+    "year": 2001,
+    "image": "//i.namu.wiki/i/3FF1kkaTmd1Y0pQeRq06logJ4TqJeHIEGNPupiVA5G-RR9TkCscZb5ZapppLXlfk8ZZuTRfQBq9_psHJ3g9UqeAwmk6JzwhRrqxy3vk7atK61FBIgAtFqDEM-c5XtD-Gr_On-CdNxlAL4SBI9smRaA.webp"
+  },
+  {
+    "anime": "팬티 & 스타킹 with 가터벨트",
+    "type": "OP",
+    "song": "Theme for Panty & Stocking",
+    "vocal": "Hoshina Anniversary",
+    "videoId": "3MSfNREzELw",
+    "videoIds": [
+      "3MSfNREzELw",
+      "HEstmPvabqk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=3MSfNREzELw",
+    "source": "https://namu.wiki/w/%ED%8C%AC%ED%8B%B0%20%26%20%EC%8A%A4%ED%83%80%ED%82%B9%20with%20%EA%B0%80%ED%84%B0%EB%B2%A8%ED%8A%B8",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/aiwKfKfPRVGvP8hZPjvUdGQ8OtUcf8GAJmkTBJvnu_z5U0L52mymu-jop96VfvsHSpg9isFXbFPCd_bUDc4pab62x9VbO02qpSy0JHtSXegJ-z0IBPqA4kkXRqyvK8WuQLLryi2K4lQeWzY9MJhWlw.webp"
+  },
+  {
+    "anime": "메이플스토리(TVA)",
+    "type": "OP",
+    "song": "Scratch On The Heart",
+    "vocal": "윤하",
+    "videoId": "i2exDgcRLC8",
+    "videoIds": [
+      "i2exDgcRLC8",
+      "4e_vwUgzDJw"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=i2exDgcRLC8",
+    "source": "https://namu.wiki/w/%EB%A9%94%EC%9D%B4%ED%94%8C%EC%8A%A4%ED%86%A0%EB%A6%AC(TVA)",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/nUFVAI_bAvT3Kze7EAdbmb_khfHBaWezVg5oUTTqkZUV1k8JI-gwg6ofZxpLRSLwCh4rb5S7vq92hkgqPVpllj5hXT6KKevXjxEBjjFIC7yriR4YMwo2CGoDvB08c1w7DRaukYZgRWvQixAVqdwgug.webp"
+  },
+  {
+    "anime": "행복 그래피티",
+    "type": "OP",
+    "song": "幸せについて私が知っている5つの方法 행복에 관해 내가 알고 있는 5가지 방법",
+    "vocal": "사카모토 마아야",
+    "videoId": "p-hd9tDYOw0",
+    "videoIds": [
+      "p-hd9tDYOw0",
+      "FYiilURv16M"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=p-hd9tDYOw0",
+    "source": "https://namu.wiki/w/%ED%96%89%EB%B3%B5%20%EA%B7%B8%EB%9E%98%ED%94%BC%ED%8B%B0",
+    "year": 2015,
+    "image": "//i.namu.wiki/i/5NStOnDkXWtoqIUju5n6Mr8EBtREZ3yQjGVRDaGK5KutW4ghTu0acmizy-_hZDlrgJLOReXPhccpKAcxWsFM0LDIa4n6hOUdUitAer2iYBPsxcL0TGRyKd9SZ5RRGiXH9CXIQEOZ06zQuNQOTv8sMA.webp"
+  },
+  {
+    "anime": "마법의 아이돌 파스텔 유미",
+    "type": "OP",
+    "song": "金のリボンでRockして 금 리본으로 Rock해줘",
+    "vocal": "시가 마리코(志賀真理子)",
+    "videoId": "ZUALgLVy0io",
+    "videoIds": [
+      "ZUALgLVy0io",
+      "Nj7dL9aWzf8"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=ZUALgLVy0io",
+    "source": "https://namu.wiki/w/%EB%A7%88%EB%B2%95%EC%9D%98%20%EC%95%84%EC%9D%B4%EB%8F%8C%20%ED%8C%8C%EC%8A%A4%ED%85%94%20%EC%9C%A0%EB%AF%B8",
+    "year": 1980,
+    "image": "//i.namu.wiki/i/SPw4gSGk46noYQRIfZYMjIGagTiXGZW_ro_oxPfMPCxR6VP3oSifsGqJgtRACzEgbi2B1qinUhs9oqdxsXllCV1EINEN-R0Y3oQPMCNZN_oDlaqKLNfyDTH8mA6pAekT5Hw3In0cj3CjVvTnaSDBgw.webp"
+  },
+  {
+    "anime": "마법전쟁/애니메이션",
+    "type": "OP",
+    "song": "閃光のPRISONER",
+    "vocal": "난리 유카",
+    "videoId": "Q3bGanoMu5A",
+    "videoIds": [
+      "Q3bGanoMu5A",
+      "dy-XiII4Ywo"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=Q3bGanoMu5A",
+    "source": "https://namu.wiki/w/%EB%A7%88%EB%B2%95%EC%A0%84%EC%9F%81/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2014,
+    "image": "//i.namu.wiki/i/DOUiJL2hc3KPpcBPejzyj6v5Axa6pLkx8xvomQ68qT9jv_HwbY1HbkHgIewu2x8_450KY6X9A41kRDUKEt7_J8CusFlo4n5L310c7Ur-NoCDNvSLLwbQrYkbPvSQIId-DN5pKufNNQpvO1G3g3_Fyg.webp"
+  },
+  {
+    "anime": "비너스 버서스 바이러스",
+    "type": "OP",
+    "song": "Bravin' Bad Brew",
+    "vocal": "Riryka",
+    "videoId": "EmHscukg28I",
+    "videoIds": [
+      "EmHscukg28I",
+      "DsrUX2UeuZE"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=EmHscukg28I",
+    "source": "https://namu.wiki/w/%EB%B9%84%EB%84%88%EC%8A%A4%20%EB%B2%84%EC%84%9C%EC%8A%A4%20%EB%B0%94%EC%9D%B4%EB%9F%AC%EC%8A%A4",
+    "year": 2007,
+    "image": "//i.namu.wiki/i/JPWA9PLSgzcTlFBRx6A1-RMI_mo0vfP_r3bBD-ayJNKvdHXpoEVcBBdirx-WutRO29sp5xt-vJx4hxPS30hhSbbaTGD3A-bvEQ-aHxYA3mMkQSwuG-DfMQWm3Shn-_Y6Y1c_6ecikrRZcmS2pNzO0g.webp"
+  },
+  {
+    "anime": "알기 쉬운 현대마법",
+    "type": "OP",
+    "song": "programming for non-fiction",
+    "vocal": "아소 나츠코(麻生夏子)",
+    "videoId": "sAu9h9HLdGY",
+    "videoIds": [
+      "sAu9h9HLdGY",
+      "MiXsVjlu74E"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=sAu9h9HLdGY",
+    "source": "https://namu.wiki/w/%EC%95%8C%EA%B8%B0%20%EC%89%AC%EC%9A%B4%20%ED%98%84%EB%8C%80%EB%A7%88%EB%B2%95",
+    "year": 2009,
+    "image": "//i.namu.wiki/i/s22EpmKCpKHQn27VcsL-B48n69klhrPZ-cg0PNQhwChRow7Y9HVSMp9PTQSNjAyV_CgWZUw_SUVpVrXS7dkkXCmDrTZ4BWTU8wYmp-1Ul6_OOxROAgB8cCqDTckDeibOMjaGRZvRSNhnL5nivocoNg.webp"
+  },
+  {
+    "anime": "쇼콜라의 마법",
+    "type": "ED",
+    "song": "The Labyrinth ~ショコラの魔法~ The Labyrinth ~쇼콜라의 마법~",
+    "vocal": "이자쿠 리나 , 신소희",
+    "videoId": "9CYJ-VzKevU",
+    "videoIds": [
+      "9CYJ-VzKevU",
+      "SPUXWj9tUJk"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=9CYJ-VzKevU",
+    "source": "https://namu.wiki/w/%EC%87%BC%EC%BD%9C%EB%9D%BC%EC%9D%98%20%EB%A7%88%EB%B2%95",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/yyxMUOILSL9REbCkK0LHxLe_o68_e_hhARRcZT14B5hI45vvduxHgdqFt8ntyes7UN0PgIL2Q6kz0smZipB3LvFVhgEjzZAC01eLgJCJUgx-O1P7oUtRAk_HavpNfL8ov2koyRBZaC-QB4YlFnGAJg.webp"
+  },
+  {
+    "anime": "슬레이어즈 Revolution",
+    "type": "OP",
+    "song": "Plenty of grit",
+    "vocal": "하야시바라 메구미",
+    "videoId": "iIJN7X65ETE",
+    "videoIds": [
+      "iIJN7X65ETE",
+      "8NF-RdAkTTg"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=iIJN7X65ETE",
+    "source": "https://namu.wiki/w/%EC%8A%AC%EB%A0%88%EC%9D%B4%EC%96%B4%EC%A6%88%20Revolution",
+    "year": 2008,
+    "image": "//i.namu.wiki/i/dlOa-gYjw1lWrNz7ZqVR4MtPa5dYlljvxIH9t-FsV0rmOUE31llP3h_vriLA4C52JFpqKl-7dxNLRNLKEcOP8qxJn5zbPFN0tgRbWeA3lgk0TVuobX9sRRryfZH3wbwajCJf-vLOXrrr_8rvPAax0A.webp"
+  },
+  {
+    "anime": "신이 없는 일요일/애니메이션",
+    "type": "OP",
+    "song": "birth",
+    "vocal": "키타무라 에리 [1]",
+    "videoId": "At9Abkapnlk",
+    "videoIds": [
+      "At9Abkapnlk",
+      "Q_djXKktpkM"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=At9Abkapnlk",
+    "source": "https://namu.wiki/w/%EC%8B%A0%EC%9D%B4%20%EC%97%86%EB%8A%94%20%EC%9D%BC%EC%9A%94%EC%9D%BC/%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/BTYGmAR4nGDj9YE2aYyypDL72_xFBLWWYJdSY7_WgUh87qf4auAgDGw6PZvoLghQPcB1MMgSd6GWU6YGPUcZKChFny40XK2-u4HKLJfGkY7L0_PQ_eNcmnDBSdmj6a5-53yi3ybA1YKAgqsJTu29YQ.webp"
+  },
+  {
+    "anime": "언젠가는 대마왕",
+    "type": "OP",
+    "song": "REALOVE:REALIFE",
+    "vocal": "스피어",
+    "videoId": "-LlCBeVEXHU",
+    "videoIds": [
+      "-LlCBeVEXHU"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=-LlCBeVEXHU",
+    "source": "https://namu.wiki/w/%EC%96%B8%EC%A0%A0%EA%B0%80%EB%8A%94%20%EB%8C%80%EB%A7%88%EC%99%95",
+    "year": 2010,
+    "image": "//i.namu.wiki/i/6yy4L_2yBCZE9UGKCwxJY1bwh6rsfnvbIS7Oe4ECb-GTuOGJLA129CIge7eUmbc5iWVXxtLOfIkW-lSmLh9manbhqixgl6Q826_tIO1fAlihOG20KBJ0LDUQufpt4UXBvDlosotTCDUevQI7McIlrg.webp"
+  },
+  {
+    "anime": "로그 호라이즌(애니메이션 1기)",
+    "type": "OP",
+    "song": "database feat. TAKUMA(10-FEET)",
+    "vocal": "MAN WITH A MISSION",
+    "videoId": "lb-4z6mOPHc",
+    "videoIds": [
+      "lb-4z6mOPHc",
+      "oXGzRiuOrtc"
+    ],
+    "videoUrl": "https://www.youtube.com/watch?v=lb-4z6mOPHc",
+    "source": "https://namu.wiki/w/%EB%A1%9C%EA%B7%B8%20%ED%98%B8%EB%9D%BC%EC%9D%B4%EC%A6%8C(%EC%95%A0%EB%8B%88%EB%A9%94%EC%9D%B4%EC%85%98%201%EA%B8%B0)",
+    "year": 2013,
+    "image": "//i.namu.wiki/i/kK597ivCKWpStAAYJCrchAbmgdQQ_0O6doxlbQN_zo94lxsAYV_W8TIf4m7d2Y5XElt4o9VYHs3jutuTQpGLWliODewtmx-VWSgurSZCgkMl-8Kt9jgKQl1GpOGAcl-m2Ob3Yg-zdw3JoGgxhIE5yw.webp"
   }
 ]
