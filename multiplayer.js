@@ -332,6 +332,16 @@ function enterRoom(){
   $("#nicknameLabel").textContent=nickname;
   $("#hostBadge").hidden=!isHost;
   $("#hostControls").hidden=!isHost;
+  $("#hostAudioShare").hidden=!isHost;
+  $("#participantAudioStart").hidden=isHost;
+  if(!isHost){
+    $("#playerTools").hidden=true;
+    $("#playerStatus").textContent="YouTube 비활성 · 호스트 오디오 대기";
+    participantStartAudio().catch(console.warn);
+  }else{
+    $("#streamStatus").textContent="오디오 공유를 시작해주세요";
+    initYouTube();
+  }
   registerDisconnectCleanup();
   applyHostControlUI();
 
@@ -573,6 +583,154 @@ function setQuizMediaMetadata(revealed=false){
   } catch(e) { console.debug("Media Session metadata unavailable", e); }
 }
 
+
+// ===== HOST AUDIO RELAY (WebRTC) =====
+// 호스트만 YouTube를 로드한다. 참가자는 YouTube iframe을 만들지 않고,
+// 호스트가 사용자가 선택한 브라우저 탭의 오디오를 WebRTC로 받는다.
+const rtcPeers=new Map();
+let hostCaptureStream=null;
+let rtcSignalUnsubs=[];
+let participantPC=null;
+let participantAudio=null;
+
+const RTC_CONFIG={iceServers:[
+  {urls:"stun:stun.l.google.com:19302"},
+  {urls:"stun:stun1.l.google.com:19302"}
+]};
+
+function rtcRoomBase(){ return `aniRooms/${roomCode}/rtc`; }
+function rtcCleanupSignals(){
+  rtcSignalUnsubs.forEach(fn=>{try{fn();}catch(e){}});
+  rtcSignalUnsubs=[];
+}
+function closeRTC(){
+  rtcCleanupSignals();
+  rtcPeers.forEach(pc=>{try{pc.close();}catch(e){}});
+  rtcPeers.clear();
+  if(participantPC){try{participantPC.close();}catch(e){} participantPC=null;}
+  if(participantAudio){participantAudio.srcObject=null;}
+}
+async function hostStartAudioShare(){
+  if(!isHost) return;
+  if(!navigator.mediaDevices?.getDisplayMedia){
+    alert("이 브라우저는 탭 오디오 공유를 지원하지 않습니다.");
+    return;
+  }
+  try{
+    const stream=await navigator.mediaDevices.getDisplayMedia({
+      video:true,
+      audio:true,
+      preferCurrentTab:true,
+      selfBrowserSurface:"include",
+      surfaceSwitching:"exclude",
+      systemAudio:"include"
+    });
+    if(!stream.getAudioTracks().length){
+      stream.getTracks().forEach(t=>t.stop());
+      alert("오디오가 포함되지 않았습니다. 공유 창에서 '탭 오디오 공유'를 체크하고 다시 시도해주세요.");
+      return;
+    }
+    hostCaptureStream=stream;
+    // 참가자에게 영상은 보내지 않고 오디오 트랙만 보낸다.
+    stream.getVideoTracks().forEach(t=>t.enabled=false);
+    stream.getTracks().forEach(t=>t.onended=()=>{
+      if(hostCaptureStream===stream){
+        hostCaptureStream=null;
+        $("#streamStatus").textContent="오디오 공유 꺼짐";
+      }
+    });
+    $("#streamStatus").textContent="오디오 공유 중";
+    await set(ref(db,`${rtcRoomBase()}/capture`),{active:true,at:Date.now()});
+    watchHostJoinRequests();
+    // 이미 대기 중인 참가자도 연결
+    const snap=await get(ref(db,`${rtcRoomBase()}/requests`));
+    const reqs=snap.val()||{};
+    for(const pid of Object.keys(reqs)) await hostOfferTo(pid);
+  }catch(e){
+    console.warn("[QUIZ RTC] capture cancelled/failed",e);
+    alert(`오디오 공유 시작 실패\n${e.message||e}`);
+  }
+}
+async function hostOfferTo(pid){
+  if(!isHost||!hostCaptureStream||rtcPeers.has(pid)) return;
+  const pc=new RTCPeerConnection(RTC_CONFIG);
+  rtcPeers.set(pid,pc);
+  hostCaptureStream.getAudioTracks().forEach(track=>pc.addTrack(track,hostCaptureStream));
+  pc.onicecandidate=e=>{
+    if(e.candidate) push(ref(db,`${rtcRoomBase()}/hostCandidates/${pid}`)).set(e.candidate.toJSON());
+  };
+  pc.onconnectionstatechange=()=>{
+    if(["failed","closed","disconnected"].includes(pc.connectionState)){
+      try{pc.close();}catch(e){}
+      rtcPeers.delete(pid);
+    }
+  };
+  const answerRef=ref(db,`${rtcRoomBase()}/answers/${pid}`);
+  const candRef=ref(db,`${rtcRoomBase()}/participantCandidates/${pid}`);
+  rtcSignalUnsubs.push(onValue(answerRef,async s=>{
+    const a=s.val();
+    if(a&&pc.signalingState==="have-local-offer"){
+      try{await pc.setRemoteDescription(a);}catch(e){}
+    }
+  }));
+  rtcSignalUnsubs.push(onValue(candRef,s=>{
+    const vals=s.val()||{};
+    Object.values(vals).forEach(c=>pc.addIceCandidate(c).catch(()=>{}));
+  }));
+  const offer=await pc.createOffer();
+  await pc.setLocalDescription(offer);
+  await set(ref(db,`${rtcRoomBase()}/offers/${pid}`),{type:offer.type,sdp:offer.sdp});
+}
+function watchHostJoinRequests(){
+  if(!isHost||!db) return;
+  const r=ref(db,`${rtcRoomBase()}/requests`);
+  rtcSignalUnsubs.push(onValue(r,s=>{
+    const reqs=s.val()||{};
+    Object.keys(reqs).forEach(pid=>hostOfferTo(pid));
+  }));
+}
+async function participantStartAudio(){
+  if(isHost||!db) return;
+  if(!participantAudio){
+    participantAudio=document.createElement("audio");
+    participantAudio.id="hostRelayAudio";
+    participantAudio.autoplay=true;
+    participantAudio.playsInline=true;
+    participantAudio.style.display="none";
+    document.body.appendChild(participantAudio);
+  }
+  await set(ref(db,`${rtcRoomBase()}/requests/${playerId}`),{nickname,at:Date.now()});
+  onDisconnect(ref(db,`${rtcRoomBase()}/requests/${playerId}`)).remove();
+
+  participantPC=new RTCPeerConnection(RTC_CONFIG);
+  participantPC.ontrack=e=>{
+    participantAudio.srcObject=e.streams[0];
+    participantAudio.play().then(()=>{
+      $("#streamStatus").textContent="호스트 오디오 수신 중";
+    }).catch(()=>{
+      $("#streamStatus").textContent="오디오 시작 버튼을 눌러주세요";
+      $("#participantAudioStart").hidden=false;
+    });
+  };
+  participantPC.onicecandidate=e=>{
+    if(e.candidate) push(ref(db,`${rtcRoomBase()}/participantCandidates/${playerId}`)).set(e.candidate.toJSON());
+  };
+  const offerRef=ref(db,`${rtcRoomBase()}/offers/${playerId}`);
+  const hcRef=ref(db,`${rtcRoomBase()}/hostCandidates/${playerId}`);
+  rtcSignalUnsubs.push(onValue(offerRef,async s=>{
+    const offer=s.val();
+    if(!offer||participantPC.currentRemoteDescription) return;
+    await participantPC.setRemoteDescription(offer);
+    const ans=await participantPC.createAnswer();
+    await participantPC.setLocalDescription(ans);
+    await set(ref(db,`${rtcRoomBase()}/answers/${playerId}`),{type:ans.type,sdp:ans.sdp});
+  }));
+  rtcSignalUnsubs.push(onValue(hcRef,s=>{
+    const vals=s.val()||{};
+    Object.values(vals).forEach(c=>participantPC.addIceCandidate(c).catch(()=>{}));
+  }));
+}
+
 // YouTube player
 function injectYouTubeAPI(){
   if(apiLoaded)return;apiLoaded=true;
@@ -614,6 +772,7 @@ function setupCandidates(q){
   $("#candidateText").textContent=`후보 ${candidateIds.length}개`;
 }
 function cueCurrentCandidate(){
+  if(!isHost) return;
   if(!ytReady||!ytPlayer||!candidateIds.length)return;
   $("#candidateText").textContent=`후보 ${candidateIndex+1}/${candidateIds.length}`;
   ytPlayer.loadVideoById({videoId:candidateIds[candidateIndex],startSeconds:0});
@@ -623,6 +782,15 @@ function cueCurrentCandidate(){
   },300);
 }
 
+$("#hostAudioShare").onclick=hostStartAudioShare;
+$("#participantAudioStart").onclick=()=>{
+  if(participantAudio){
+    participantAudio.play().then(()=>{
+      $("#participantAudioStart").hidden=true;
+      $("#streamStatus").textContent="호스트 오디오 수신 중";
+    }).catch(e=>alert(`오디오 재생 실패\n${e.message||e}`));
+  }
+};
 $("#audioPlay").onclick=async()=>{
   if(!isHost || !ytReady)return;
   ytPlayer.playVideo();

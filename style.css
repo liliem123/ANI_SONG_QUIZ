@@ -87,3 +87,7 @@ button{border:0;border-radius:10px;padding:9px 13px;font-weight:800;cursor:point
 .video-curtain.quiz-locked{pointer-events:auto!important;cursor:default;touch-action:none}
 .youtube-visual-shell.quiz-locked .youtube-compact,
 .youtube-visual-shell.quiz-locked iframe{pointer-events:none!important}
+
+.stream-tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:8px 0}
+.stream-tools button{background:#25322f;color:#7ce5c6}
+#streamStatus{font-size:.9rem;color:#89939f}
