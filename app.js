@@ -381,25 +381,80 @@ $("#yearSelect").onchange=e=>{
   if(selectedMode==="year")applyMode();
 };
 
-fetch(`./data/quiz.json?v=${Date.now()}`, {cache:"no-store"})
-  .then(r=>r.json())
-  .then(xs=>{
-    allData=applyLocalBlocked(xs);
+function normalizeQuizPayload(payload){
+  let rows = payload;
+  if(!Array.isArray(rows) && payload && typeof payload==="object"){
+    rows = payload.quiz || payload.items || payload.questions || payload.data || [];
+  }
+  if(!Array.isArray(rows)) return [];
+
+  return rows.map((x,i)=>{
+    if(!x || typeof x!=="object") return null;
+
+    const anime = x.anime || x.animeTitle || x.anime_title || x.title || x.work || "";
+    const song = x.song || x.songTitle || x.song_title || x.music || "";
+    const vocal = x.vocal || x.artist || x.singer || "";
+    const type = x.type || x.songType || x.song_type || "";
+    const image = x.image || x.imageUrl || x.image_url || x.thumbnail || "";
+
+    let ids = Array.isArray(x.videoIds) ? x.videoIds.filter(Boolean) : [];
+    if(!ids.length && x.videoId) ids=[x.videoId];
+    if(!ids.length && x.youtubeId) ids=[x.youtubeId];
+    if(!ids.length && x.youtube_id) ids=[x.youtube_id];
+
+    // 기존 데이터 형식을 그대로 유지하면서 UI가 쓰는 표준 필드만 보강한다.
+    return {
+      ...x,
+      anime,
+      song,
+      vocal,
+      type,
+      image,
+      videoIds:[...new Set(ids)],
+      videoId:ids[0] || x.videoId || "",
+      __row:i
+    };
+  }).filter(Boolean);
+}
+
+async function loadQuizData(){
+  const url=`./data/quiz.json?v=${Date.now()}`;
+  try{
+    const r=await fetch(url,{cache:"no-store"});
+    if(!r.ok) throw new Error(`quiz.json HTTP ${r.status}`);
+    const payload=await r.json();
+    const rows=normalizeQuizPayload(payload);
+
+    // 여기서는 영상 재생 가능 여부나 대표 이미지 유무로 문제를 제거하지 않는다.
+    // 대표 이미지/정답 정보는 expose() 때만 표시하고, 영상 후보 문제는 재생 단계에서 처리한다.
+    allData=rows.filter(x=>x.anime || x.song);
+
+    console.log("[ANI SONG QUIZ] quiz rows:", rows.length, "usable:", allData.length);
+
     if(!allData.length){
+      $("#game").hidden=true;
+      $("#complete").hidden=true;
       $("#empty").hidden=false;
       $("#empty h2").textContent="출제할 문제가 없습니다.";
-      $("#empty p").textContent="quiz.json은 불러왔지만 videoId/videoIds가 있는 문제가 없습니다.";
+      $("#empty p").textContent=`quiz.json 로드 성공 / 원본 ${rows.length}건 / 사용 가능 ${allData.length}건`;
       return;
     }
+
+    $("#empty").hidden=true;
     buildYearOptions();
     data=[...allData];
     order=shuffle([...data.keys()]);
     $("#game").hidden=false;
     loadQuestion();
     injectYouTubeAPI();
-  })
-  .catch(err=>{
-    console.error(err);
+  }catch(err){
+    console.error("[ANI SONG QUIZ] quiz load error:",err);
+    $("#game").hidden=true;
+    $("#complete").hidden=true;
     $("#empty").hidden=false;
-    $("#empty p").textContent="data/quiz.json을 불러오지 못했습니다.";
-  });
+    $("#empty h2").textContent="문제 데이터를 불러오지 못했습니다.";
+    $("#empty p").textContent=String(err && err.message ? err.message : err);
+  }
+}
+
+loadQuizData();
