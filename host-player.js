@@ -40,7 +40,13 @@ window.onYouTubeIframeAPIReady=()=>{
           bc.postMessage({type:"playing"});
         }
         if(e.data===YT.PlayerState.PAUSED)$("#status").textContent="일시정지";
+      },      onError:e=>{
+        const code=Number(e.data||0);
+        const map={100:"삭제/비공개 영상",101:"외부 재생 차단",150:"외부 재생 차단"};
+        $("#status").textContent=`YouTube 오류 ${code} · ${map[code]||"재생 실패"}`;
+        bc.postMessage({type:"yt-error",code});
       },
+
       onAutoplayBlocked:()=>{
         $("#status").textContent="자동재생이 차단되었습니다. 아래 재생 허용 버튼을 눌러주세요.";
         document.getElementById("unlock").hidden=false;

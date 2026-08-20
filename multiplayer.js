@@ -638,6 +638,16 @@ function ensureHostPlayerChannel(){
         $("#streamStatus").textContent="HOST AUDIO PLAYER 준비 완료 · 문제 동기화 중";
         syncDedicatedPlayerLoad();
         setTimeout(syncDedicatedPlayerLoad,300);
+      }else if(msg.type==="yt-error"){
+        const code=Number(msg.code||0);
+        $("#playerStatus").textContent=`YouTube 오류 ${code} · 다음 후보 확인 중`;
+        if([100,101,150].includes(code) && candidateIndex+1<candidateIds.length){
+          candidateIndex++;
+          $("#candidateText").textContent=`후보 ${candidateIndex+1}/${candidateIds.length}`;
+          setTimeout(syncDedicatedPlayerLoad,200);
+        }else{
+          $("#streamStatus").textContent=`재생 가능한 YouTube 후보가 없습니다. (오류 ${code})`;
+        }
       }else if(msg.type==="playing"){
         $("#streamStatus").textContent=hostCaptureStream
           ? "HOST AUDIO PLAYER 재생 중 · 오디오 신호 확인 중"
