@@ -632,11 +632,26 @@ let hostPlayerBC=null;
 function ensureHostPlayerChannel(){
   if(!hostPlayerBC){
     hostPlayerBC=new BroadcastChannel("quiz-host-player-v1");
+    hostPlayerBC.onmessage=e=>{
+      const msg=e.data||{};
+      if(msg.type==="ready"){
+        $("#streamStatus").textContent="HOST AUDIO PLAYER 준비 완료 · 문제 동기화 중";
+        syncDedicatedPlayerLoad();
+        setTimeout(syncDedicatedPlayerLoad,300);
+      }else if(msg.type==="playing"){
+        $("#streamStatus").textContent=hostCaptureStream
+          ? "HOST AUDIO PLAYER 재생 중 · 오디오 신호 확인 중"
+          : "HOST AUDIO PLAYER 재생 중 · 공유 시작 필요";
+      }else if(msg.type==="blocked"){
+        $("#streamStatus").textContent="HOST AUDIO PLAYER 자동재생 차단 · 플레이어 탭에서 재생 허용 필요";
+      }
+    };
   }
   return hostPlayerBC;
 }
 function openDedicatedHostPlayer(){
   if(!isHost)return;
+  ensureHostPlayerChannel();
   if(!hostPlayerWindow||hostPlayerWindow.closed){
     hostPlayerWindow=window.open("./host-player.html","QUIZ_HOST_AUDIO_PLAYER");
   }
@@ -646,6 +661,8 @@ function openDedicatedHostPlayer(){
   }
   hostPlayerWindow.focus();
   setTimeout(syncDedicatedPlayerLoad,600);
+  setTimeout(syncDedicatedPlayerLoad,1500);
+  setTimeout(syncDedicatedPlayerLoad,3000);
 }
 function dedicatedPost(msg){
   try{ensureHostPlayerChannel().postMessage(msg);}catch(e){console.warn("[QUIZ RTC] player channel",e);}

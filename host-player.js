@@ -35,8 +35,16 @@ window.onYouTubeIframeAPIReady=()=>{
     events:{
       onReady:()=>{ready=true;player.setVolume(100);$("#status").textContent="준비 완료";if(pending)apply(pending);bc.postMessage({type:"ready"});},
       onStateChange:e=>{
-        if(e.data===YT.PlayerState.PLAYING)$("#status").textContent="재생 중";
+        if(e.data===YT.PlayerState.PLAYING){
+          $("#status").textContent="재생 중";
+          bc.postMessage({type:"playing"});
+        }
         if(e.data===YT.PlayerState.PAUSED)$("#status").textContent="일시정지";
+      },
+      onAutoplayBlocked:()=>{
+        $("#status").textContent="자동재생이 차단되었습니다. 아래 재생 허용 버튼을 눌러주세요.";
+        document.getElementById("unlock").hidden=false;
+        bc.postMessage({type:"blocked"});
       }
     }
   });
@@ -45,3 +53,21 @@ const s=document.createElement("script");
 s.src="https://www.youtube.com/iframe_api";
 document.head.appendChild(s);
 window.addEventListener("beforeunload",()=>bc.close());
+
+document.addEventListener("DOMContentLoaded",()=>{
+  const btn=document.createElement("button");
+  btn.id="unlock";
+  btn.hidden=true;
+  btn.textContent="▶ 재생 허용";
+  btn.style.cssText="margin-top:12px;padding:12px 18px;font-size:18px;font-weight:800;border:0;border-radius:10px;cursor:pointer";
+  btn.onclick=()=>{
+    try{
+      player?.playVideo();
+      btn.hidden=true;
+      $("#status").textContent="재생 허용됨";
+    }catch(e){
+      $("#status").textContent=`재생 허용 실패: ${e.message||e}`;
+    }
+  };
+  document.querySelector("main")?.appendChild(btn);
+});
