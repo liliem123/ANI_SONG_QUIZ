@@ -340,7 +340,6 @@ function enterRoom(){
     participantStartAudio().catch(console.warn);
   }else{
     $("#streamStatus").textContent="오디오 공유를 시작해주세요";
-    initYouTube();
   }
   registerDisconnectCleanup();
   applyHostControlUI();
@@ -733,6 +732,10 @@ async function participantStartAudio(){
 
 // YouTube player
 function injectYouTubeAPI(){
+  if(!isHost){
+    $("#playerStatus").textContent="YouTube 비활성 · 호스트 오디오 대기";
+    return;
+  }
   if(apiLoaded)return;apiLoaded=true;
   window.onYouTubeIframeAPIReady=()=>{
     ytPlayer=new YT.Player("player",{
