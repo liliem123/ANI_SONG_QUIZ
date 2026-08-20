@@ -626,6 +626,42 @@ function monitorAudioSignal(stream,which){
   }catch(e){console.warn("[QUIZ RTC] audio monitor failed",e);}
 }
 
+
+let hostPlayerWindow=null;
+let hostPlayerBC=null;
+function ensureHostPlayerChannel(){
+  if(!hostPlayerBC){
+    hostPlayerBC=new BroadcastChannel("quiz-host-player-v1");
+  }
+  return hostPlayerBC;
+}
+function openDedicatedHostPlayer(){
+  if(!isHost)return;
+  if(!hostPlayerWindow||hostPlayerWindow.closed){
+    hostPlayerWindow=window.open("./host-player.html","QUIZ_HOST_AUDIO_PLAYER");
+  }
+  if(!hostPlayerWindow){
+    alert("호스트 오디오 플레이어 탭이 차단되었습니다. 팝업을 허용해주세요.");
+    return;
+  }
+  hostPlayerWindow.focus();
+  setTimeout(syncDedicatedPlayerLoad,600);
+}
+function dedicatedPost(msg){
+  try{ensureHostPlayerChannel().postMessage(msg);}catch(e){console.warn("[QUIZ RTC] player channel",e);}
+}
+function syncDedicatedPlayerLoad(){
+  if(!isHost||!currentQuestion)return;
+  const vid=candidateIds[candidateIndex]||currentQuestion.videoId||"";
+  if(!vid)return;
+  dedicatedPost({
+    type:"load",
+    videoId:vid,
+    state:roomState?.playback?.state||"playing",
+    position:Number(roomState?.playback?.position||0)
+  });
+}
+
 // ===== HOST AUDIO RELAY (WebRTC) =====
 // 호스트만 YouTube를 로드한다. 참가자는 YouTube iframe을 만들지 않고,
 // 호스트가 사용자가 선택한 브라우저 탭의 오디오를 WebRTC로 받는다.
@@ -654,6 +690,7 @@ function closeRTC(){
 }
 async function hostStartAudioShare(){
   if(!isHost) return;
+  openDedicatedHostPlayer();
   if(!navigator.mediaDevices?.getDisplayMedia){
     alert("이 브라우저는 탭 오디오 공유를 지원하지 않습니다.");
     return;
@@ -668,14 +705,13 @@ async function hostStartAudioShare(){
         autoGainControl:false,
         restrictOwnAudio:false
       },
-      preferCurrentTab:true,
-      selfBrowserSurface:"include",
+      selfBrowserSurface:"exclude",
       surfaceSwitching:"exclude",
       systemAudio:"include"
     });
     if(!stream.getAudioTracks().length){
       stream.getTracks().forEach(t=>t.stop());
-      alert("오디오가 포함되지 않았습니다. 공유 창에서 '탭 오디오 공유'를 체크하고 다시 시도해주세요.");
+      alert("오디오가 포함되지 않았습니다. HOST AUDIO PLAYER 탭을 선택하고 '탭 오디오 공유'를 체크한 뒤 다시 시도해주세요.");
       return;
     }
     const audioTrack=stream.getAudioTracks()[0];
@@ -811,10 +847,16 @@ function injectYouTubeAPI(){
         onStateChange:e=>{
           if(e.data===YT.PlayerState.PLAYING){
             $("#playerStatus").textContent=isHost?"재생 중":"호스트와 동기화 · 재생 중";
-            if(isHost && !applyingRemotePlayback) hostSetPlayback("playing");
+            if(isHost && !applyingRemotePlayback){
+              dedicatedPost({type:"play",position:getPlayerPosition()});
+              hostSetPlayback("playing");
+            }
           }else if(e.data===YT.PlayerState.PAUSED){
             $("#playerStatus").textContent=isHost?"일시정지":"호스트와 동기화 · 일시정지";
-            if(isHost && !applyingRemotePlayback) hostSetPlayback("paused");
+            if(isHost && !applyingRemotePlayback){
+              dedicatedPost({type:"pause",position:getPlayerPosition()});
+              hostSetPlayback("paused");
+            }
           }else if(e.data===YT.PlayerState.BUFFERING){
             $("#playerStatus").textContent="버퍼링 중...";
           }
@@ -836,6 +878,7 @@ function setupCandidates(q){
 }
 function cueCurrentCandidate(){
   if(!isHost) return;
+  setTimeout(syncDedicatedPlayerLoad,50);
   if(!ytReady||!ytPlayer||!candidateIds.length)return;
   $("#candidateText").textContent=`후보 ${candidateIndex+1}/${candidateIds.length}`;
   ytPlayer.loadVideoById({videoId:candidateIds[candidateIndex],startSeconds:0});
@@ -857,17 +900,20 @@ $("#participantAudioStart").onclick=()=>{
 $("#audioPlay").onclick=async()=>{
   if(!isHost || !ytReady)return;
   ytPlayer.playVideo();
+  dedicatedPost({type:"play",position:getPlayerPosition()});
   await hostSetPlayback("playing");
 };
 $("#audioPause").onclick=async()=>{
   if(!isHost || !ytReady)return;
   ytPlayer.pauseVideo();
+  dedicatedPost({type:"pause",position:getPlayerPosition()});
   await hostSetPlayback("paused");
 };
 $("#audioRestart").onclick=async()=>{
   if(!isHost || !ytReady)return;
   ytPlayer.seekTo(0,true);
   ytPlayer.playVideo();
+  dedicatedPost({type:"restart"});
   await hostSetPlayback("playing",0);
 };
 $("#volume").oninput=e=>{

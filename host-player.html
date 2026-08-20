@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ANI SONG QUIZ HOST AUDIO PLAYER</title>
+<style>
+*{box-sizing:border-box}
+body{margin:0;background:#0e1116;color:#f4f5f7;font-family:system-ui,-apple-system,"Noto Sans KR",sans-serif}
+main{max-width:1000px;margin:0 auto;padding:18px}
+h1{margin:0 0 6px;font-size:24px}
+p{color:#98a2ad;margin:0 0 14px}
+#wrap{position:relative;aspect-ratio:16/9;background:#000;border-radius:14px;overflow:hidden}
+#player,#player iframe{width:100%!important;height:100%!important}
+#cover{position:absolute;inset:0;z-index:5;background:#12161d;display:flex;align-items:center;justify-content:center;text-align:center;font-size:24px;font-weight:800;pointer-events:none}
+.status{margin-top:12px;padding:10px 12px;background:#171b21;border:1px solid #2c333d;border-radius:10px}
+.tip{margin-top:10px;color:#7ce5c6;font-weight:700}
+</style>
+</head>
+<body>
+<main>
+  <h1>ANI SONG QUIZ HOST AUDIO PLAYER</h1>
+  <p>이 탭은 참가자에게 전달할 YouTube 오디오 전용입니다.</p>
+  <div id="wrap">
+    <div id="player"></div>
+    <div id="cover">퀴즈 오디오 재생 탭</div>
+  </div>
+  <div class="status" id="status">메인 퀴즈의 명령을 기다리는 중...</div>
+  <div class="tip">메인 퀴즈에서 오디오 공유를 시작할 때 반드시 이 탭을 선택하고 '탭 오디오 공유'를 체크하세요.</div>
+</main>
+<script src="./host-player.js"></script>
+</body>
+</html>
