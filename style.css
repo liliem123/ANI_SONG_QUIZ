@@ -91,3 +91,5 @@ button{border:0;border-radius:10px;padding:9px 13px;font-weight:800;cursor:point
 .stream-tools{display:flex;gap:8px;align-items:center;flex-wrap:wrap;margin:8px 0}
 .stream-tools button{background:#25322f;color:#7ce5c6}
 #streamStatus{font-size:.9rem;color:#89939f}
+
+.stream-tools button{white-space:nowrap}

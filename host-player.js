@@ -77,3 +77,20 @@ document.addEventListener("DOMContentLoaded",()=>{
   };
   document.querySelector("main")?.appendChild(btn);
 });
+
+document.addEventListener("DOMContentLoaded",()=>{
+  const btn=document.createElement("button");
+  btn.id="manualPlay";
+  btn.textContent="▶ 현재 문제 재생 확인";
+  btn.style.cssText="margin-top:12px;padding:12px 18px;font-size:18px;font-weight:800;border:0;border-radius:10px;cursor:pointer";
+  btn.onclick=()=>{
+    try{
+      if(!player){$("#status").textContent="YouTube 플레이어 준비 중...";return;}
+      player.setVolume(100);
+      player.unMute();
+      player.playVideo();
+      $("#status").textContent="수동 재생 요청 · 이 탭에서 실제 소리가 들리는지 확인하세요";
+    }catch(e){$("#status").textContent=`재생 실패: ${e.message||e}`;}
+  };
+  document.querySelector("main")?.appendChild(btn);
+});

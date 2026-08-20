@@ -332,6 +332,7 @@ function enterRoom(){
   $("#nicknameLabel").textContent=nickname;
   $("#hostBadge").hidden=!isHost;
   $("#hostControls").hidden=!isHost;
+  $("#hostPlayerOpen").hidden=!isHost;
   $("#hostAudioShare").hidden=!isHost;
   $("#participantAudioStart").hidden=isHost;
   if(!isHost){
@@ -717,24 +718,20 @@ function closeRTC(){
 }
 async function hostStartAudioShare(){
   if(!isHost) return;
-  openDedicatedHostPlayer();
+  if(!hostPlayerWindow || hostPlayerWindow.closed){
+    alert("먼저 ① HOST AUDIO PLAYER 열기를 눌러 전용 플레이어에서 실제 소리가 나는지 확인해주세요.");
+    return;
+  }
+  syncDedicatedPlayerLoad();
   if(!navigator.mediaDevices?.getDisplayMedia){
     alert("이 브라우저는 탭 오디오 공유를 지원하지 않습니다.");
     return;
   }
   try{
+    alert("공유 선택창에서 반드시 'HOST AUDIO PLAYER' 탭을 선택하고, '탭 오디오 공유'를 체크해주세요. 메인 퀴즈 탭을 선택하면 소리가 전달되지 않을 수 있습니다.");
     const stream=await navigator.mediaDevices.getDisplayMedia({
-      video:{displaySurface:"browser"},
-      audio:{
-        suppressLocalAudioPlayback:false,
-        echoCancellation:false,
-        noiseSuppression:false,
-        autoGainControl:false,
-        restrictOwnAudio:false
-      },
-      selfBrowserSurface:"exclude",
-      surfaceSwitching:"exclude",
-      systemAudio:"include"
+      video:true,
+      audio:true
     });
     if(!stream.getAudioTracks().length){
       stream.getTracks().forEach(t=>t.stop());
@@ -743,6 +740,7 @@ async function hostStartAudioShare(){
     }
     const audioTrack=stream.getAudioTracks()[0];
     audioTrack.enabled=true;
+    $("#streamStatus").textContent=`오디오 트랙 캡처됨: ${audioTrack.label||"이름 없음"} · 신호 확인 중`;
     const audioSettings=audioTrack.getSettings ? audioTrack.getSettings() : {};
     console.log("[QUIZ RTC] captured audio settings",audioSettings);
     if(audioSettings.restrictOwnAudio===true){
@@ -750,8 +748,9 @@ async function hostStartAudioShare(){
     }
     hostCaptureStream=stream;
     monitorAudioSignal(stream,"host");
-    // 참가자에게 영상은 보내지 않고 오디오 트랙만 보낸다.
-    stream.getVideoTracks().forEach(t=>t.enabled=false);
+    // WebRTC에는 아래 hostOfferTo()에서 오디오 트랙만 addTrack한다.
+    // 캡처 자체의 video track은 끄지 않는다. 일부 브라우저에서 캡처 파이프라인이
+    // 함께 멈추는 문제를 피하기 위함이다.
     stream.getTracks().forEach(t=>t.onended=()=>{
       if(hostCaptureStream===stream){
         hostCaptureStream=null;
@@ -915,6 +914,10 @@ function cueCurrentCandidate(){
   },300);
 }
 
+$("#hostPlayerOpen").onclick=()=>{
+  openDedicatedHostPlayer();
+  $("#streamStatus").textContent="HOST AUDIO PLAYER에서 영상이 재생되고 실제 소리가 나는지 먼저 확인하세요";
+};
 $("#hostAudioShare").onclick=hostStartAudioShare;
 $("#participantAudioStart").onclick=()=>{
   if(participantAudio){
