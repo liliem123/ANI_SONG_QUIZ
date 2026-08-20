@@ -583,6 +583,49 @@ function setQuizMediaMetadata(revealed=false){
 }
 
 
+
+let hostAudioMonitor=null;
+let participantAudioMonitor=null;
+
+function stopAudioMonitor(which){
+  const ctx=which==="host"?hostAudioMonitor:participantAudioMonitor;
+  if(ctx){ try{ctx.close();}catch(e){} }
+  if(which==="host")hostAudioMonitor=null;
+  else participantAudioMonitor=null;
+}
+
+function monitorAudioSignal(stream,which){
+  try{
+    stopAudioMonitor(which);
+    const AC=window.AudioContext||window.webkitAudioContext;
+    if(!AC)return;
+    const ctx=new AC();
+    const src=ctx.createMediaStreamSource(stream);
+    const analyser=ctx.createAnalyser();
+    analyser.fftSize=1024;
+    src.connect(analyser);
+    const buf=new Uint8Array(analyser.fftSize);
+    let heard=false, checks=0;
+    const timer=setInterval(()=>{
+      if(ctx.state==="closed"){clearInterval(timer);return;}
+      analyser.getByteTimeDomainData(buf);
+      let sum=0;
+      for(const v of buf){const d=(v-128)/128;sum+=d*d;}
+      const rms=Math.sqrt(sum/buf.length);
+      checks++;
+      if(rms>0.004){
+        heard=true;
+        if(which==="host") $("#streamStatus").textContent="오디오 공유 중 · 소리 신호 감지";
+        else $("#streamStatus").textContent="호스트 오디오 수신 중 · 소리 신호 감지";
+      }else if(checks>=12&&!heard){
+        if(which==="host") $("#streamStatus").textContent="오디오 트랙은 있으나 소리 신호 없음 · 탭 오디오 공유를 확인하세요";
+        else $("#streamStatus").textContent="연결됨 · 아직 오디오 신호가 없습니다";
+      }
+    },250);
+    if(which==="host")hostAudioMonitor=ctx;else participantAudioMonitor=ctx;
+  }catch(e){console.warn("[QUIZ RTC] audio monitor failed",e);}
+}
+
 // ===== HOST AUDIO RELAY (WebRTC) =====
 // 호스트만 YouTube를 로드한다. 참가자는 YouTube iframe을 만들지 않고,
 // 호스트가 사용자가 선택한 브라우저 탭의 오디오를 WebRTC로 받는다.
@@ -617,8 +660,14 @@ async function hostStartAudioShare(){
   }
   try{
     const stream=await navigator.mediaDevices.getDisplayMedia({
-      video:true,
-      audio:true,
+      video:{displaySurface:"browser"},
+      audio:{
+        suppressLocalAudioPlayback:false,
+        echoCancellation:false,
+        noiseSuppression:false,
+        autoGainControl:false,
+        restrictOwnAudio:false
+      },
       preferCurrentTab:true,
       selfBrowserSurface:"include",
       surfaceSwitching:"exclude",
@@ -629,7 +678,15 @@ async function hostStartAudioShare(){
       alert("오디오가 포함되지 않았습니다. 공유 창에서 '탭 오디오 공유'를 체크하고 다시 시도해주세요.");
       return;
     }
+    const audioTrack=stream.getAudioTracks()[0];
+    audioTrack.enabled=true;
+    const audioSettings=audioTrack.getSettings ? audioTrack.getSettings() : {};
+    console.log("[QUIZ RTC] captured audio settings",audioSettings);
+    if(audioSettings.restrictOwnAudio===true){
+      console.warn("[QUIZ RTC] restrictOwnAudio=true; current-tab audio may be filtered.");
+    }
     hostCaptureStream=stream;
+    monitorAudioSignal(stream,"host");
     // 참가자에게 영상은 보내지 않고 오디오 트랙만 보낸다.
     stream.getVideoTracks().forEach(t=>t.enabled=false);
     stream.getTracks().forEach(t=>t.onended=()=>{
@@ -704,6 +761,9 @@ async function participantStartAudio(){
   participantPC=new RTCPeerConnection(RTC_CONFIG);
   participantPC.ontrack=e=>{
     participantAudio.srcObject=e.streams[0];
+    participantAudio.muted=false;
+    participantAudio.volume=1.0;
+    monitorAudioSignal(e.streams[0],"participant");
     participantAudio.play().then(()=>{
       $("#streamStatus").textContent="호스트 오디오 수신 중";
     }).catch(()=>{
